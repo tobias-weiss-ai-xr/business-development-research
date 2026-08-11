@@ -1,0 +1,95 @@
+name: Validate Papers
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'papers.yaml'
+      - 'scripts/'
+      - 'tools/'
+      - 'requirements.txt'
+  pull_request:
+    paths:
+      - 'papers.yaml'
+      - 'scripts/'
+      - 'tools/'
+      - 'requirements.txt'
+  schedule:
+    - cron: '0 6 * * 1'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Validate papers.yaml
+        run: python3 scripts/validate_papers.py
+
+      - name: Check README is up-to-date
+        run: python3 scripts/generate_readme.py --check
+
+  discover:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Discover new papers from arXiv
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/fetch/fetch_new_papers.py --months 1 --sleep 3 --create-pr
+
+  refresh:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml requests matplotlib
+
+      - name: Regenerate statistics, charts and README
+        run: |
+          python3 scripts/analysis/generate_analysis.py
+          python3 scripts/visualize_statistics.py
+          python3 scripts/generate_readme.py
+          python3 tools/topic_planner.py --top 10
+
+      - name: Commit updates
+        run: |
+          git config user.name "business-development-research bot"
+          git config user.email "bot@tobias-weiss.org"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: refresh statistics, charts and topics"
+          git push

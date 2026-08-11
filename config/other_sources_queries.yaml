@@ -1,0 +1,183 @@
+# Multi-source queries for business development research
+# Focus: B2B marketing surveys, pricing research, AI adoption studies,
+# entrepreneurship reviews (CrossRef catches Springer/Elsevier/ACM journals)
+
+# ── AI adoption & transformation (CrossRef — journal-heavy) ──
+- source: crossref
+  query: AI adoption small and medium enterprises
+  category: ai-adoption
+  subcategory_hint: application
+- source: crossref
+  query: artificial intelligence adoption firms
+  category: ai-adoption
+  subcategory_hint: mechanism
+- source: crossref
+  query: digital transformation SME
+  category: ai-adoption
+  subcategory_hint: application
+- source: crossref
+  query: generative AI business impact
+  category: ai-adoption
+  subcategory_hint: evaluation
+- source: crossref
+  query: AI literacy workforce
+  category: ai-adoption
+  subcategory_hint: method
+- source: crossref
+  query: EU AI Act compliance
+  category: ai-adoption
+  subcategory_hint: application
+- source: dblp
+  query: large language model enterprise adoption
+  category: ai-adoption
+  subcategory_hint: application
+
+# ── Marketing & content (CrossRef — journal-heavy) ──
+- source: crossref
+  query: B2B marketing strategy
+  category: b2b-marketing
+  subcategory_hint: method
+- source: crossref
+  query: lead generation effectiveness
+  category: b2b-marketing
+  subcategory_hint: evaluation
+- source: crossref
+  query: content marketing research
+  category: content-marketing
+  subcategory_hint: method
+- source: crossref
+  query: digital marketing effectiveness
+  category: digital-marketing
+  subcategory_hint: evaluation
+- source: crossref
+  query: social media marketing small business
+  category: digital-marketing
+  subcategory_hint: application
+- source: crossref
+  query: search engine optimization research
+  category: digital-marketing
+  subcategory_hint: method
+- source: crossref
+  query: influencer marketing effectiveness
+  category: content-marketing
+  subcategory_hint: evaluation
+
+# ── Sales & customers (CrossRef + DBLP) ──
+- source: crossref
+  query: sales forecasting machine learning
+  category: sales-strategy
+  subcategory_hint: method
+- source: crossref
+  query: churn prediction subscription
+  category: customer-retention
+  subcategory_hint: method
+- source: dblp
+  query: customer churn prediction
+  category: customer-retention
+  subcategory_hint: application
+- source: crossref
+  query: customer lifetime value model
+  category: growth-metrics
+  subcategory_hint: method
+- source: crossref
+  query: net promoter score customer loyalty
+  category: customer-success
+  subcategory_hint: evaluation
+- source: crossref
+  query: customer acquisition cost
+  category: customer-acquisition
+  subcategory_hint: evaluation
+- source: crossref
+  query: referral programs effectiveness
+  category: customer-acquisition
+  subcategory_hint: evaluation
+
+# ── Pricing & business models (CrossRef — journal-heavy) ──
+- source: crossref
+  query: subscription pricing model
+  category: pricing-strategy
+  subcategory_hint: method
+- source: crossref
+  query: willingness to pay measurement
+  category: pricing-strategy
+  subcategory_hint: evaluation
+- source: crossref
+  query: dynamic pricing revenue
+  category: pricing-strategy
+  subcategory_hint: method
+- source: crossref
+  query: freemium business model
+  category: business-models
+  subcategory_hint: method
+- source: crossref
+  query: platform business model economics
+  category: business-models
+  subcategory_hint: theory
+- source: crossref
+  query: software as a service business model
+  category: business-models
+  subcategory_hint: application
+
+# ── Entrepreneurship & strategy (CrossRef — journal-heavy) ──
+- source: crossref
+  query: entrepreneurial ecosystem startup
+  category: entrepreneurship
+  subcategory_hint: mechanism
+- source: crossref
+  query: venture capital performance
+  category: entrepreneurship
+  subcategory_hint: evaluation
+- source: crossref
+  query: small business growth strategies
+  category: entrepreneurship
+  subcategory_hint: application
+- source: crossref
+  query: solo entrepreneurs gig economy
+  category: entrepreneurship
+  subcategory_hint: application
+- source: crossref
+  query: competitive advantage small firm
+  category: competitive-intelligence
+  subcategory_hint: theory
+- source: crossref
+  query: strategic alliances performance
+  category: partnerships
+  subcategory_hint: evaluation
+- source: crossref
+  query: market entry strategy international
+  category: go-to-market
+  subcategory_hint: method
+
+# ── Surveys / reviews (catch synthesis papers across sources) ──
+- source: crossref
+  query: digital marketing survey
+  category: digital-marketing
+  subcategory_hint: review
+- source: crossref
+  query: AI adoption survey
+  category: ai-adoption
+  subcategory_hint: review
+- source: crossref
+  query: customer behavior survey
+  category: market-analysis
+  subcategory_hint: review
+- source: crossref
+  query: pricing survey
+  category: pricing-strategy
+  subcategory_hint: review
+- source: crossref
+  query: entrepreneurship survey
+  category: entrepreneurship
+  subcategory_hint: review
+- source: dblp
+  query: churn prediction survey
+  category: customer-retention
+  subcategory_hint: review
+- source: dblp
+  query: recommender system marketing
+  category: digital-marketing
+  subcategory_hint: review
+- source: dblp
+  query: dynamic pricing survey
+  category: pricing-strategy
+  subcategory_hint: review

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Business Development Research Corpus — Analysis</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  body { background:#0d1117; color:#e6edf3; font-family: -apple-system, "Segoe UI", sans-serif; margin:0; padding:24px; }
+  h1 { color:#58a6ff; font-size:1.4em; }
+  h2 { color:#e6edf3; font-size:1.1em; margin-top:32px; }
+  .grid { display:flex; flex-wrap:wrap; gap:16px; }
+  .card { background:#161b22; border:1px solid #30363d; border-radius:8px; padding:14px 18px; min-width:180px; }
+  .card .num { font-size:1.6em; font-weight:600; color:#3fb950; }
+  .card .lbl { font-size:0.8em; color:#8b949e; }
+  .bar { height:16px; border-radius:3px; margin:2px 0; }
+  .row { display:flex; align-items:center; gap:8px; margin:4px 0; }
+  .row .name { width:220px; text-align:right; font-size:0.85em; color:#c9d1d9; }
+  .row .count { width:50px; font-size:0.8em; color:#8b949e; }
+  svg text { fill:#e6edf3; font-size:11px; }
+</style>
+</head>
+<body>
+<h1>Business Development Research Corpus — Analysis</h1>
+<div id="summary" class="grid"></div>
+
+<h2>Papers by Discipline</h2>
+<div id="cats"></div>
+
+<h2>Papers per Year</h2>
+<div id="timeline"></div>
+
+<h2>Category × Subcategory Heatmap</h2>
+<div id="heatmap"></div>
+
+<script>
+fetch('business_analysis.json').then(r => r.json()).then(data => {
+  const total = data.categories.reduce((s,c) => s + c.count, 0);
+
+  const summary = document.getElementById('summary');
+  const cells = [
+    ['Total papers', total],
+    ['Categories', data.categories.length],
+    ['Subcategories', data.subcategories.length],
+    ['Filled cells', data.categories.flatMap(c => c.subcategories).filter(s => s.count > 0).length],
+  ];
+  cells.forEach(([lbl, num]) => {
+    const el = document.createElement('div'); el.className = 'card';
+    el.innerHTML = `<div class="num">${num}</div><div class="lbl">${lbl}</div>`;
+    summary.appendChild(el);
+  });
+
+  // bars per category
+  const catsDiv = document.getElementById('cats');
+  const max = Math.max(...data.categories.map(c => c.count));
+  data.categories.forEach(c => {
+    const row = document.createElement('div'); row.className = 'row';
+    row.innerHTML = `<div class="name">${c.name}</div><div style="flex:1"><div class="bar" style="width:${c.count/max*100}%;background:${c.color}"></div></div><div class="count">${c.count}</div>`;
+    catsDiv.appendChild(row);
+  });
+
+  // timeline
+  const years = {};
+  data.timeline.forEach(([ym]) => { const y = ym.slice(0,4); years[y] = (years[y]||0)+1; });
+  const ySorted = Object.keys(years).sort();
+  const svgW = 1000, svgH = 240;
+  const svg = d3.select('#timeline').append('svg').attr('width', svgW).attr('height', svgH);
+  const x = d3.scaleBand().domain(ySorted).range([40, svgW-10]);
+  const y = d3.scaleLinear().domain([0, d3.max(Object.values(years))]).range([svgH-30, 10]);
+  svg.selectAll('rect').data(ySorted).enter().append('rect')
+     .attr('x', d => x(d)).attr('y', d => y(years[d])).attr('width', x.bandwidth()-3)
+     .attr('height', d => svgH-30-y(years[d])).attr('fill', '#58a6ff');
+  svg.selectAll('text').data(ySorted).enter().append('text')
+     .attr('x', d => x(d) + x.bandwidth()/2).attr('y', svgH-12)
+     .attr('text-anchor', 'middle').text(d => d);
+
+  // heatmap
+  const cats = data.categories, subs = data.subcategories;
+  const cell = 26;
+  const hmW = subs.length*cell + 160, hmH = cats.length*cell + 40;
+  const hsvg = d3.select('#heatmap').append('svg').attr('width', hmW).attr('height', hmH);
+  const maxCell = Math.max(...cats.flatMap(c => c.subcategories.map(s => s.count)));
+  cats.forEach((c, i) => {
+    hsvg.append('text').attr('x', 150).attr('y', i*cell + cell/2 + 4).attr('text-anchor', 'end').text(c.name);
+    c.subcategories.forEach((s, j) => {
+      const v = s.count;
+      hsvg.append('rect').attr('x', 160 + j*cell).attr('y', i*cell + 4).attr('width', cell-2).attr('height', cell-2)
+        .attr('fill', v === 0 ? '#21262d' : d3.interpolateViridis(v/maxCell))
+        .append('title').text(`${c.name} / ${s.name}: ${v}`);
+      if (v > 0) hsvg.append('text').attr('x', 160 + j*cell + (cell-2)/2).attr('y', i*cell + cell/2 + 4)
+        .attr('text-anchor', 'middle').attr('fill', v > maxCell/2 ? '#fff' : '#0d1117').text(v);
+    });
+  });
+  subs.forEach((s, j) => hsvg.append('text').attr('x', 160 + j*cell + (cell-2)/2).attr('y', hmH - 12)
+    .attr('text-anchor', 'middle').text(s.id));
+});
+</script>
+</body>
+</html>
