@@ -1,143 +1,124 @@
-# Graph Paper Landscape Report
+# Business Development Paper Landscape Report
 
 **Generated:** 2026-08-11  
-**Corpus:** 18,143 papers (1980-2027) | 15,262 arXiv preprints · 2,881 journal/publisher records
+**Corpus:** 5,287 papers (2021-2026) | 1,071 arXiv preprints · 4,216 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
-| Graph Neural Networks | 2433 | 398 | 599 | +51% | 13% |
-| Knowledge Graphs | 1530 | 301 | 399 | +33% | 9% |
-| Graph Applications | 1526 | 348 | 287 | -18% | 7% |
-| Network Science | 1467 | 244 | 281 | +15% | 6% |
-| Graph RAG | 1047 | 370 | 510 | +38% | 12% |
-| Graph Embeddings | 980 | 156 | 124 | -21% | 3% |
-| Ontologies & Schema | 971 | 218 | 341 | +56% | 8% |
-| Graph Algorithms | 962 | 178 | 235 | +32% | 5% |
-| Graph Machine Learning | 959 | 193 | 137 | -29% | 4% |
-| Graph Theory | 952 | 156 | 226 | +45% | 5% |
-| Graph Security & OSINT | 946 | 238 | 239 | +0% | 6% |
-| KG Construction & IE | 887 | 145 | 176 | +21% | 4% |
-| Community Detection | 717 | 142 | 79 | -44% | 2% |
-| Temporal & Dynamic Graphs | 578 | 108 | 105 | -3% | 3% |
-| Graph Databases | 516 | 90 | 178 | +98% | 4% |
-| Semantic Web & Linked Data | 409 | 45 | 116 | +158% | 2% |
-| Distributed Graph Processing | 409 | 66 | 75 | +14% | 2% |
-| Graph Query Languages | 333 | 53 | 122 | +130% | 2% |
-| Graph Visualization | 262 | 46 | 61 | +33% | 1% |
-| Graph Analytics | 259 | 39 | 35 | -10% | 1% |
+| Digital Marketing & SEO | 394 | 29 | 115 | +297% | 10% |
+| Market Analysis & Research | 384 | 31 | 134 | +332% | 12% |
+| AI Adoption & Transformation | 380 | 111 | 63 | -43% | 9% |
+| Go-to-Market Strategy | 359 | 53 | 131 | +147% | 12% |
+| Content Marketing & Thought Leadership | 339 | 28 | 88 | +214% | 8% |
+| Pricing & Monetization | 292 | 30 | 19 | -37% | 2% |
+| Sales Strategy & Process | 265 | 32 | 54 | +69% | 5% |
+| Brand & Positioning | 262 | 30 | 19 | -37% | 2% |
+| Business Models & Innovation | 253 | 25 | 3 | -88% | 1% |
+| Product-Market Fit & Validation | 247 | 47 | 26 | -45% | 3% |
+| Sales Psychology & Negotiation | 235 | 75 | 82 | +9% | 10% |
+| B2B Marketing & Lead Gen | 232 | 32 | 171 | +434% | 15% |
+| Entrepreneurship & Small Business | 228 | 39 | 10 | -74% | 2% |
+| Customer Success & Expansion | 208 | 13 | 6 | -54% | 1% |
+| Growth Metrics & Analytics | 207 | 51 | 26 | -49% | 3% |
+| Partnerships & Alliances | 205 | 31 | 3 | -90% | 1% |
+| Customer Acquisition & Growth | 203 | 38 | 11 | -71% | 2% |
+| Competitive Intelligence | 202 | 16 | 7 | -56% | 1% |
+| Customer Retention & Churn | 197 | 32 | 5 | -84% | 0% |
+| Networking & Relationships | 195 | 17 | 0 | -100% | 0% |
 
 ## Research Aspects
 
-- **Theory** (theory): 2432 papers (13%) ######
-- **Mechanism** (mechanism): 1943 papers (11%) #####
-- **Method** (method): 2826 papers (16%) #######
-- **Application** (application): 5186 papers (29%) ##############
-- **Development** (development): 452 papers (2%) #
-- **Systems & Technology** (systems): 3199 papers (18%) ########
-- **Evaluation & Benchmarks** (evaluation): 1508 papers (8%) ####
-- **Reviews & Surveys** (review): 597 papers (3%) #
+- **Theory** (theory): 546 papers (10%) #####
+- **Mechanism** (mechanism): 618 papers (12%) #####
+- **Method** (method): 1844 papers (35%) #################
+- **Application** (application): 871 papers (16%) ########
+- **Development** (development): 95 papers (2%) 
+- **Systems & Technology** (systems): 877 papers (17%) ########
+- **Evaluation & Benchmarks** (evaluation): 152 papers (3%) #
+- **Reviews & Surveys** (review): 284 papers (5%) ##
 
 ## Year Trend
 
 | Year | Papers |
 |------|-------:|
-| 1980 | 4 |
-| 1981 | 1 |
-| 1995 | 1 |
-| 2000 | 1 |
-| 2007 | 1 |
-| 2008 | 1 |
-| 2009 | 4 |
-| 2010 | 8 |
-| 2011 | 3 |
-| 2012 | 3 |
-| 2013 | 7 |
-| 2014 | 6 |
-| 2015 | 7 |
-| 2016 | 4 |
-| 2017 | 15 |
-| 2018 | 5 |
-| 2019 | 5 |
-| 2020 | 10 |
-| 2021 | 919 |
-| 2022 | 2765 |
-| 2023 | 3032 |
-| 2024 | 3461 |
-| 2025 | 3534 |
-| 2026 | 4325 |
-| 2027 | 2 |
+| 2021 | 368 |
+| 2022 | 1145 |
+| 2023 | 1069 |
+| 2024 | 972 |
+| 2025 | 760 |
+| 2026 | 973 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
-| osint | 2 | 2 | 3.14× |
-| agentic | 245 | 279 | 2.76× |
-| graphrag | 192 | 285 | 2.12× |
-| agent | 760 | 1171 | 2.04× |
-| foundation model | 139 | 255 | 1.71× |
-| llm | 1344 | 2557 | 1.65× |
-| multimodal | 220 | 429 | 1.61× |
-| gql | 17 | 37 | 1.44× |
-| memory | 424 | 967 | 1.38× |
-| cypher | 37 | 84 | 1.38× |
-| causal | 147 | 340 | 1.36× |
-| supply chain | 32 | 75 | 1.34× |
+| agentic | 23 | 25 | 3.98× |
+| eu ai act | 3 | 4 | 3.24× |
+| saas | 7 | 10 | 3.03× |
+| lead generation | 18 | 29 | 2.69× |
+| ai literacy | 19 | 31 | 2.65× |
+| genai | 19 | 33 | 2.49× |
+| seo | 16 | 29 | 2.39× |
+| persuasion | 50 | 92 | 2.35× |
+| ai adoption | 39 | 72 | 2.34× |
+| training | 51 | 95 | 2.32× |
+| generative ai | 50 | 94 | 2.3× |
+| negotiation | 20 | 40 | 2.16× |
 
 ## Venue Landscape (Top Publishers)
 
 | Venue | Papers |
 |-------|-------:|
-| Zenodo (CERN European Organization for Nuclear Research) | 192 |
-| arXiv (Cornell University) | 98 |
-| Research Square | 62 |
-| Lecture notes in computer science | 49 |
-| Expert Systems with Applications | 48 |
-| Scientific Reports | 44 |
-| Knowledge-Based Systems | 35 |
-| Open MIND | 34 |
-| Cairn.info | 34 |
-| IEEE Transactions on Knowledge and Data Engineering | 33 |
+| Sustainability | 119 |
+| Zenodo (CERN European Organization for Nuclear Research) | 94 |
+| Journal of Business Research | 53 |
+| SSRN Electronic Journal | 48 |
+| The International Conference on Sustainable Economics Management and Accounting Proceeding | 39 |
+| Journal of the Association for Information Systems | 37 |
+| International Journal of Data and Network Science | 34 |
+| Journal of Retailing and Consumer Services | 34 |
+| Open MIND | 33 |
+| Technological Forecasting and Social Change | 31 |
 
 ## Top Authors
 
 | Author | Papers |
 |--------|-------:|
-| Jiaoyan Chen | 34 |
-| Xingsi Xue | 32 |
-| Yang Liu | 27 |
-| Yu Wang | 26 |
-| Heiko Paulheim | 24 |
-| Xin Wang | 23 |
-| Xiang Li | 22 |
-| Jason Li | 22 |
-| Wen Zhang | 22 |
-| Zhewei Wei | 21 |
+| Muhammad Turki Alshurideh | 8 |
+| Jayesh Rane | 7 |
+| Abdul Haeba Ramli | 7 |
+| Nancy Bocken | 7 |
+| Antonio Messeni Petruzzelli | 6 |
+| Mohammed T. Nuseir | 6 |
+| Ghaleb A. El Refae | 6 |
+| Abdullah Al Mamun | 6 |
+| Satish Kumar | 5 |
+| Weng Marc Lim | 5 |
 
 ## Hottest Cells
 
-- `graph-applications/application` — 695
-- `graph-neural-networks/application` — 617
-- `graph-theory/method` — 569
-- `graph-neural-networks/theory` — 532
-- `graph-security/application` — 481
-- `knowledge-graphs/application` — 459
-- `network-science/application` — 413
-- `graph-neural-networks/systems` — 408
-- `graph-neural-networks/mechanism` — 343
-- `graph-algorithms/method` — 320
+- `go-to-market/method` — 138
+- `content-marketing/method` — 116
+- `customer-success/method` — 116
+- `brand-building/method` — 115
+- `digital-marketing/method` — 111
+- `ai-adoption/method` — 110
+- `digital-marketing/systems` — 107
+- `product-market-fit/method` — 106
+- `sales-strategy/method` — 100
+- `market-analysis/method` — 97
 
 ## Thin Cells (White Space)
 
-- `distributed-graphs/review` — 5
-- `graph-theory/development` — 6
-- `graph-algorithms/review` — 7
-- `graph-analytics/review` — 7
-- `graph-analytics/development` — 8
-- `temporal-graphs/review` — 8
-- `community-detection/development` — 8
-- `graph-query-languages/review` — 10
-- `graph-theory/evaluation` — 11
-- `graph-embeddings/development` — 11
+- `partnerships/development` — 1
+- `pricing-strategy/development` — 1
+- `b2b-marketing/development` — 2
+- `customer-success/evaluation` — 2
+- `business-models/evaluation` — 2
+- `partnerships/evaluation` — 2
+- `sales-psychology/development` — 2
+- `customer-acquisition/evaluation` — 3
+- `customer-retention/review` — 3
+- `product-market-fit/evaluation` — 3
