@@ -1,0 +1,6 @@
+# Run after midnight-UTC reset: ai-literacy multi-query fetch (20 cats x 86 query
+# variants, ~1,000+ credits across hosts). Expected: modest yield (variant top-100s
+# largely known) + corpus refresh; deeper cursor passes over time.
+hosts: [tobias-weiss.org, chemie-lernen.org, contextual-intelligence.org, weiss@192.168.42.11]
+repos:
+  ai-literacy-research: {repo: ../ai-literacy-research, per-category: 100, months: 60}

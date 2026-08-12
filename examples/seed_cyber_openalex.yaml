@@ -1,0 +1,5 @@
+# Seed cyber-security-research via distributed OpenAlex (run after midnight-UTC reset:
+# each host gets a fresh 1,000-credit budget). 20 categories x 5 query variants.
+hosts: [tobias-weiss.org, chemie-lernen.org, contextual-intelligence.org, weiss@192.168.42.11]
+repos:
+  cyber-security-research: {repo: ../cyber-security-research, per-category: 100, months: 60}

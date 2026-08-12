@@ -1,0 +1,5 @@
+# Iteration round 2 (2026-08-12): deepen least-saturated repos
+hosts: [tobias-weiss.org, chemie-lernen.org, contextual-intelligence.org, weiss@192.168.42.11]
+repos:
+  dm-research:          {repo: ../dm-research,          per-category: 200, months: 60}
+  ai-literacy-research: {repo: ../ai-literacy-research, per-category: 150, months: 60}
