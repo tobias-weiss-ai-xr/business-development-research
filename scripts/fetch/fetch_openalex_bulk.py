@@ -128,6 +128,7 @@ def fetch_category(terms, months, per_category, sleep):
                 lurl = loc.get("landing_page_url") or ""
                 if "arxiv" in src or "arxiv" in lurl:
                     url = lurl.replace("http://", "https://")
+                    url = re.sub(r"(arxiv\.org/abs/\d{4}\.\d{4,5})v\d+", r"\1", url)
                     break
             if not url:
                 primary = work.get("primary_location") or {}
@@ -136,6 +137,9 @@ def fetch_category(terms, months, per_category, sleep):
                 url = work.get("doi") or ""
             if not url:
                 continue
+            mdoi = re.match(r"https?://doi\.org/10\.48550/arxiv\.(\d{4}\.\d{4,5})", url)
+            if mdoi:
+                url = "https://arxiv.org/abs/" + mdoi.group(1)
             date = sanitize_date(work.get("publication_date") or "")
             if not date:
                 date = sanitize_date(str(work.get("publication_year") or ""))

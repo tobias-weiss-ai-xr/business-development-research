@@ -9,6 +9,7 @@
 | [`research/bizdev_trends_2026.md`](research/bizdev_trends_2026.md) | Trend analysis for content planning |
 | [`research/landscape_report.md`](research/landscape_report.md) | Full corpus landscape analysis |
 | [`research/ai_adoption_deep_dive.md`](research/ai_adoption_deep_dive.md) | Deep-dive on the AI-adoption evidence base (core of the ALaaS offer) |
+| [`research/ai_adoption_transfer.md`](research/ai_adoption_transfer.md) | What the AI-adoption corpus teaches — transferable lessons for all projects |
 
 ## Topics (Generated)
 
