@@ -27,25 +27,29 @@ def score(p):
         "environment", "capability", "abstract", "venue"))
 
 
+def _load(path):
+    import yaml
+    return yaml.load(Path(path).read_text(), Loader=getattr(yaml, "CSafeLoader", yaml.SafeLoader))
+
+
 def main():
     if len(sys.argv) < 3:
         print(__doc__)
         sys.exit(1)
     repo, *hostfiles = sys.argv[1:]
-    local = yaml.safe_load(open(f"{repo}/papers.yaml"))["papers"]
+    local = _load(f"{repo}/papers.yaml")["papers"]
     by_key = {}
     for p in local:
         by_key[nkey(p)] = p
     added = {}
     for hf in hostfiles:
-        host = yaml.safe_load(open(hf))["papers"]
+        host = _load(hf)["papers"]
         for p in host:
             k = nkey(p)
             prev = by_key.get(k)
             if prev is None or score(p) > score(prev):
                 by_key[k] = p
-                added.setdefault(hf, 0)
-                added[hf] += 1
+                added[hf] = added.get(hf, 0) + 1
     merged = list(by_key.values())
     with open(f"{repo}/papers.yaml", "w") as f:
         yaml.safe_dump({"papers": merged}, f, allow_unicode=True, sort_keys=False, width=1000)

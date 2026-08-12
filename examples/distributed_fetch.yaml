@@ -1,0 +1,5 @@
+hosts: [tobias-weiss.org, chemie-lernen.org, contextual-intelligence.org, weiss@192.168.42.11]
+repos:
+  agent-learning-research: {repo: ../agent-learning-research, per-category: 100, months: 60}
+  dm-research:             {repo: ../dm-research,             per-category: 200, months: 60}
+  c2-ai-research:          {repo: ../c2-ai-research,          per-category: 100, months: 60}

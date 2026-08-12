@@ -9,6 +9,33 @@ ki-kompetenz-training.org and evidence for ALaaS offer decisions.
 | `trend_scanner.py` | Emerging trend detection (keyword bursts, growing cells) |
 | `brief_generator.py` | Full content briefs (title, outline, key papers) |
 | `landscape_analyzer.py` | Full corpus landscape report |
+| `distributed_openalex_fetch.py` | Sharded multi-host OpenAlex ingestion (429 circumvention, budget-aware, resumable) |
+| `merge_papers_hosts.py` | Union-merge host-fetched `papers.yaml` files (URL/DOI + title dedupe) |
+| `distributed_openalex_fetch.sh` | Lightweight bash launcher (deploy+launch only; superseded by the .py orchestrator) |
+
+## Distributed OpenAlex ingestion (429 circumvention)
+
+OpenAlex free tier = **1,000 credits/day per IP** (10 credits/page, resets midnight UTC).
+The four personal servers each have their own public IP, so running fetches on all of
+them multiplies the daily budget 4×. The orchestrator shards a repo's categories
+across hosts (each fetched once), probes live credit budgets, and merges results
+back into the corpus — one command, reproducible:
+
+```bash
+# single repo
+python3 tools/distributed_openalex_fetch.py ../agent-learning-research \
+  --hosts "tobias-weiss.org chemie-lernen.org contextual-intelligence.org weiss@192.168.42.11" \
+  --per-category 200 --commit --push
+
+# multi-repo weekly refresh (config-driven)
+python3 tools/distributed_openalex_fetch.py --config refresh.yaml --dry-run   # plan
+python3 tools/distributed_openalex_fetch.py --config refresh.yaml --push     # execute
+```
+
+Hosts (see `~/.ssh/config.d/personal.conf`): tobias-weiss.org 178.254.31.104 ·
+chemie-lernen.org 178.254.2.90 · contextual-intelligence.org 195.90.216.159 ·
+tobi-yoga (via VPN) 91.14.244.47. Config example lives at
+`examples/distributed_fetch.yaml`.
 
 All tools read `papers.yaml` at the repository root. Run them from anywhere —
 they resolve paths relative to the repo.
