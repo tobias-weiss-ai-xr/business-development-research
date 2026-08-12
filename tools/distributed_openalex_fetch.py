@@ -149,20 +149,26 @@ def deploy(host: str, repo: Path):
     remote = f"~/openalex/{repo.name}"
     ssh(host, f"mkdir -p {remote}/scripts/fetch")
     fetcher = repo / "scripts/fetch/fetch_openalex_bulk.py"
-    for local in [fetcher, repo / "papers.yaml", *detect_deps(fetcher)]:
-        dest = remote if local == repo / "papers.yaml" else f"{remote}/scripts"
-        subprocess.run(["rsync", "-az", "--quiet", str(local), f"{host}:{dest}/"],
-                       check=True, capture_output=True)
+    # preserve relative paths (scripts/fetch/..., scripts/...) via rsync -R from repo root
+    rel_files = ["papers.yaml", f"scripts/fetch/{fetcher.name}"]
+    rel_files += [str(d.relative_to(repo)) for d in detect_deps(fetcher)]
+    subprocess.run(["rsync", "-azR", "--quiet", *rel_files, f"{host}:{remote}/"],
+                   cwd=repo, check=True, capture_output=True)
     ssh(host, 'python3 -c "import requests, yaml" 2>/dev/null || python3 -m pip install --user --quiet pyyaml requests || true')
 
 
 def launch(host: str, repo: Path, cats: list[str], per_category: int, months: int, sleep: int) -> str:
     remote = f"~/openalex/{repo.name}"
     cat_arg = ",".join(cats)
-    cmd = (f"cd {remote} && nohup python3 scripts/fetch/fetch_openalex_bulk.py "
+    # ssh -f: client detaches after auth; remote fetch keeps running (no nohup needed)
+    # DEVNULL (not capture_output): a captured pipe is inherited by the forked
+    # ssh child and keeps communicate() blocked until the remote fetch exits
+    cmd = (f"cd {remote} && python3 scripts/fetch/fetch_openalex_bulk.py "
            f"--per-category {per_category} --months {months} --sleep {sleep} "
-           f"--categories '{cat_arg}' > fetch.log 2>&1 & echo $!")
-    return ssh(host, cmd)
+           f"--categories '{cat_arg}' > fetch.log 2>&1 < /dev/null")
+    subprocess.run(["ssh", "-f", "-o", "ConnectTimeout=8", host, cmd],
+                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=30)
+    return ""
 
 
 def poll(repo: Path, hosts: list[str], timeout_s: int, poll_every: int = 30) -> bool:
@@ -172,7 +178,8 @@ def poll(repo: Path, hosts: list[str], timeout_s: int, poll_every: int = 30) -> 
         running = []
         for host in hosts:
             try:
-                n = ssh(host, f"ps aux | grep -v grep | grep -c 'python3 scripts/fetch/fetch_openalex' || true")
+                # bracket trick: pattern must not match the probe's own cmdline
+                n = ssh(host, f"ps aux | grep -v grep | grep -c 'python3 scripts/fetc[h]' || true")
             except Exception:
                 running.append(host)  # unreachable — assume still running
                 continue
@@ -186,7 +193,7 @@ def poll(repo: Path, hosts: list[str], timeout_s: int, poll_every: int = 30) -> 
                 credits = host_credits(h)
                 if credits <= 0:
                     print(f"  {h}: 0 credits — killing to avoid 429 backoff waste", flush=True)
-                    ssh(h, "pkill -f 'python3 scripts/fetch' || true")
+                    ssh(h, "pkill -f 'python3 scripts/fetc[h]' || true")
             except Exception:
                 pass
         print(f"  running: {running}", flush=True)
@@ -230,7 +237,7 @@ def merge(repo: Path, hostfiles: list[Path]):
     merged = list(by_key.values())
     _yaml_dump({"papers": merged}, repo / "papers.yaml")
     print(f"  merge: local={len(local)} union={len(merged)} (+{len(merged) - len(local)})")
-    return len(merged)
+    return len(merged), len(local)
 
 
 def validate(repo: Path) -> tuple[int, int]:
@@ -299,11 +306,17 @@ def run_repo(repo: Path, hosts: list[str], per_category: int, months: int, sleep
             print(f"  collect {h} failed: {e}")
 
     if hostfiles:
-        n = merge(repo, hostfiles)
+        n, n_local = merge(repo, hostfiles)
         errors, _ = validate(repo)
         print(f"validate: {errors} errors")
-        if errors and errors > 0:
+        changed = n != n_local
+        if errors == -1:
+            print("no validator — proceeding")
+        elif errors > 0:
             print("ERRORS present — not committing")
+            return
+        if not changed:
+            print("no new papers — skipping commit")
         elif commit:
             subprocess.run(["git", "-C", str(repo), "add", "papers.yaml"], check=True)
             subprocess.run(["git", "-C", str(repo), "commit", "-q", "-m",
