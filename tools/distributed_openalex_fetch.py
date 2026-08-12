@@ -171,18 +171,25 @@ def poll(repo: Path, hosts: list[str], timeout_s: int, poll_every: int = 30) -> 
     while time.time() - t0 < timeout_s:
         running = []
         for host in hosts:
-            n = ssh(host, f"ps aux | grep -v grep | grep -c 'python3 scripts/fetch/fetch_openalex' || true")
+            try:
+                n = ssh(host, f"ps aux | grep -v grep | grep -c 'python3 scripts/fetch/fetch_openalex' || true")
+            except Exception:
+                running.append(host)  # unreachable — assume still running
+                continue
             if n and n != "0":
                 running.append(host)
         if not running:
             print("  all hosts finished", flush=True)
             return True
-        credits = {h: host_credits(h) for h in running}
         for h in running:
-            if credits[h] <= 0:
-                print(f"  {h}: 0 credits — killing to avoid 429 backoff waste", flush=True)
-                ssh(h, "pkill -f 'python3 scripts/fetch' || true")
-        print(f"  running: {running} | credits: {credits}", flush=True)
+            try:
+                credits = host_credits(h)
+                if credits <= 0:
+                    print(f"  {h}: 0 credits — killing to avoid 429 backoff waste", flush=True)
+                    ssh(h, "pkill -f 'python3 scripts/fetch' || true")
+            except Exception:
+                pass
+        print(f"  running: {running}", flush=True)
         time.sleep(poll_every)
     return False
 
