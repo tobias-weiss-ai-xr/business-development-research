@@ -1,6 +1,11 @@
 # Article Topics (auto-generated)
 
 
+## Ai Adoption
+
+Evidence-based topic: 689 curated papers, 483 in the last 12 months.
+
+
 ## Digital Marketing
 
 Evidence-based topic: 394 curated papers, 144 in the last 12 months.
@@ -9,11 +14,6 @@ Evidence-based topic: 394 curated papers, 144 in the last 12 months.
 ## Market Analysis
 
 Evidence-based topic: 384 curated papers, 165 in the last 12 months.
-
-
-## Ai Adoption
-
-Evidence-based topic: 380 curated papers, 174 in the last 12 months.
 
 
 ## Go To Market

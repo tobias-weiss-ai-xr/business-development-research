@@ -1,7 +1,7 @@
 # Business Development Research — Literature Review
 
-**Generated:** 2026-08-11  
-**Corpus:** 5,287 papers across 20 categories
+**Generated:** 2026-08-15  
+**Corpus:** 5,596 papers across 20 categories
 
 > Synthesis of the business development research corpus. Category insights are drawn from title/abstract analysis of the papers themselves.
 
@@ -11,14 +11,14 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Digital Marketing & SEO | 394 |
-| 2 | Market Analysis & Research | 384 |
-| 3 | AI Adoption & Transformation | 380 |
+| 1 | AI Adoption & Transformation | 689 |
+| 2 | Digital Marketing & SEO | 394 |
+| 3 | Market Analysis & Research | 384 |
 | 4 | Go-to-Market Strategy | 359 |
 | 5 | Content Marketing & Thought Leadership | 339 |
 
 **Time span:** 2021–2026 (median year 2024)
-**Dominant aspects:** Method (1844), Systems & Technology (877), Application (871)
+**Dominant aspects:** Method (1871), Systems & Technology (987), Application (953)
 
 ---
 
@@ -30,12 +30,12 @@ Categories ranked by a momentum score combining recent output density with year-
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
 | B2B Marketing & Lead Gen | 232 | 185 | 20 | +825.0% | 80% | 15.4 |
 | Market Analysis & Research | 384 | 143 | 30 | +376.7% | 37% | 11.9 |
+| AI Adoption & Transformation | 689 | 418 | 104 | +301.9% | 61% | 34.8 |
 | Digital Marketing & SEO | 394 | 127 | 35 | +262.9% | 32% | 10.6 |
 | Go-to-Market Strategy | 359 | 147 | 56 | +162.5% | 41% | 12.2 |
 | Sales Psychology & Negotiation | 235 | 119 | 50 | +138.0% | 51% | 9.9 |
 | Content Marketing & Thought Leadership | 339 | 98 | 40 | +145.0% | 29% | 8.2 |
 | Sales Strategy & Process | 265 | 63 | 36 | +75.0% | 24% | 5.2 |
-| AI Adoption & Transformation | 380 | 109 | 104 | +4.8% | 29% | 9.1 |
 | Product-Market Fit & Validation | 247 | 42 | 50 | -16.0% | 17% | 3.5 |
 | Growth Metrics & Analytics | 207 | 42 | 56 | -25.0% | 20% | 3.5 |
 | Brand & Positioning | 262 | 28 | 34 | -17.6% | 11% | 2.3 |
@@ -73,11 +73,11 @@ Categories ranked by a momentum score combining recent output density with year-
 | `go-to-market/development` | 3 | 3 | 100% |
 | `market-analysis/development` | 6 | 5 | 83% |
 | `b2b-marketing/theory` | 25 | 20 | 80% |
+| `ai-adoption/evaluation` | 20 | 15 | 75% |
 | `sales-psychology/evaluation` | 4 | 3 | 75% |
 | `b2b-marketing/evaluation` | 4 | 3 | 75% |
 | `sales-psychology/review` | 7 | 5 | 71% |
 | `b2b-marketing/review` | 8 | 5 | 62% |
-| `entrepreneurship/evaluation` | 7 | 4 | 57% |
 
 ---
 
@@ -102,6 +102,20 @@ Top venues by paper count (where present in the metadata):
 
 
 ## Category Insights
+
+### AI Adoption & Transformation (`ai-adoption`)
+
+AI adoption is the fastest-moving category: firm-level productivity studies, AI literacy, EU AI Act compliance and digital transformation of SMEs. This is the core evidence base for KI-Kompetenz-Training's ALaaS positioning.
+
+**Corpus size:** 689 papers
+
+**Recent papers:**
+
+- [2026-08] "Death by a thousand taxonomies?": AI Risk Classification In Practice — https://arxiv.org/abs/2608.06831v1
+- [2026-08] A New Theory of Value for Post-AGI Economics — https://arxiv.org/abs/2608.01432v2
+- [2026-08] Navigating the skill diversity frontier: How skill complexity explains worker resilience — https://arxiv.org/abs/2608.02102v1
+
+---
 
 ### Digital Marketing & SEO (`digital-marketing`)
 
@@ -128,20 +142,6 @@ Market analysis research centers on segmentation, sizing and preference measurem
 - [2026-08] The nature and tensions of environmental management control in local authorities — https://shs.cairn.info/journal-gestion-et-management-public-2024-5-page-1c?lang=en
 - [2026-08] The rationale behind local elected representatives’ actions in the energy transition — https://shs.cairn.info/journal-gestion-et-management-public-2024-5-page-I41?lang=en
 - [2026-08] Patterns of pharmaceutical prescribing — https://lbsresearch.london.edu/view/lbs_authors/2362431e1e9fe64ea82060b81f1935a8.html>
-
----
-
-### AI Adoption & Transformation (`ai-adoption`)
-
-AI adoption is the fastest-moving category: firm-level productivity studies, AI literacy, EU AI Act compliance and digital transformation of SMEs. This is the core evidence base for KI-Kompetenz-Training's ALaaS positioning.
-
-**Corpus size:** 380 papers
-
-**Recent papers:**
-
-- [2026-08] "Death by a thousand taxonomies?": AI Risk Classification In Practice — https://arxiv.org/abs/2608.06831v1
-- [2026-08] A New Theory of Value for Post-AGI Economics — https://arxiv.org/abs/2608.01432v2
-- [2026-08] Navigating the skill diversity frontier: How skill complexity explains worker resilience — https://arxiv.org/abs/2608.02102v1
 
 ---
 

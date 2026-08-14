@@ -1,43 +1,43 @@
 # Business Development Paper Landscape Report
 
-**Generated:** 2026-08-11  
-**Corpus:** 5,287 papers (2021-2026) | 1,071 arXiv preprints · 4,216 journal/publisher records
+**Generated:** 2026-08-15  
+**Corpus:** 5,596 papers (2021-2026) | 1,380 arXiv preprints · 4,216 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
-| Digital Marketing & SEO | 394 | 29 | 115 | +297% | 10% |
-| Market Analysis & Research | 384 | 31 | 134 | +332% | 12% |
-| AI Adoption & Transformation | 380 | 111 | 63 | -43% | 9% |
-| Go-to-Market Strategy | 359 | 53 | 131 | +147% | 12% |
-| Content Marketing & Thought Leadership | 339 | 28 | 88 | +214% | 8% |
+| AI Adoption & Transformation | 689 | 205 | 278 | +36% | 27% |
+| Digital Marketing & SEO | 394 | 29 | 115 | +297% | 8% |
+| Market Analysis & Research | 384 | 31 | 134 | +332% | 9% |
+| Go-to-Market Strategy | 359 | 53 | 131 | +147% | 10% |
+| Content Marketing & Thought Leadership | 339 | 28 | 88 | +214% | 6% |
 | Pricing & Monetization | 292 | 30 | 19 | -37% | 2% |
-| Sales Strategy & Process | 265 | 32 | 54 | +69% | 5% |
+| Sales Strategy & Process | 265 | 32 | 54 | +69% | 4% |
 | Brand & Positioning | 262 | 30 | 19 | -37% | 2% |
 | Business Models & Innovation | 253 | 25 | 3 | -88% | 1% |
 | Product-Market Fit & Validation | 247 | 47 | 26 | -45% | 3% |
-| Sales Psychology & Negotiation | 235 | 75 | 82 | +9% | 10% |
-| B2B Marketing & Lead Gen | 232 | 32 | 171 | +434% | 15% |
-| Entrepreneurship & Small Business | 228 | 39 | 10 | -74% | 2% |
-| Customer Success & Expansion | 208 | 13 | 6 | -54% | 1% |
+| Sales Psychology & Negotiation | 235 | 75 | 82 | +9% | 8% |
+| B2B Marketing & Lead Gen | 232 | 32 | 171 | +434% | 12% |
+| Entrepreneurship & Small Business | 228 | 39 | 10 | -74% | 1% |
+| Customer Success & Expansion | 208 | 13 | 6 | -54% | 0% |
 | Growth Metrics & Analytics | 207 | 51 | 26 | -49% | 3% |
 | Partnerships & Alliances | 205 | 31 | 3 | -90% | 1% |
-| Customer Acquisition & Growth | 203 | 38 | 11 | -71% | 2% |
+| Customer Acquisition & Growth | 203 | 38 | 11 | -71% | 1% |
 | Competitive Intelligence | 202 | 16 | 7 | -56% | 1% |
 | Customer Retention & Churn | 197 | 32 | 5 | -84% | 0% |
 | Networking & Relationships | 195 | 17 | 0 | -100% | 0% |
 
 ## Research Aspects
 
-- **Theory** (theory): 546 papers (10%) #####
-- **Mechanism** (mechanism): 618 papers (12%) #####
-- **Method** (method): 1844 papers (35%) #################
-- **Application** (application): 871 papers (16%) ########
-- **Development** (development): 95 papers (2%) 
-- **Systems & Technology** (systems): 877 papers (17%) ########
-- **Evaluation & Benchmarks** (evaluation): 152 papers (3%) #
-- **Reviews & Surveys** (review): 284 papers (5%) ##
+- **Theory** (theory): 563 papers (10%) #####
+- **Mechanism** (mechanism): 664 papers (12%) #####
+- **Method** (method): 1871 papers (33%) ################
+- **Application** (application): 953 papers (17%) ########
+- **Development** (development): 98 papers (2%) 
+- **Systems & Technology** (systems): 987 papers (18%) ########
+- **Evaluation & Benchmarks** (evaluation): 167 papers (3%) #
+- **Reviews & Surveys** (review): 293 papers (5%) ##
 
 ## Year Trend
 
@@ -47,25 +47,25 @@
 | 2022 | 1145 |
 | 2023 | 1069 |
 | 2024 | 972 |
-| 2025 | 760 |
-| 2026 | 973 |
+| 2025 | 854 |
+| 2026 | 1188 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
-| agentic | 23 | 25 | 3.98× |
-| eu ai act | 3 | 4 | 3.24× |
-| saas | 7 | 10 | 3.03× |
-| lead generation | 18 | 29 | 2.69× |
-| ai literacy | 19 | 31 | 2.65× |
-| genai | 19 | 33 | 2.49× |
-| seo | 16 | 29 | 2.39× |
-| persuasion | 50 | 92 | 2.35× |
-| ai adoption | 39 | 72 | 2.34× |
-| training | 51 | 95 | 2.32× |
-| generative ai | 50 | 94 | 2.3× |
-| negotiation | 20 | 40 | 2.16× |
+| agentic | 37 | 39 | 3.47× |
+| eu ai act | 7 | 8 | 3.2× |
+| ai literacy | 48 | 60 | 2.92× |
+| genai | 44 | 58 | 2.77× |
+| generative ai | 118 | 162 | 2.66× |
+| training | 116 | 160 | 2.65× |
+| llm | 220 | 312 | 2.58× |
+| saas | 7 | 10 | 2.56× |
+| large language model | 181 | 269 | 2.46× |
+| lead generation | 18 | 29 | 2.27× |
+| ai adoption | 53 | 86 | 2.25× |
+| referral | 3 | 5 | 2.19× |
 
 ## Venue Landscape (Top Publishers)
 
@@ -99,16 +99,16 @@
 
 ## Hottest Cells
 
+- `ai-adoption/application` — 163
+- `ai-adoption/systems` — 157
 - `go-to-market/method` — 138
+- `ai-adoption/method` — 137
 - `content-marketing/method` — 116
 - `customer-success/method` — 116
 - `brand-building/method` — 115
 - `digital-marketing/method` — 111
-- `ai-adoption/method` — 110
 - `digital-marketing/systems` — 107
 - `product-market-fit/method` — 106
-- `sales-strategy/method` — 100
-- `market-analysis/method` — 97
 
 ## Thin Cells (White Space)
 

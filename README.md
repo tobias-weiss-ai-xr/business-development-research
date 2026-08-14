@@ -1,6 +1,6 @@
 # Business Development Research Corpus
 
-**Evidence base for KI-Kompetenz-Training** — Analysis of 5,287 research papers across 20 business development disciplines.
+**Evidence base for KI-Kompetenz-Training** — Analysis of 5,596 research papers across 20 business development disciplines.
 
 **Author:** Tobias Weiss
 **Contact:** ki-kompetenz-training@tobias-weiss.org
@@ -23,7 +23,7 @@ corpora and feeds evidence-based topics into the content pipeline
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 5,287 |
+| **Papers Analyzed** | 5,596 |
 | **Business Development Disciplines** | 20 |
 | **Time Span** | 2021-2026 |
 | **Research Aspects** | 8 |
@@ -32,9 +32,9 @@ corpora and feeds evidence-based topics into the content pipeline
 
 ### Top Evidence Areas
 
-1. **Digital Marketing & SEO** — 394 papers
-2. **Market Analysis & Research** — 384 papers
-3. **AI Adoption & Transformation** — 380 papers
+1. **AI Adoption & Transformation** — 689 papers
+2. **Digital Marketing & SEO** — 394 papers
+3. **Market Analysis & Research** — 384 papers
 4. **Go-to-Market Strategy** — 359 papers
 5. **Content Marketing & Thought Leadership** — 339 papers
 6. **Pricing & Monetization** — 292 papers
@@ -64,31 +64,31 @@ corpora and feeds evidence-based topics into the content pipeline
 | Networking & Relationships | 195 |
 | Entrepreneurship & Small Business | 228 |
 | Growth Metrics & Analytics | 207 |
-| AI Adoption & Transformation | 380 |
+| AI Adoption & Transformation | 689 |
 
 ### Research Aspects (Subcategories)
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 546 |
-| Mechanism | 618 |
-| Method | 1844 |
-| Application | 871 |
-| Development | 95 |
-| Systems & Technology | 877 |
-| Evaluation & Benchmarks | 152 |
-| Reviews & Surveys | 284 |
+| Theory | 563 |
+| Mechanism | 664 |
+| Method | 1871 |
+| Application | 953 |
+| Development | 98 |
+| Systems & Technology | 987 |
+| Evaluation & Benchmarks | 167 |
+| Reviews & Surveys | 293 |
 
 ---
 
 ## 🚀 Emerging Themes (Last 12 Months)
 
-1. **agentic** — 23 papers
-2. **solo** — 3 papers
-3. **eu ai act** — 3 papers
-4. **saas** — 7 papers
-5. **lead generation** — 18 papers
-6. **literacy** — 30 papers
+1. **agentic** — 37 papers
+2. **eu ai act** — 7 papers
+3. **solo** — 4 papers
+4. **skills** — 72 papers
+5. **genai** — 44 papers
+6. **literacy** — 64 papers
 
 ## 📈 Category Momentum (Last 12 Months)
 
@@ -98,10 +98,10 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 |----------|------:|---------:|-------:|-----------:|
 | B2B Marketing & Lead Gen | 232 | 185 | +825.0% | 80% |
 | Market Analysis & Research | 384 | 143 | +376.7% | 37% |
+| AI Adoption & Transformation | 689 | 418 | +301.9% | 61% |
 | Digital Marketing & SEO | 394 | 127 | +262.9% | 32% |
 | Go-to-Market Strategy | 359 | 147 | +162.5% | 41% |
 | Sales Psychology & Negotiation | 235 | 119 | +138.0% | 51% |
-| Content Marketing & Thought Leadership | 339 | 98 | +145.0% | 29% |
 
 ---
 
@@ -230,7 +230,7 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 5,287 papers across 2021-2026 to create a
+This corpus synthesizes 5,596 papers across 2021-2026 to create a
 comprehensive evidence base for business development decisions: what to write,
 what to offer, how to price, and where the market is heading.
 

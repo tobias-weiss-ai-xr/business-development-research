@@ -1276,47 +1276,47 @@
    "id": "ai-adoption",
    "name": "AI Adoption & Transformation",
    "color": "#a371f7",
-   "count": 380,
+   "count": 689,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 40
+     "count": 57
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 48
+     "count": 94
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 110
+     "count": 137
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 81
+     "count": 163
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 5
+     "count": 8
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 47
+     "count": 157
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 5
+     "count": 20
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 44
+     "count": 53
     }
    ],
    "trajectory": {
@@ -1324,19 +1324,19 @@
     "2022": 46,
     "2023": 63,
     "2024": 85,
-    "2025": 111,
-    "2026": 63
+    "2025": 205,
+    "2026": 278
    },
    "momentum": {
     "id": "ai-adoption",
     "name": "AI Adoption & Transformation",
-    "total": 380,
-    "recent": 109,
+    "total": 689,
+    "recent": 418,
     "prior": 104,
-    "growth_pct": 4.8,
-    "recent_share": 0.287,
-    "papers_per_month": 9.1,
-    "score": 33.5
+    "growth_pct": 301.9,
+    "recent_share": 0.607,
+    "papers_per_month": 34.8,
+    "score": 362.6
    }
   }
  ],
@@ -1344,42 +1344,42 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 546
+   "count": 563
   },
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 618
+   "count": 664
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 1844
+   "count": 1871
   },
   {
    "id": "application",
    "name": "Application",
-   "count": 871
+   "count": 953
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 95
+   "count": 98
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 877
+   "count": 987
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Benchmarks",
-   "count": 152
+   "count": 167
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 284
+   "count": 293
   }
  ],
  "timeline": [
@@ -21716,6 +21716,26 @@
   [
    "2025-08",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-08",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-08",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-08",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2025-08",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -21737,6 +21757,16 @@
    "2025-08",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2025-08",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2025-08",
@@ -21996,6 +22026,61 @@
   [
    "2025-09",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
    "method"
   ],
   [
@@ -22016,12 +22101,77 @@
   [
    "2025-09",
    "ai-adoption",
+   "review"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "review"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
    "systems"
   ],
   [
    "2025-09",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2025-09",
@@ -22196,6 +22346,81 @@
   [
    "2025-10",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "development"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -22216,12 +22441,52 @@
   [
    "2025-10",
    "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
    "systems"
   ],
   [
    "2025-10",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2025-10",
@@ -22426,6 +22691,51 @@
   [
    "2025-11",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -22437,6 +22747,26 @@
    "2025-11",
    "ai-adoption",
    "mechanism"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "review"
   ],
   [
    "2025-11",
@@ -22467,6 +22797,66 @@
    "2025-11",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2025-11",
@@ -22686,17 +23076,97 @@
   [
    "2025-12",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "development"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
    "mechanism"
   ],
   [
    "2025-12",
    "ai-adoption",
    "mechanism"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "review"
   ],
   [
    "2025-12",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2025-12",
@@ -22976,6 +23446,61 @@
   [
    "2026-01",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -22987,6 +23512,61 @@
    "2026-01",
    "ai-adoption",
    "mechanism"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "review"
   ],
   [
    "2026-01",
@@ -22997,6 +23577,81 @@
    "2026-01",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-01",
@@ -23356,17 +24011,117 @@
   [
    "2026-02",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
    "method"
   ],
   [
    "2026-02",
    "ai-adoption",
    "method"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "review"
   ],
   [
    "2026-02",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-02",
@@ -23526,6 +24281,71 @@
   [
    "2026-03",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -23537,6 +24357,56 @@
    "2026-03",
    "ai-adoption",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "method"
   ],
   [
    "2026-03",
@@ -23547,6 +24417,51 @@
    "2026-03",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2026-03",
@@ -23736,6 +24651,101 @@
   [
    "2026-04",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
    "method"
   ],
   [
@@ -23751,7 +24761,92 @@
   [
    "2026-04",
    "ai-adoption",
+   "review"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-04",
@@ -23991,6 +25086,71 @@
   [
    "2026-05",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "development"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -24006,6 +25166,36 @@
   [
    "2026-05",
    "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "review"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
    "systems"
   ],
   [
@@ -24017,6 +25207,91 @@
    "2026-05",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-05",
@@ -24241,6 +25516,71 @@
   [
    "2026-06",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -24257,6 +25597,56 @@
    "2026-06",
    "ai-adoption",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "method"
   ],
   [
    "2026-06",
@@ -24272,6 +25662,36 @@
    "2026-06",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-06",
@@ -24496,6 +25916,26 @@
   [
    "2026-07",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -24512,11 +25952,71 @@
    "2026-07",
    "ai-adoption",
    "method"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "review"
   ],
   [
    "2026-07",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-07",
@@ -24776,12 +26276,57 @@
   [
    "2026-08",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
    "method"
   ],
   [
    "2026-08",
    "ai-adoption",
    "method"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2026-08",
@@ -27882,115 +29427,115 @@
   }
  ],
  "source_breakdown": {
-  "arxiv": 1071,
+  "arxiv": 1380,
   "doi": 3978,
   "other": 238
  },
  "keyword_bursts": [
   {
    "keyword": "agentic",
-   "recent": 23,
-   "total": 25,
-   "burst_score": 3.98,
-   "recent_share": 0.0188
-  },
-  {
-   "keyword": "solo",
-   "recent": 3,
-   "total": 4,
-   "burst_score": 3.24,
-   "recent_share": 0.0025
+   "recent": 37,
+   "total": 39,
+   "burst_score": 3.47,
+   "recent_share": 0.0242
   },
   {
    "keyword": "eu ai act",
-   "recent": 3,
-   "total": 4,
-   "burst_score": 3.24,
-   "recent_share": 0.0025
+   "recent": 7,
+   "total": 8,
+   "burst_score": 3.2,
+   "recent_share": 0.0046
+  },
+  {
+   "keyword": "solo",
+   "recent": 4,
+   "total": 5,
+   "burst_score": 2.92,
+   "recent_share": 0.0026
+  },
+  {
+   "keyword": "skills",
+   "recent": 72,
+   "total": 94,
+   "burst_score": 2.8,
+   "recent_share": 0.047
+  },
+  {
+   "keyword": "genai",
+   "recent": 44,
+   "total": 58,
+   "burst_score": 2.77,
+   "recent_share": 0.0287
+  },
+  {
+   "keyword": "literacy",
+   "recent": 64,
+   "total": 85,
+   "burst_score": 2.75,
+   "recent_share": 0.0418
+  },
+  {
+   "keyword": "generative ai",
+   "recent": 118,
+   "total": 162,
+   "burst_score": 2.66,
+   "recent_share": 0.0771
+  },
+  {
+   "keyword": "training",
+   "recent": 116,
+   "total": 160,
+   "burst_score": 2.65,
+   "recent_share": 0.0758
+  },
+  {
+   "keyword": "benchmark",
+   "recent": 78,
+   "total": 108,
+   "burst_score": 2.64,
+   "recent_share": 0.0509
+  },
+  {
+   "keyword": "llm",
+   "recent": 220,
+   "total": 312,
+   "burst_score": 2.58,
+   "recent_share": 0.1437
   },
   {
    "keyword": "saas",
    "recent": 7,
    "total": 10,
-   "burst_score": 3.03,
-   "recent_share": 0.0057
+   "burst_score": 2.56,
+   "recent_share": 0.0046
+  },
+  {
+   "keyword": "large language model",
+   "recent": 181,
+   "total": 269,
+   "burst_score": 2.46,
+   "recent_share": 0.1182
+  },
+  {
+   "keyword": "inbound",
+   "recent": 2,
+   "total": 3,
+   "burst_score": 2.44,
+   "recent_share": 0.0013
+  },
+  {
+   "keyword": "cohort",
+   "recent": 9,
+   "total": 14,
+   "burst_score": 2.35,
+   "recent_share": 0.0059
   },
   {
    "keyword": "lead generation",
    "recent": 18,
    "total": 29,
-   "burst_score": 2.69,
-   "recent_share": 0.0147
-  },
-  {
-   "keyword": "literacy",
-   "recent": 30,
-   "total": 51,
-   "burst_score": 2.55,
-   "recent_share": 0.0245
-  },
-  {
-   "keyword": "cohort",
-   "recent": 7,
-   "total": 12,
-   "burst_score": 2.52,
-   "recent_share": 0.0057
-  },
-  {
-   "keyword": "benchmark",
-   "recent": 41,
-   "total": 71,
-   "burst_score": 2.5,
-   "recent_share": 0.0336
-  },
-  {
-   "keyword": "genai",
-   "recent": 19,
-   "total": 33,
-   "burst_score": 2.49,
-   "recent_share": 0.0155
-  },
-  {
-   "keyword": "skills",
-   "recent": 29,
-   "total": 51,
-   "burst_score": 2.46,
-   "recent_share": 0.0237
-  },
-  {
-   "keyword": "seo",
-   "recent": 16,
-   "total": 29,
-   "burst_score": 2.39,
-   "recent_share": 0.0131
-  },
-  {
-   "keyword": "persuasion",
-   "recent": 50,
-   "total": 92,
-   "burst_score": 2.35,
-   "recent_share": 0.0409
-  },
-  {
-   "keyword": "ai adoption",
-   "recent": 39,
-   "total": 72,
-   "burst_score": 2.34,
-   "recent_share": 0.0319
-  },
-  {
-   "keyword": "training",
-   "recent": 51,
-   "total": 95,
-   "burst_score": 2.32,
-   "recent_share": 0.0417
-  },
-  {
-   "keyword": "generative ai",
-   "recent": 50,
-   "total": 94,
-   "burst_score": 2.3,
-   "recent_share": 0.0409
+   "burst_score": 2.27,
+   "recent_share": 0.0118
   }
  ]
 }

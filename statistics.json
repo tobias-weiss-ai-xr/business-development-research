@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 5287,
+    "total_papers": 5596,
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 20,
@@ -34,42 +34,44 @@
     "networking": 195,
     "entrepreneurship": 228,
     "growth-metrics": 207,
-    "ai-adoption": 380
+    "ai-adoption": 689
   },
   "by_subcategory": {
-    "theory": 546,
-    "mechanism": 618,
-    "method": 1844,
-    "application": 871,
-    "development": 95,
-    "systems": 877,
-    "evaluation": 152,
-    "review": 284
+    "theory": 563,
+    "mechanism": 664,
+    "method": 1871,
+    "application": 953,
+    "development": 98,
+    "systems": 987,
+    "evaluation": 167,
+    "review": 293
   },
   "by_year": {
     "2021": 368,
     "2022": 1145,
     "2023": 1069,
     "2024": 972,
-    "2025": 760,
-    "2026": 973
+    "2025": 854,
+    "2026": 1188
   },
   "by_cell": {
+    "ai-adoption/application": 163,
+    "ai-adoption/systems": 157,
     "go-to-market/method": 138,
+    "ai-adoption/method": 137,
     "content-marketing/method": 116,
     "customer-success/method": 116,
     "brand-building/method": 115,
     "digital-marketing/method": 111,
-    "ai-adoption/method": 110,
     "digital-marketing/systems": 107,
     "product-market-fit/method": 106,
     "sales-strategy/method": 100,
     "market-analysis/method": 97,
     "pricing-strategy/method": 95,
+    "ai-adoption/mechanism": 94,
     "customer-acquisition/method": 90,
     "competitive-intelligence/method": 87,
     "partnerships/method": 81,
-    "ai-adoption/application": 81,
     "networking/method": 75,
     "entrepreneurship/method": 75,
     "market-analysis/application": 73,
@@ -85,26 +87,24 @@
     "pricing-strategy/application": 60,
     "content-marketing/application": 59,
     "go-to-market/systems": 58,
+    "ai-adoption/theory": 57,
     "sales-strategy/application": 56,
     "pricing-strategy/systems": 56,
     "market-analysis/systems": 53,
     "entrepreneurship/systems": 53,
     "growth-metrics/application": 53,
+    "ai-adoption/review": 53,
     "market-analysis/review": 51,
     "b2b-marketing/systems": 51,
     "business-models/theory": 50,
-    "ai-adoption/mechanism": 48,
     "sales-psychology/systems": 47,
-    "ai-adoption/systems": 47,
     "b2b-marketing/application": 45,
     "brand-building/theory": 44,
     "product-market-fit/systems": 44,
-    "ai-adoption/review": 44,
     "go-to-market/mechanism": 42,
     "sales-strategy/systems": 41,
     "product-market-fit/application": 41,
     "sales-psychology/theory": 41,
-    "ai-adoption/theory": 40,
     "digital-marketing/mechanism": 38,
     "go-to-market/theory": 37,
     "business-models/application": 37,
@@ -151,6 +151,7 @@
     "growth-metrics/mechanism": 21,
     "customer-acquisition/mechanism": 20,
     "partnerships/systems": 20,
+    "ai-adoption/evaluation": 20,
     "customer-success/theory": 19,
     "content-marketing/review": 18,
     "customer-success/mechanism": 18,
@@ -179,6 +180,7 @@
     "competitive-intelligence/review": 8,
     "competitive-intelligence/mechanism": 8,
     "growth-metrics/theory": 8,
+    "ai-adoption/development": 8,
     "customer-acquisition/review": 7,
     "pricing-strategy/review": 7,
     "sales-psychology/review": 7,
@@ -193,8 +195,6 @@
     "customer-success/development": 5,
     "product-market-fit/development": 5,
     "business-models/development": 5,
-    "ai-adoption/development": 5,
-    "ai-adoption/evaluation": 5,
     "sales-strategy/evaluation": 4,
     "customer-retention/theory": 4,
     "sales-psychology/evaluation": 4,
@@ -219,43 +219,43 @@
   "emerging_themes_12m": [
     {
       "keyword": "agentic",
-      "papers": 23
-    },
-    {
-      "keyword": "solo",
-      "papers": 3
+      "papers": 37
     },
     {
       "keyword": "eu ai act",
-      "papers": 3
-    },
-    {
-      "keyword": "saas",
       "papers": 7
     },
     {
-      "keyword": "lead generation",
-      "papers": 18
-    },
-    {
-      "keyword": "literacy",
-      "papers": 30
-    },
-    {
-      "keyword": "cohort",
-      "papers": 7
-    },
-    {
-      "keyword": "benchmark",
-      "papers": 41
-    },
-    {
-      "keyword": "genai",
-      "papers": 19
+      "keyword": "solo",
+      "papers": 4
     },
     {
       "keyword": "skills",
-      "papers": 29
+      "papers": 72
+    },
+    {
+      "keyword": "genai",
+      "papers": 44
+    },
+    {
+      "keyword": "literacy",
+      "papers": 64
+    },
+    {
+      "keyword": "generative ai",
+      "papers": 118
+    },
+    {
+      "keyword": "training",
+      "papers": 116
+    },
+    {
+      "keyword": "benchmark",
+      "papers": 78
+    },
+    {
+      "keyword": "llm",
+      "papers": 220
     }
   ],
   "momentum": [
@@ -280,6 +280,17 @@
       "recent_share": 0.372,
       "papers_per_month": 11.9,
       "score": 413.9
+    },
+    {
+      "id": "ai-adoption",
+      "name": "AI Adoption & Transformation",
+      "total": 689,
+      "recent": 418,
+      "prior": 104,
+      "growth_pct": 301.9,
+      "recent_share": 0.607,
+      "papers_per_month": 34.8,
+      "score": 362.6
     },
     {
       "id": "digital-marketing",
@@ -335,17 +346,6 @@
       "recent_share": 0.238,
       "papers_per_month": 5.2,
       "score": 98.8
-    },
-    {
-      "id": "ai-adoption",
-      "name": "AI Adoption & Transformation",
-      "total": 380,
-      "recent": 109,
-      "prior": 104,
-      "growth_pct": 4.8,
-      "recent_share": 0.287,
-      "papers_per_month": 9.1,
-      "score": 33.5
     },
     {
       "id": "product-market-fit",
@@ -637,119 +637,119 @@
       "2022": 46,
       "2023": 63,
       "2024": 85,
-      "2025": 111,
-      "2026": 63
+      "2025": 205,
+      "2026": 278
     }
   },
   "keyword_bursts": [
     {
       "keyword": "agentic",
-      "recent": 23,
-      "total": 25,
-      "burst_score": 3.98,
-      "recent_share": 0.0188
-    },
-    {
-      "keyword": "solo",
-      "recent": 3,
-      "total": 4,
-      "burst_score": 3.24,
-      "recent_share": 0.0025
+      "recent": 37,
+      "total": 39,
+      "burst_score": 3.47,
+      "recent_share": 0.0242
     },
     {
       "keyword": "eu ai act",
-      "recent": 3,
-      "total": 4,
-      "burst_score": 3.24,
-      "recent_share": 0.0025
+      "recent": 7,
+      "total": 8,
+      "burst_score": 3.2,
+      "recent_share": 0.0046
+    },
+    {
+      "keyword": "solo",
+      "recent": 4,
+      "total": 5,
+      "burst_score": 2.92,
+      "recent_share": 0.0026
+    },
+    {
+      "keyword": "skills",
+      "recent": 72,
+      "total": 94,
+      "burst_score": 2.8,
+      "recent_share": 0.047
+    },
+    {
+      "keyword": "genai",
+      "recent": 44,
+      "total": 58,
+      "burst_score": 2.77,
+      "recent_share": 0.0287
+    },
+    {
+      "keyword": "literacy",
+      "recent": 64,
+      "total": 85,
+      "burst_score": 2.75,
+      "recent_share": 0.0418
+    },
+    {
+      "keyword": "generative ai",
+      "recent": 118,
+      "total": 162,
+      "burst_score": 2.66,
+      "recent_share": 0.0771
+    },
+    {
+      "keyword": "training",
+      "recent": 116,
+      "total": 160,
+      "burst_score": 2.65,
+      "recent_share": 0.0758
+    },
+    {
+      "keyword": "benchmark",
+      "recent": 78,
+      "total": 108,
+      "burst_score": 2.64,
+      "recent_share": 0.0509
+    },
+    {
+      "keyword": "llm",
+      "recent": 220,
+      "total": 312,
+      "burst_score": 2.58,
+      "recent_share": 0.1437
     },
     {
       "keyword": "saas",
       "recent": 7,
       "total": 10,
-      "burst_score": 3.03,
-      "recent_share": 0.0057
+      "burst_score": 2.56,
+      "recent_share": 0.0046
+    },
+    {
+      "keyword": "large language model",
+      "recent": 181,
+      "total": 269,
+      "burst_score": 2.46,
+      "recent_share": 0.1182
+    },
+    {
+      "keyword": "inbound",
+      "recent": 2,
+      "total": 3,
+      "burst_score": 2.44,
+      "recent_share": 0.0013
+    },
+    {
+      "keyword": "cohort",
+      "recent": 9,
+      "total": 14,
+      "burst_score": 2.35,
+      "recent_share": 0.0059
     },
     {
       "keyword": "lead generation",
       "recent": 18,
       "total": 29,
-      "burst_score": 2.69,
-      "recent_share": 0.0147
-    },
-    {
-      "keyword": "literacy",
-      "recent": 30,
-      "total": 51,
-      "burst_score": 2.55,
-      "recent_share": 0.0245
-    },
-    {
-      "keyword": "cohort",
-      "recent": 7,
-      "total": 12,
-      "burst_score": 2.52,
-      "recent_share": 0.0057
-    },
-    {
-      "keyword": "benchmark",
-      "recent": 41,
-      "total": 71,
-      "burst_score": 2.5,
-      "recent_share": 0.0336
-    },
-    {
-      "keyword": "genai",
-      "recent": 19,
-      "total": 33,
-      "burst_score": 2.49,
-      "recent_share": 0.0155
-    },
-    {
-      "keyword": "skills",
-      "recent": 29,
-      "total": 51,
-      "burst_score": 2.46,
-      "recent_share": 0.0237
-    },
-    {
-      "keyword": "seo",
-      "recent": 16,
-      "total": 29,
-      "burst_score": 2.39,
-      "recent_share": 0.0131
-    },
-    {
-      "keyword": "persuasion",
-      "recent": 50,
-      "total": 92,
-      "burst_score": 2.35,
-      "recent_share": 0.0409
-    },
-    {
-      "keyword": "ai adoption",
-      "recent": 39,
-      "total": 72,
-      "burst_score": 2.34,
-      "recent_share": 0.0319
-    },
-    {
-      "keyword": "training",
-      "recent": 51,
-      "total": 95,
-      "burst_score": 2.32,
-      "recent_share": 0.0417
-    },
-    {
-      "keyword": "generative ai",
-      "recent": 50,
-      "total": 94,
-      "burst_score": 2.3,
-      "recent_share": 0.0409
+      "burst_score": 2.27,
+      "recent_share": 0.0118
     }
   ],
   "source_breakdown": {
-    "arxiv": 1071,
+    "arxiv": 1380,
     "doi": 3978,
     "other": 238
   },
@@ -878,6 +878,12 @@
         "recent_share": 0.8
       },
       {
+        "cell": "ai-adoption/evaluation",
+        "total": 20,
+        "recent": 15,
+        "recent_share": 0.75
+      },
+      {
         "cell": "sales-psychology/evaluation",
         "total": 4,
         "recent": 3,
@@ -912,12 +918,6 @@
         "total": 12,
         "recent": 6,
         "recent_share": 0.5
-      },
-      {
-        "cell": "product-market-fit/mechanism",
-        "total": 22,
-        "recent": 9,
-        "recent_share": 0.41
       }
     ]
   },

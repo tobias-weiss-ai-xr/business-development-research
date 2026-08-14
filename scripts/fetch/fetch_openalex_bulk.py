@@ -49,7 +49,7 @@ CATEGORY_TERMS = [
     ("networking", "business network social capital"),
     ("entrepreneurship", "startup entrepreneurship"),
     ("growth-metrics", "customer lifetime value"),
-    ("ai-adoption", "artificial intelligence adoption"),
+    ("ai-adoption", "artificial intelligence adoption workforce upskilling training"),
 ]
 
 
