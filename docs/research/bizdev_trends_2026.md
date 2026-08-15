@@ -1,27 +1,27 @@
 # Business Development Research Trends (12-Month View)
 
 **Generated:** 2026-08-15  
-**Window:** since 2025-08 — 1531 of 5596 papers
+**Window:** since 2025-08 — 1898 of 5963 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| agentic | 37 | 39 | 3.5× |
-| eu ai act | 7 | 8 | 3.2× |
-| ai literacy | 48 | 60 | 2.9× |
-| solo | 4 | 5 | 2.9× |
-| skills | 72 | 94 | 2.8× |
-| genai | 44 | 58 | 2.8× |
-| generative ai | 118 | 162 | 2.7× |
-| llm | 220 | 312 | 2.6× |
-| training | 116 | 160 | 2.6× |
-| benchmark | 78 | 108 | 2.6× |
-| saas | 7 | 10 | 2.6× |
-| large language model | 181 | 269 | 2.5× |
-| inbound | 2 | 3 | 2.4× |
-| ai adoption | 53 | 86 | 2.3× |
-| lead generation | 18 | 29 | 2.3× |
+| agentic | 67 | 69 | 3.1× |
+| ai literacy | 94 | 106 | 2.8× |
+| eu ai act | 9 | 10 | 2.8× |
+| negotiation | 88 | 108 | 2.6× |
+| llm | 338 | 430 | 2.5× |
+| training | 156 | 200 | 2.5× |
+| benchmark | 129 | 159 | 2.5× |
+| skills | 80 | 102 | 2.5× |
+| genai | 54 | 68 | 2.5× |
+| cohort | 19 | 24 | 2.5× |
+| solo | 4 | 5 | 2.5× |
+| large language model | 273 | 361 | 2.4× |
+| agent | 251 | 344 | 2.3× |
+| generative ai | 130 | 174 | 2.3× |
+| saas | 8 | 11 | 2.3× |
 
 ## 📈 Fastest-Growing Cells
 
@@ -30,18 +30,18 @@
 | `partnerships/evaluation` | 2 | 2 | 100% |
 | `go-to-market/development` | 3 | 3 | 100% |
 | `pricing-strategy/development` | 1 | 1 | 100% |
+| `sales-psychology/evaluation` | 12 | 13 | 92% |
 | `b2b-marketing/application` | 39 | 45 | 87% |
+| `ai-adoption/systems` | 148 | 176 | 84% |
 | `market-analysis/development` | 5 | 6 | 83% |
+| `b2b-marketing/evaluation` | 5 | 6 | 83% |
 | `b2b-marketing/systems` | 42 | 51 | 82% |
-| `ai-adoption/systems` | 129 | 157 | 82% |
+| `b2b-marketing/theory` | 21 | 26 | 81% |
 | `b2b-marketing/mechanism` | 26 | 32 | 81% |
-| `b2b-marketing/theory` | 20 | 25 | 80% |
-| `b2b-marketing/method` | 49 | 65 | 75% |
-| `sales-psychology/evaluation` | 3 | 4 | 75% |
-| `b2b-marketing/evaluation` | 3 | 4 | 75% |
-| `ai-adoption/evaluation` | 15 | 20 | 75% |
-| `ai-adoption/application` | 117 | 163 | 72% |
-| `ai-adoption/mechanism` | 68 | 94 | 72% |
+| `sales-psychology/development` | 4 | 5 | 80% |
+| `b2b-marketing/method` | 58 | 74 | 78% |
+| `ai-adoption/evaluation` | 18 | 23 | 78% |
+| `sales-psychology/application` | 38 | 51 | 75% |
 
 ## What This Means for KI-Kompetenz-Training
 

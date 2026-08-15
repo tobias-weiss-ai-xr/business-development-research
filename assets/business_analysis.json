@@ -205,12 +205,12 @@
    "id": "b2b-marketing",
    "name": "B2B Marketing & Lead Gen",
    "color": "#f0883e",
-   "count": 232,
+   "count": 244,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 25
+     "count": 26
     },
     {
      "id": "mechanism",
@@ -220,7 +220,7 @@
     {
      "id": "method",
      "name": "Method",
-     "count": 65
+     "count": 74
     },
     {
      "id": "application",
@@ -240,7 +240,7 @@
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 4
+     "count": 6
     },
     {
      "id": "review",
@@ -253,46 +253,46 @@
     "2022": 7,
     "2023": 10,
     "2024": 11,
-    "2025": 32,
-    "2026": 171
+    "2025": 38,
+    "2026": 177
    },
    "momentum": {
     "id": "b2b-marketing",
     "name": "B2B Marketing & Lead Gen",
-    "total": 232,
-    "recent": 185,
+    "total": 244,
+    "recent": 197,
     "prior": 20,
-    "growth_pct": 825.0,
-    "recent_share": 0.797,
-    "papers_per_month": 15.4,
-    "score": 904.7
+    "growth_pct": 885.0,
+    "recent_share": 0.807,
+    "papers_per_month": 16.4,
+    "score": 965.7
    }
   },
   {
    "id": "content-marketing",
    "name": "Content Marketing & Thought Leadership",
    "color": "#db6d8a",
-   "count": 339,
+   "count": 380,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 26
+     "count": 27
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 36
+     "count": 39
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 116
+     "count": 119
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 59
+     "count": 70
     },
     {
      "id": "development",
@@ -302,12 +302,12 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 68
+     "count": 79
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 5
+     "count": 17
     },
     {
      "id": "review",
@@ -320,26 +320,26 @@
     "2022": 67,
     "2023": 74,
     "2024": 66,
-    "2025": 28,
-    "2026": 88
+    "2025": 51,
+    "2026": 106
    },
    "momentum": {
     "id": "content-marketing",
     "name": "Content Marketing & Thought Leadership",
-    "total": 339,
-    "recent": 98,
+    "total": 380,
+    "recent": 139,
     "prior": 40,
-    "growth_pct": 145.0,
-    "recent_share": 0.289,
-    "papers_per_month": 8.2,
-    "score": 173.9
+    "growth_pct": 247.5,
+    "recent_share": 0.366,
+    "papers_per_month": 11.6,
+    "score": 284.1
    }
   },
   {
    "id": "digital-marketing",
    "name": "Digital Marketing & SEO",
    "color": "#7ee787",
-   "count": 394,
+   "count": 400,
    "subcategories": [
     {
      "id": "theory",
@@ -349,17 +349,17 @@
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 38
+     "count": 39
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 111
+     "count": 112
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 65
+     "count": 68
     },
     {
      "id": "development",
@@ -369,7 +369,7 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 107
+     "count": 108
     },
     {
      "id": "evaluation",
@@ -387,26 +387,26 @@
     "2022": 87,
     "2023": 81,
     "2024": 48,
-    "2025": 29,
-    "2026": 115
+    "2025": 32,
+    "2026": 118
    },
    "momentum": {
     "id": "digital-marketing",
     "name": "Digital Marketing & SEO",
-    "total": 394,
-    "recent": 127,
+    "total": 400,
+    "recent": 133,
     "prior": 35,
-    "growth_pct": 262.9,
-    "recent_share": 0.322,
-    "papers_per_month": 10.6,
-    "score": 295.1
+    "growth_pct": 280.0,
+    "recent_share": 0.333,
+    "papers_per_month": 11.1,
+    "score": 313.3
    }
   },
   {
    "id": "brand-building",
    "name": "Brand & Positioning",
    "color": "#a5d6ff",
-   "count": 262,
+   "count": 266,
    "subcategories": [
     {
      "id": "theory",
@@ -416,7 +416,7 @@
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 29
+     "count": 31
     },
     {
      "id": "method",
@@ -426,7 +426,7 @@
     {
      "id": "application",
      "name": "Application",
-     "count": 29
+     "count": 30
     },
     {
      "id": "development",
@@ -441,7 +441,7 @@
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 8
+     "count": 9
     },
     {
      "id": "review",
@@ -454,19 +454,19 @@
     "2022": 85,
     "2023": 58,
     "2024": 39,
-    "2025": 30,
-    "2026": 19
+    "2025": 32,
+    "2026": 21
    },
    "momentum": {
     "id": "brand-building",
     "name": "Brand & Positioning",
-    "total": 262,
-    "recent": 28,
+    "total": 266,
+    "recent": 32,
     "prior": 34,
-    "growth_pct": -17.6,
-    "recent_share": 0.107,
-    "papers_per_month": 2.3,
-    "score": -6.9
+    "growth_pct": -5.9,
+    "recent_share": 0.12,
+    "papers_per_month": 2.7,
+    "score": 6.1
    }
   },
   {
@@ -540,27 +540,27 @@
    "id": "customer-retention",
    "name": "Customer Retention & Churn",
    "color": "#ffa657",
-   "count": 197,
+   "count": 214,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 4
+     "count": 7
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 34
+     "count": 38
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 63
+     "count": 65
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 24
+     "count": 29
     },
     {
      "id": "development",
@@ -570,12 +570,12 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 30
+     "count": 32
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 34
+     "count": 35
     },
     {
      "id": "review",
@@ -588,19 +588,19 @@
     "2022": 41,
     "2023": 42,
     "2024": 68,
-    "2025": 32,
-    "2026": 5
+    "2025": 38,
+    "2026": 16
    },
    "momentum": {
     "id": "customer-retention",
     "name": "Customer Retention & Churn",
-    "total": 197,
-    "recent": 6,
+    "total": 214,
+    "recent": 23,
     "prior": 50,
-    "growth_pct": -88.0,
-    "recent_share": 0.03,
-    "papers_per_month": 0.5,
-    "score": -85.0
+    "growth_pct": -54.0,
+    "recent_share": 0.107,
+    "papers_per_month": 1.9,
+    "score": -43.3
    }
   },
   {
@@ -674,27 +674,27 @@
    "id": "pricing-strategy",
    "name": "Pricing & Monetization",
    "color": "#d2a8ff",
-   "count": 292,
+   "count": 317,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 32
+     "count": 36
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 35
+     "count": 39
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 95
+     "count": 101
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 60
+     "count": 68
     },
     {
      "id": "development",
@@ -704,12 +704,12 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 56
+     "count": 58
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 6
+     "count": 7
     },
     {
      "id": "review",
@@ -722,41 +722,41 @@
     "2022": 84,
     "2023": 75,
     "2024": 56,
-    "2025": 30,
-    "2026": 19
+    "2025": 39,
+    "2026": 35
    },
    "momentum": {
     "id": "pricing-strategy",
     "name": "Pricing & Monetization",
-    "total": 292,
-    "recent": 30,
+    "total": 317,
+    "recent": 55,
     "prior": 39,
-    "growth_pct": -23.1,
-    "recent_share": 0.103,
-    "papers_per_month": 2.5,
-    "score": -12.8
+    "growth_pct": 41.0,
+    "recent_share": 0.174,
+    "papers_per_month": 4.6,
+    "score": 58.4
    }
   },
   {
    "id": "product-market-fit",
    "name": "Product-Market Fit & Validation",
    "color": "#79c0ff",
-   "count": 247,
+   "count": 252,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 17
+     "count": 19
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 22
+     "count": 23
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 106
+     "count": 107
     },
     {
      "id": "application",
@@ -771,7 +771,7 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 44
+     "count": 45
     },
     {
      "id": "evaluation",
@@ -789,19 +789,19 @@
     "2022": 55,
     "2023": 49,
     "2024": 49,
-    "2025": 47,
-    "2026": 26
+    "2025": 49,
+    "2026": 29
    },
    "momentum": {
     "id": "product-market-fit",
     "name": "Product-Market Fit & Validation",
-    "total": 247,
-    "recent": 42,
+    "total": 252,
+    "recent": 47,
     "prior": 50,
-    "growth_pct": -16.0,
-    "recent_share": 0.17,
-    "papers_per_month": 3.5,
-    "score": 1.0
+    "growth_pct": -6.0,
+    "recent_share": 0.187,
+    "papers_per_month": 3.9,
+    "score": 12.7
    }
   },
   {
@@ -1009,42 +1009,42 @@
    "id": "sales-psychology",
    "name": "Sales Psychology & Negotiation",
    "color": "#85e89d",
-   "count": 235,
+   "count": 323,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 41
+     "count": 46
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 35
+     "count": 50
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 72
+     "count": 78
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 27
+     "count": 51
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 2
+     "count": 5
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 47
+     "count": 73
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 4
+     "count": 13
     },
     {
      "id": "review",
@@ -1057,46 +1057,46 @@
     "2022": 19,
     "2023": 16,
     "2024": 38,
-    "2025": 75,
-    "2026": 82
+    "2025": 100,
+    "2026": 145
    },
    "momentum": {
     "id": "sales-psychology",
     "name": "Sales Psychology & Negotiation",
-    "total": 235,
-    "recent": 119,
+    "total": 323,
+    "recent": 207,
     "prior": 50,
-    "growth_pct": 138.0,
-    "recent_share": 0.506,
-    "papers_per_month": 9.9,
-    "score": 188.6
+    "growth_pct": 314.0,
+    "recent_share": 0.641,
+    "papers_per_month": 17.2,
+    "score": 378.1
    }
   },
   {
    "id": "networking",
    "name": "Networking & Relationships",
    "color": "#f778ba",
-   "count": 195,
+   "count": 304,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 31
+     "count": 45
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 15
+     "count": 34
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 75
+     "count": 87
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 31
+     "count": 70
     },
     {
      "id": "development",
@@ -1106,17 +1106,17 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 30
+     "count": 49
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 3
+     "count": 8
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 7
+     "count": 8
     }
    ],
    "trajectory": {
@@ -1124,45 +1124,46 @@
     "2022": 67,
     "2023": 59,
     "2024": 32,
-    "2025": 17
+    "2025": 68,
+    "2026": 58
    },
    "momentum": {
     "id": "networking",
     "name": "Networking & Relationships",
-    "total": 195,
-    "recent": 1,
+    "total": 304,
+    "recent": 110,
     "prior": 31,
-    "growth_pct": -96.8,
-    "recent_share": 0.005,
-    "papers_per_month": 0.1,
-    "score": -96.3
+    "growth_pct": 254.8,
+    "recent_share": 0.362,
+    "papers_per_month": 9.2,
+    "score": 291.0
    }
   },
   {
    "id": "entrepreneurship",
    "name": "Entrepreneurship & Small Business",
    "color": "#68a4ff",
-   "count": 228,
+   "count": 235,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 21
+     "count": 23
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 30
+     "count": 31
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 75
+     "count": 77
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 24
+     "count": 25
     },
     {
      "id": "development",
@@ -1172,7 +1173,7 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 53
+     "count": 54
     },
     {
      "id": "evaluation",
@@ -1190,19 +1191,19 @@
     "2022": 58,
     "2023": 47,
     "2024": 51,
-    "2025": 39,
-    "2026": 10
+    "2025": 42,
+    "2026": 14
    },
    "momentum": {
     "id": "entrepreneurship",
     "name": "Entrepreneurship & Small Business",
-    "total": 228,
-    "recent": 22,
+    "total": 235,
+    "recent": 29,
     "prior": 39,
-    "growth_pct": -43.6,
-    "recent_share": 0.096,
-    "papers_per_month": 1.8,
-    "score": -34.0
+    "growth_pct": -25.6,
+    "recent_share": 0.123,
+    "papers_per_month": 2.4,
+    "score": -13.3
    }
   },
   {
@@ -1276,47 +1277,47 @@
    "id": "ai-adoption",
    "name": "AI Adoption & Transformation",
    "color": "#a371f7",
-   "count": 689,
+   "count": 742,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 57
+     "count": 59
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 94
+     "count": 103
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 137
+     "count": 144
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 163
+     "count": 173
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 8
+     "count": 9
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 157
+     "count": 176
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 20
+     "count": 23
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 53
+     "count": 55
     }
    ],
    "trajectory": {
@@ -1324,19 +1325,19 @@
     "2022": 46,
     "2023": 63,
     "2024": 85,
-    "2025": 205,
-    "2026": 278
+    "2025": 225,
+    "2026": 311
    },
    "momentum": {
     "id": "ai-adoption",
     "name": "AI Adoption & Transformation",
-    "total": 689,
-    "recent": 418,
+    "total": 742,
+    "recent": 471,
     "prior": 104,
-    "growth_pct": 301.9,
-    "recent_share": 0.607,
-    "papers_per_month": 34.8,
-    "score": 362.6
+    "growth_pct": 352.9,
+    "recent_share": 0.635,
+    "papers_per_month": 39.2,
+    "score": 416.4
    }
   }
  ],
@@ -1344,42 +1345,42 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 563
+   "count": 597
   },
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 664
+   "count": 723
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 1871
+   "count": 1920
   },
   {
    "id": "application",
    "name": "Application",
-   "count": 953
+   "count": 1055
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 98
+   "count": 102
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 987
+   "count": 1069
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Benchmarks",
-   "count": 167
+   "count": 201
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 293
+   "count": 296
   }
  ],
  "timeline": [
@@ -21751,6 +21752,11 @@
   [
    "2025-08",
    "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-08",
+   "ai-adoption",
    "review"
   ],
   [
@@ -21782,6 +21788,16 @@
    "2025-08",
    "b2b-marketing",
    "application"
+  ],
+  [
+   "2025-08",
+   "b2b-marketing",
+   "evaluation"
+  ],
+  [
+   "2025-08",
+   "b2b-marketing",
+   "method"
   ],
   [
    "2025-08",
@@ -21812,6 +21828,31 @@
    "2025-08",
    "content-marketing",
    "application"
+  ],
+  [
+   "2025-08",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2025-08",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2025-08",
+   "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2025-08",
+   "content-marketing",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "content-marketing",
+   "systems"
   ],
   [
    "2025-08",
@@ -21925,6 +21966,21 @@
   ],
   [
    "2025-08",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-08",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-08",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-08",
    "partnerships",
    "application"
   ],
@@ -21976,6 +22032,11 @@
   [
    "2025-08",
    "sales-psychology",
+   "application"
+  ],
+  [
+   "2025-08",
+   "sales-psychology",
    "method"
   ],
   [
@@ -22107,6 +22168,16 @@
    "2025-09",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2025-09",
@@ -22192,6 +22263,11 @@
    "2025-09",
    "brand-building",
    "application"
+  ],
+  [
+   "2025-09",
+   "brand-building",
+   "mechanism"
   ],
   [
    "2025-09",
@@ -22216,12 +22292,47 @@
   [
    "2025-09",
    "content-marketing",
+   "application"
+  ],
+  [
+   "2025-09",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2025-09",
+   "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2025-09",
+   "content-marketing",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "content-marketing",
    "review"
+  ],
+  [
+   "2025-09",
+   "content-marketing",
+   "systems"
   ],
   [
    "2025-09",
    "customer-acquisition",
    "mechanism"
+  ],
+  [
+   "2025-09",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2025-09",
+   "customer-retention",
+   "application"
   ],
   [
    "2025-09",
@@ -22250,6 +22361,11 @@
   ],
   [
    "2025-09",
+   "entrepreneurship",
+   "theory"
+  ],
+  [
+   "2025-09",
    "go-to-market",
    "application"
   ],
@@ -22282,6 +22398,76 @@
    "2025-09",
    "market-analysis",
    "review"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "review"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "pricing-strategy",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2025-09",
+   "pricing-strategy",
+   "method"
   ],
   [
    "2025-09",
@@ -22321,6 +22507,31 @@
   [
    "2025-09",
    "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "sales-psychology",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "sales-psychology",
    "theory"
   ],
   [
@@ -22332,6 +22543,11 @@
    "2025-09",
    "sales-strategy",
    "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "application"
   ],
   [
    "2025-10",
@@ -22411,7 +22627,7 @@
   [
    "2025-10",
    "ai-adoption",
-   "mechanism"
+   "evaluation"
   ],
   [
    "2025-10",
@@ -22426,7 +22642,7 @@
   [
    "2025-10",
    "ai-adoption",
-   "method"
+   "mechanism"
   ],
   [
    "2025-10",
@@ -22442,6 +22658,26 @@
    "2025-10",
    "ai-adoption",
    "method"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2025-10",
@@ -22491,7 +22727,17 @@
   [
    "2025-10",
    "b2b-marketing",
+   "method"
+  ],
+  [
+   "2025-10",
+   "b2b-marketing",
    "systems"
+  ],
+  [
+   "2025-10",
+   "b2b-marketing",
+   "theory"
   ],
   [
    "2025-10",
@@ -22501,7 +22747,32 @@
   [
    "2025-10",
    "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2025-10",
+   "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2025-10",
+   "content-marketing",
    "mechanism"
+  ],
+  [
+   "2025-10",
+   "content-marketing",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "content-marketing",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "content-marketing",
+   "theory"
   ],
   [
    "2025-10",
@@ -22581,7 +22852,72 @@
   [
    "2025-10",
    "networking",
+   "application"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "evaluation"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "evaluation"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "networking",
    "method"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "method"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "method"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "method"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "method"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "networking",
+   "theory"
   ],
   [
    "2025-10",
@@ -22606,7 +22942,22 @@
   [
    "2025-10",
    "pricing-strategy",
+   "application"
+  ],
+  [
+   "2025-10",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2025-10",
+   "pricing-strategy",
    "method"
+  ],
+  [
+   "2025-10",
+   "pricing-strategy",
+   "systems"
   ],
   [
    "2025-10",
@@ -22617,6 +22968,21 @@
    "2025-10",
    "product-market-fit",
    "systems"
+  ],
+  [
+   "2025-10",
+   "product-market-fit",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2025-10",
+   "sales-psychology",
+   "application"
   ],
   [
    "2025-10",
@@ -22636,6 +23002,16 @@
   [
    "2025-10",
    "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "sales-psychology",
+   "method"
+  ],
+  [
+   "2025-10",
+   "sales-psychology",
    "method"
   ],
   [
@@ -22647,6 +23023,26 @@
    "2025-10",
    "sales-psychology",
    "systems"
+  ],
+  [
+   "2025-10",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "sales-psychology",
+   "theory"
   ],
   [
    "2025-10",
@@ -22721,12 +23117,27 @@
   [
    "2025-11",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
    "evaluation"
   ],
   [
    "2025-11",
    "ai-adoption",
    "evaluation"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "mechanism"
   ],
   [
    "2025-11",
@@ -22856,6 +23267,21 @@
   [
    "2025-11",
    "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-adoption",
    "theory"
   ],
   [
@@ -22887,6 +23313,11 @@
    "2025-11",
    "b2b-marketing",
    "systems"
+  ],
+  [
+   "2025-11",
+   "brand-building",
+   "mechanism"
   ],
   [
    "2025-11",
@@ -22916,7 +23347,42 @@
   [
    "2025-11",
    "content-marketing",
+   "application"
+  ],
+  [
+   "2025-11",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2025-11",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2025-11",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2025-11",
+   "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "content-marketing",
    "method"
+  ],
+  [
+   "2025-11",
+   "content-marketing",
+   "method"
+  ],
+  [
+   "2025-11",
+   "content-marketing",
+   "systems"
   ],
   [
    "2025-11",
@@ -22945,8 +23411,23 @@
   ],
   [
    "2025-11",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2025-11",
    "digital-marketing",
    "application"
+  ],
+  [
+   "2025-11",
+   "digital-marketing",
+   "mechanism"
   ],
   [
    "2025-11",
@@ -22972,6 +23453,61 @@
    "2025-11",
    "growth-metrics",
    "application"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "method"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "networking",
+   "theory"
   ],
   [
    "2025-11",
@@ -23010,6 +23546,16 @@
   ],
   [
    "2025-11",
+   "product-market-fit",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2025-11",
    "sales-psychology",
    "development"
   ],
@@ -23026,12 +23572,47 @@
   [
    "2025-11",
    "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "sales-psychology",
    "method"
   ],
   [
    "2025-11",
    "sales-psychology",
    "method"
+  ],
+  [
+   "2025-11",
+   "sales-psychology",
+   "method"
+  ],
+  [
+   "2025-11",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "sales-psychology",
+   "systems"
   ],
   [
    "2025-11",
@@ -23091,7 +23672,22 @@
   [
    "2025-12",
    "ai-adoption",
+   "development"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
    "evaluation"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "mechanism"
   ],
   [
    "2025-12",
@@ -23166,6 +23762,21 @@
   [
    "2025-12",
    "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "ai-adoption",
    "theory"
   ],
   [
@@ -23177,6 +23788,16 @@
    "2025-12",
    "b2b-marketing",
    "mechanism"
+  ],
+  [
+   "2025-12",
+   "b2b-marketing",
+   "method"
+  ],
+  [
+   "2025-12",
+   "b2b-marketing",
+   "method"
   ],
   [
    "2025-12",
@@ -23211,6 +23832,11 @@
   [
    "2025-12",
    "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2025-12",
+   "content-marketing",
    "mechanism"
   ],
   [
@@ -23240,6 +23866,26 @@
   ],
   [
    "2025-12",
+   "customer-retention",
+   "method"
+  ],
+  [
+   "2025-12",
+   "customer-retention",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "digital-marketing",
+   "application"
+  ],
+  [
+   "2025-12",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2025-12",
    "digital-marketing",
    "method"
   ],
@@ -23266,7 +23912,17 @@
   [
    "2025-12",
    "entrepreneurship",
+   "method"
+  ],
+  [
+   "2025-12",
+   "entrepreneurship",
    "review"
+  ],
+  [
+   "2025-12",
+   "entrepreneurship",
+   "systems"
   ],
   [
    "2025-12",
@@ -23312,6 +23968,71 @@
    "2025-12",
    "growth-metrics",
    "method"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "application"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "evaluation"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "method"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "method"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "networking",
+   "systems"
   ],
   [
    "2025-12",
@@ -23325,6 +24046,21 @@
   ],
   [
    "2025-12",
+   "pricing-strategy",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "pricing-strategy",
+   "theory"
+  ],
+  [
+   "2025-12",
    "product-market-fit",
    "mechanism"
   ],
@@ -23366,6 +24102,11 @@
   [
    "2025-12",
    "sales-psychology",
+   "evaluation"
+  ],
+  [
+   "2025-12",
+   "sales-psychology",
    "mechanism"
   ],
   [
@@ -23392,6 +24133,16 @@
    "2025-12",
    "sales-psychology",
    "method"
+  ],
+  [
+   "2025-12",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "sales-psychology",
+   "systems"
   ],
   [
    "2025-12",
@@ -23537,6 +24288,11 @@
    "2026-01",
    "ai-adoption",
    "mechanism"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "method"
   ],
   [
    "2026-01",
@@ -23567,6 +24323,11 @@
    "2026-01",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2026-01",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2026-01",
@@ -23710,6 +24471,16 @@
   ],
   [
    "2026-01",
+   "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "content-marketing",
+   "mechanism"
+  ],
+  [
+   "2026-01",
    "customer-acquisition",
    "method"
   ],
@@ -23727,6 +24498,11 @@
    "2026-01",
    "customer-acquisition",
    "review"
+  ],
+  [
+   "2026-01",
+   "customer-retention",
+   "mechanism"
   ],
   [
    "2026-01",
@@ -23870,8 +24646,53 @@
   ],
   [
    "2026-01",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-01",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-01",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-01",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-01",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-01",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "networking",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-01",
    "partnerships",
    "systems"
+  ],
+  [
+   "2026-01",
+   "pricing-strategy",
+   "application"
   ],
   [
    "2026-01",
@@ -23895,6 +24716,11 @@
   ],
   [
    "2026-01",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-01",
    "product-market-fit",
    "mechanism"
   ],
@@ -23946,6 +24772,41 @@
   [
    "2026-01",
    "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "development"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
    "mechanism"
   ],
   [
@@ -23977,6 +24838,21 @@
    "2026-01",
    "sales-psychology",
    "method"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "sales-psychology",
+   "systems"
   ],
   [
    "2026-01",
@@ -24031,6 +24907,16 @@
   [
    "2026-02",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
    "evaluation"
   ],
   [
@@ -24062,6 +24948,16 @@
    "2026-02",
    "ai-adoption",
    "method"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "review"
   ],
   [
    "2026-02",
@@ -24162,6 +25058,11 @@
    "2026-02",
    "competitive-intelligence",
    "theory"
+  ],
+  [
+   "2026-02",
+   "content-marketing",
+   "evaluation"
   ],
   [
    "2026-02",
@@ -24186,6 +25087,11 @@
   [
    "2026-02",
    "digital-marketing",
+   "application"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
    "systems"
   ],
   [
@@ -24230,6 +25136,51 @@
   ],
   [
    "2026-02",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-02",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-02",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-02",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-02",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-02",
    "pricing-strategy",
    "systems"
   ],
@@ -24237,6 +25188,21 @@
    "2026-02",
    "pricing-strategy",
    "theory"
+  ],
+  [
+   "2026-02",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-02",
+   "sales-psychology",
+   "evaluation"
+  ],
+  [
+   "2026-02",
+   "sales-psychology",
+   "mechanism"
   ],
   [
    "2026-02",
@@ -24261,7 +25227,12 @@
   [
    "2026-02",
    "sales-psychology",
-   "theory"
+   "systems"
+  ],
+  [
+   "2026-02",
+   "sales-psychology",
+   "systems"
   ],
   [
    "2026-02",
@@ -24279,9 +25250,9 @@
    "theory"
   ],
   [
-   "2026-03",
-   "ai-adoption",
-   "application"
+   "2026-02",
+   "sales-psychology",
+   "theory"
   ],
   [
    "2026-03",
@@ -24332,6 +25303,21 @@
    "2026-03",
    "ai-adoption",
    "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "evaluation"
   ],
   [
    "2026-03",
@@ -24406,6 +25392,31 @@
   [
    "2026-03",
    "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
    "method"
   ],
   [
@@ -24417,6 +25428,11 @@
    "2026-03",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2026-03",
@@ -24481,6 +25497,11 @@
   [
    "2026-03",
    "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "content-marketing",
    "systems"
   ],
   [
@@ -24505,6 +25526,11 @@
   ],
   [
    "2026-03",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-03",
    "digital-marketing",
    "application"
   ],
@@ -24517,6 +25543,11 @@
    "2026-03",
    "entrepreneurship",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "theory"
   ],
   [
    "2026-03",
@@ -24545,6 +25576,31 @@
   ],
   [
    "2026-03",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-03",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-03",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "networking",
+   "systems"
+  ],
+  [
+   "2026-03",
    "partnerships",
    "method"
   ],
@@ -24552,6 +25608,11 @@
    "2026-03",
    "partnerships",
    "systems"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "mechanism"
   ],
   [
    "2026-03",
@@ -24580,6 +25641,16 @@
   ],
   [
    "2026-03",
+   "product-market-fit",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-03",
    "sales-psychology",
    "application"
   ],
@@ -24592,6 +25663,21 @@
    "2026-03",
    "sales-psychology",
    "application"
+  ],
+  [
+   "2026-03",
+   "sales-psychology",
+   "development"
+  ],
+  [
+   "2026-03",
+   "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "sales-psychology",
+   "mechanism"
   ],
   [
    "2026-03",
@@ -24607,6 +25693,21 @@
    "2026-03",
    "sales-psychology",
    "method"
+  ],
+  [
+   "2026-03",
+   "sales-psychology",
+   "method"
+  ],
+  [
+   "2026-03",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "sales-psychology",
+   "systems"
   ],
   [
    "2026-03",
@@ -24697,6 +25798,21 @@
    "2026-04",
    "ai-adoption",
    "evaluation"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
   ],
   [
    "2026-04",
@@ -24836,7 +25952,7 @@
   [
    "2026-04",
    "ai-adoption",
-   "theory"
+   "systems"
   ],
   [
    "2026-04",
@@ -24850,6 +25966,16 @@
   ],
   [
    "2026-04",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "b2b-marketing",
+   "mechanism"
+  ],
+  [
+   "2026-04",
    "b2b-marketing",
    "mechanism"
   ],
@@ -24861,7 +25987,12 @@
   [
    "2026-04",
    "b2b-marketing",
-   "mechanism"
+   "method"
+  ],
+  [
+   "2026-04",
+   "b2b-marketing",
+   "method"
   ],
   [
    "2026-04",
@@ -24902,6 +26033,41 @@
    "2026-04",
    "competitive-intelligence",
    "application"
+  ],
+  [
+   "2026-04",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2026-04",
+   "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "content-marketing",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "content-marketing",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "content-marketing",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "content-marketing",
+   "systems"
   ],
   [
    "2026-04",
@@ -24920,6 +26086,16 @@
   ],
   [
    "2026-04",
+   "customer-retention",
+   "method"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "application"
+  ],
+  [
+   "2026-04",
    "digital-marketing",
    "application"
   ],
@@ -24935,6 +26111,11 @@
   ],
   [
    "2026-04",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-04",
    "go-to-market",
    "application"
   ],
@@ -24977,6 +26158,56 @@
    "2026-04",
    "market-analysis",
    "review"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "method"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "method"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "method"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "networking",
+   "theory"
   ],
   [
    "2026-04",
@@ -25046,7 +26277,37 @@
   [
    "2026-04",
    "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
    "evaluation"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "mechanism"
   ],
   [
    "2026-04",
@@ -25077,6 +26338,31 @@
    "2026-04",
    "sales-psychology",
    "systems"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "sales-psychology",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
   ],
   [
    "2026-05",
@@ -25161,6 +26447,11 @@
   [
    "2026-05",
    "ai-adoption",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
    "method"
   ],
   [
@@ -25187,6 +26478,16 @@
    "2026-05",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2026-05",
@@ -25322,6 +26623,16 @@
    "2026-05",
    "competitive-intelligence",
    "application"
+  ],
+  [
+   "2026-05",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2026-05",
+   "content-marketing",
+   "evaluation"
   ],
   [
    "2026-05",
@@ -25341,12 +26652,27 @@
   [
    "2026-05",
    "customer-retention",
+   "application"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
    "mechanism"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "systems"
   ],
   [
    "2026-05",
    "digital-marketing",
    "evaluation"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "systems"
   ],
   [
    "2026-05",
@@ -25405,6 +26731,71 @@
   ],
   [
    "2026-05",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-05",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-05",
+   "networking",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "networking",
+   "method"
+  ],
+  [
+   "2026-05",
+   "networking",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "mechanism"
+  ],
+  [
+   "2026-05",
    "pricing-strategy",
    "method"
   ],
@@ -25412,6 +26803,16 @@
    "2026-05",
    "pricing-strategy",
    "method"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "theory"
   ],
   [
    "2026-05",
@@ -25442,6 +26843,46 @@
    "2026-05",
    "sales-psychology",
    "application"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "method"
   ],
   [
    "2026-05",
@@ -25486,6 +26927,16 @@
   [
    "2026-05",
    "sales-psychology",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
    "theory"
   ],
   [
@@ -25497,6 +26948,21 @@
    "2026-05",
    "sales-psychology",
    "theory"
+  ],
+  [
+   "2026-05",
+   "sales-psychology",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "application"
   ],
   [
    "2026-06",
@@ -25691,7 +27157,22 @@
   [
    "2026-06",
    "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
    "theory"
+  ],
+  [
+   "2026-06",
+   "b2b-marketing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "b2b-marketing",
+   "method"
   ],
   [
    "2026-06",
@@ -25722,6 +27203,11 @@
    "2026-06",
    "brand-building",
    "application"
+  ],
+  [
+   "2026-06",
+   "brand-building",
+   "evaluation"
   ],
   [
    "2026-06",
@@ -25745,8 +27231,33 @@
   ],
   [
    "2026-06",
+   "content-marketing",
+   "application"
+  ],
+  [
+   "2026-06",
+   "content-marketing",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "content-marketing",
+   "method"
+  ],
+  [
+   "2026-06",
    "customer-acquisition",
    "method"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "application"
   ],
   [
    "2026-06",
@@ -25785,6 +27296,11 @@
   ],
   [
    "2026-06",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-06",
    "go-to-market",
    "application"
   ],
@@ -25830,6 +27346,81 @@
   ],
   [
    "2026-06",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "product-market-fit",
+   "mechanism"
+  ],
+  [
+   "2026-06",
    "product-market-fit",
    "systems"
   ],
@@ -25842,6 +27433,56 @@
    "2026-06",
    "sales-psychology",
    "application"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "development"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "mechanism"
   ],
   [
    "2026-06",
@@ -25871,7 +27512,7 @@
   [
    "2026-06",
    "sales-psychology",
-   "theory"
+   "systems"
   ],
   [
    "2026-06",
@@ -25892,6 +27533,21 @@
    "2026-06",
    "sales-psychology",
    "theory"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sales-psychology",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "application"
   ],
   [
    "2026-07",
@@ -25942,6 +27598,16 @@
    "2026-07",
    "ai-adoption",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "method"
   ],
   [
    "2026-07",
@@ -25962,6 +27628,21 @@
    "2026-07",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "review"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2026-07",
@@ -26027,6 +27708,16 @@
    "2026-07",
    "b2b-marketing",
    "application"
+  ],
+  [
+   "2026-07",
+   "b2b-marketing",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "b2b-marketing",
+   "method"
   ],
   [
    "2026-07",
@@ -26051,6 +27742,11 @@
   [
    "2026-07",
    "brand-building",
+   "application"
+  ],
+  [
+   "2026-07",
+   "brand-building",
    "method"
   ],
   [
@@ -26065,8 +27761,38 @@
   ],
   [
    "2026-07",
+   "content-marketing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "content-marketing",
+   "systems"
+  ],
+  [
+   "2026-07",
    "customer-retention",
    "evaluation"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "theory"
   ],
   [
    "2026-07",
@@ -26160,6 +27886,36 @@
   ],
   [
    "2026-07",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-07",
+   "networking",
+   "application"
+  ],
+  [
+   "2026-07",
+   "networking",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "networking",
+   "method"
+  ],
+  [
+   "2026-07",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-07",
    "pricing-strategy",
    "mechanism"
   ],
@@ -26185,8 +27941,28 @@
   ],
   [
    "2026-07",
+   "pricing-strategy",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "product-market-fit",
+   "method"
+  ],
+  [
+   "2026-07",
    "product-market-fit",
    "systems"
+  ],
+  [
+   "2026-07",
+   "sales-psychology",
+   "application"
+  ],
+  [
+   "2026-07",
+   "sales-psychology",
+   "application"
   ],
   [
    "2026-07",
@@ -26206,6 +27982,16 @@
   [
    "2026-07",
    "sales-psychology",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "sales-psychology",
+   "method"
+  ],
+  [
+   "2026-07",
+   "sales-psychology",
    "method"
   ],
   [
@@ -26222,6 +28008,11 @@
    "2026-07",
    "sales-psychology",
    "review"
+  ],
+  [
+   "2026-07",
+   "sales-psychology",
+   "systems"
   ],
   [
    "2026-07",
@@ -26335,6 +28126,16 @@
   ],
   [
    "2026-08",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-08",
    "b2b-marketing",
    "application"
   ],
@@ -27942,6 +29743,11 @@
    "2026-08",
    "digital-marketing",
    "theory"
+  ],
+  [
+   "2026-08",
+   "entrepreneurship",
+   "mechanism"
   ],
   [
    "2026-08",
@@ -29070,8 +30876,33 @@
   ],
   [
    "2026-08",
+   "networking",
+   "theory"
+  ],
+  [
+   "2026-08",
    "pricing-strategy",
    "application"
+  ],
+  [
+   "2026-08",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-08",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-08",
+   "sales-psychology",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "sales-psychology",
+   "evaluation"
   ],
   [
    "2026-08",
@@ -29087,6 +30918,11 @@
    "2026-08",
    "sales-psychology",
    "method"
+  ],
+  [
+   "2026-08",
+   "sales-psychology",
+   "systems"
   ],
   [
    "2026-08",
@@ -29427,115 +31263,115 @@
   }
  ],
  "source_breakdown": {
-  "arxiv": 1380,
+  "arxiv": 1747,
   "doi": 3978,
   "other": 238
  },
  "keyword_bursts": [
   {
    "keyword": "agentic",
-   "recent": 37,
-   "total": 39,
-   "burst_score": 3.47,
-   "recent_share": 0.0242
+   "recent": 67,
+   "total": 69,
+   "burst_score": 3.05,
+   "recent_share": 0.0353
   },
   {
    "keyword": "eu ai act",
-   "recent": 7,
-   "total": 8,
-   "burst_score": 3.2,
-   "recent_share": 0.0046
+   "recent": 9,
+   "total": 10,
+   "burst_score": 2.83,
+   "recent_share": 0.0047
+  },
+  {
+   "keyword": "literacy",
+   "recent": 111,
+   "total": 132,
+   "burst_score": 2.64,
+   "recent_share": 0.0585
+  },
+  {
+   "keyword": "negotiation",
+   "recent": 88,
+   "total": 108,
+   "burst_score": 2.56,
+   "recent_share": 0.0464
+  },
+  {
+   "keyword": "benchmark",
+   "recent": 129,
+   "total": 159,
+   "burst_score": 2.55,
+   "recent_share": 0.068
   },
   {
    "keyword": "solo",
    "recent": 4,
    "total": 5,
-   "burst_score": 2.92,
-   "recent_share": 0.0026
-  },
-  {
-   "keyword": "skills",
-   "recent": 72,
-   "total": 94,
-   "burst_score": 2.8,
-   "recent_share": 0.047
+   "burst_score": 2.51,
+   "recent_share": 0.0021
   },
   {
    "keyword": "genai",
-   "recent": 44,
-   "total": 58,
-   "burst_score": 2.77,
-   "recent_share": 0.0287
-  },
-  {
-   "keyword": "literacy",
-   "recent": 64,
-   "total": 85,
-   "burst_score": 2.75,
-   "recent_share": 0.0418
-  },
-  {
-   "keyword": "generative ai",
-   "recent": 118,
-   "total": 162,
-   "burst_score": 2.66,
-   "recent_share": 0.0771
-  },
-  {
-   "keyword": "training",
-   "recent": 116,
-   "total": 160,
-   "burst_score": 2.65,
-   "recent_share": 0.0758
-  },
-  {
-   "keyword": "benchmark",
-   "recent": 78,
-   "total": 108,
-   "burst_score": 2.64,
-   "recent_share": 0.0509
-  },
-  {
-   "keyword": "llm",
-   "recent": 220,
-   "total": 312,
-   "burst_score": 2.58,
-   "recent_share": 0.1437
-  },
-  {
-   "keyword": "saas",
-   "recent": 7,
-   "total": 10,
-   "burst_score": 2.56,
-   "recent_share": 0.0046
-  },
-  {
-   "keyword": "large language model",
-   "recent": 181,
-   "total": 269,
-   "burst_score": 2.46,
-   "recent_share": 0.1182
-  },
-  {
-   "keyword": "inbound",
-   "recent": 2,
-   "total": 3,
-   "burst_score": 2.44,
-   "recent_share": 0.0013
+   "recent": 54,
+   "total": 68,
+   "burst_score": 2.49,
+   "recent_share": 0.0285
   },
   {
    "keyword": "cohort",
-   "recent": 9,
-   "total": 14,
-   "burst_score": 2.35,
-   "recent_share": 0.0059
+   "recent": 19,
+   "total": 24,
+   "burst_score": 2.49,
+   "recent_share": 0.01
   },
   {
-   "keyword": "lead generation",
-   "recent": 18,
-   "total": 29,
-   "burst_score": 2.27,
-   "recent_share": 0.0118
+   "keyword": "llm",
+   "recent": 338,
+   "total": 430,
+   "burst_score": 2.47,
+   "recent_share": 0.1781
+  },
+  {
+   "keyword": "skills",
+   "recent": 80,
+   "total": 102,
+   "burst_score": 2.46,
+   "recent_share": 0.0421
+  },
+  {
+   "keyword": "training",
+   "recent": 156,
+   "total": 200,
+   "burst_score": 2.45,
+   "recent_share": 0.0822
+  },
+  {
+   "keyword": "large language model",
+   "recent": 273,
+   "total": 361,
+   "burst_score": 2.38,
+   "recent_share": 0.1438
+  },
+  {
+   "keyword": "generative ai",
+   "recent": 130,
+   "total": 174,
+   "burst_score": 2.35,
+   "recent_share": 0.0685
+  },
+  {
+   "keyword": "agent",
+   "recent": 251,
+   "total": 344,
+   "burst_score": 2.29,
+   "recent_share": 0.1322
+  },
+  {
+   "keyword": "saas",
+   "recent": 8,
+   "total": 11,
+   "burst_score": 2.28,
+   "recent_share": 0.0042
   }
  ]
 }

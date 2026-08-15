@@ -1,7 +1,7 @@
 # Business Development Research — Literature Review
 
 **Generated:** 2026-08-15  
-**Corpus:** 5,596 papers across 20 categories
+**Corpus:** 5,963 papers across 20 categories
 
 > Synthesis of the business development research corpus. Category insights are drawn from title/abstract analysis of the papers themselves.
 
@@ -11,14 +11,14 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | AI Adoption & Transformation | 689 |
-| 2 | Digital Marketing & SEO | 394 |
+| 1 | AI Adoption & Transformation | 742 |
+| 2 | Digital Marketing & SEO | 400 |
 | 3 | Market Analysis & Research | 384 |
-| 4 | Go-to-Market Strategy | 359 |
-| 5 | Content Marketing & Thought Leadership | 339 |
+| 4 | Content Marketing & Thought Leadership | 380 |
+| 5 | Go-to-Market Strategy | 359 |
 
 **Time span:** 2021–2026 (median year 2024)
-**Dominant aspects:** Method (1871), Systems & Technology (987), Application (953)
+**Dominant aspects:** Method (1920), Systems & Technology (1069), Application (1055)
 
 ---
 
@@ -28,26 +28,26 @@ Categories ranked by a momentum score combining recent output density with year-
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| B2B Marketing & Lead Gen | 232 | 185 | 20 | +825.0% | 80% | 15.4 |
+| B2B Marketing & Lead Gen | 244 | 197 | 20 | +885.0% | 81% | 16.4 |
+| AI Adoption & Transformation | 742 | 471 | 104 | +352.9% | 64% | 39.2 |
 | Market Analysis & Research | 384 | 143 | 30 | +376.7% | 37% | 11.9 |
-| AI Adoption & Transformation | 689 | 418 | 104 | +301.9% | 61% | 34.8 |
-| Digital Marketing & SEO | 394 | 127 | 35 | +262.9% | 32% | 10.6 |
+| Sales Psychology & Negotiation | 323 | 207 | 50 | +314.0% | 64% | 17.2 |
+| Digital Marketing & SEO | 400 | 133 | 35 | +280.0% | 33% | 11.1 |
+| Networking & Relationships | 304 | 110 | 31 | +254.8% | 36% | 9.2 |
+| Content Marketing & Thought Leadership | 380 | 139 | 40 | +247.5% | 37% | 11.6 |
 | Go-to-Market Strategy | 359 | 147 | 56 | +162.5% | 41% | 12.2 |
-| Sales Psychology & Negotiation | 235 | 119 | 50 | +138.0% | 51% | 9.9 |
-| Content Marketing & Thought Leadership | 339 | 98 | 40 | +145.0% | 29% | 8.2 |
 | Sales Strategy & Process | 265 | 63 | 36 | +75.0% | 24% | 5.2 |
-| Product-Market Fit & Validation | 247 | 42 | 50 | -16.0% | 17% | 3.5 |
+| Pricing & Monetization | 317 | 55 | 39 | +41.0% | 17% | 4.6 |
+| Product-Market Fit & Validation | 252 | 47 | 50 | -6.0% | 19% | 3.9 |
+| Brand & Positioning | 266 | 32 | 34 | -5.9% | 12% | 2.7 |
 | Growth Metrics & Analytics | 207 | 42 | 56 | -25.0% | 20% | 3.5 |
-| Brand & Positioning | 262 | 28 | 34 | -17.6% | 11% | 2.3 |
-| Pricing & Monetization | 292 | 30 | 39 | -23.1% | 10% | 2.5 |
-| Entrepreneurship & Small Business | 228 | 22 | 39 | -43.6% | 10% | 1.8 |
+| Entrepreneurship & Small Business | 235 | 29 | 39 | -25.6% | 12% | 2.4 |
 | Customer Acquisition & Growth | 203 | 22 | 42 | -47.6% | 11% | 1.8 |
+| Customer Retention & Churn | 214 | 23 | 50 | -54.0% | 11% | 1.9 |
 | Competitive Intelligence | 202 | 9 | 19 | -52.6% | 4% | 0.8 |
 | Partnerships & Alliances | 205 | 12 | 36 | -66.7% | 6% | 1.0 |
 | Business Models & Innovation | 253 | 9 | 33 | -72.7% | 4% | 0.8 |
 | Customer Success & Expansion | 208 | 8 | 30 | -73.3% | 4% | 0.7 |
-| Customer Retention & Churn | 197 | 6 | 50 | -88.0% | 3% | 0.5 |
-| Networking & Relationships | 195 | 1 | 31 | -96.8% | 0% | 0.1 |
 
 ---
 
@@ -63,21 +63,21 @@ Categories ranked by a momentum score combining recent output density with year-
 | `customer-success/evaluation` | 2 |
 | `business-models/evaluation` | 2 |
 | `partnerships/evaluation` | 2 |
-| `sales-psychology/development` | 2 |
 | `customer-acquisition/evaluation` | 3 |
+| `customer-retention/review` | 3 |
 
 **White-space cells** (low total but fast-growing):
 
 | Cell | Total | Last-12m | 12-m share |
 |------|-------:|---------:|-----------:|
 | `go-to-market/development` | 3 | 3 | 100% |
+| `sales-psychology/evaluation` | 13 | 12 | 92% |
 | `market-analysis/development` | 6 | 5 | 83% |
-| `b2b-marketing/theory` | 25 | 20 | 80% |
-| `ai-adoption/evaluation` | 20 | 15 | 75% |
-| `sales-psychology/evaluation` | 4 | 3 | 75% |
-| `b2b-marketing/evaluation` | 4 | 3 | 75% |
+| `b2b-marketing/evaluation` | 6 | 5 | 83% |
+| `sales-psychology/development` | 5 | 4 | 80% |
+| `ai-adoption/evaluation` | 23 | 18 | 78% |
+| `content-marketing/evaluation` | 17 | 12 | 71% |
 | `sales-psychology/review` | 7 | 5 | 71% |
-| `b2b-marketing/review` | 8 | 5 | 62% |
 
 ---
 
@@ -107,7 +107,7 @@ Top venues by paper count (where present in the metadata):
 
 AI adoption is the fastest-moving category: firm-level productivity studies, AI literacy, EU AI Act compliance and digital transformation of SMEs. This is the core evidence base for KI-Kompetenz-Training's ALaaS positioning.
 
-**Corpus size:** 689 papers
+**Corpus size:** 742 papers
 
 **Recent papers:**
 
@@ -121,7 +121,7 @@ AI adoption is the fastest-moving category: firm-level productivity studies, AI 
 
 Digital marketing research spans SEO, paid acquisition and social media. Effectiveness measurement (incrementality, A/B testing) is the recurring methodological theme.
 
-**Corpus size:** 394 papers
+**Corpus size:** 400 papers
 
 **Recent papers:**
 
@@ -145,6 +145,20 @@ Market analysis research centers on segmentation, sizing and preference measurem
 
 ---
 
+### Content Marketing & Thought Leadership (`content-marketing`)
+
+Content marketing research overlaps with influence and trust literature: thought leadership works via perceived expertise, and LLM-generated content is the fastest-growing application trend.
+
+**Corpus size:** 380 papers
+
+**Recent papers:**
+
+- [2026-08] ʼHumour by Women for Womenʼ: Mediated Gender Ideologies and Consumer Interpretive Strategies in Post — https://eprints.bbk.ac.uk/id/eprint/56566/1/Sukiasyan%20I%2C%20final%20thesis%20for%20library.pdf
+- [2026-08] Human-AI Collaboration vs. Substitution in Tourism Social Media Content: A Conceptual Framework for  — https://works.hcommons.org:snc83-vx894
+- [2026-08] DATA-DRIVEN DECISIONS: HOW ANALYTICS IS RESHAPING MARKETING STRATEGY — https://doi.org/10.5281/zenodo.18139046
+
+---
+
 ### Go-to-Market Strategy (`go-to-market`)
 
 Go-to-market research is driven by adoption/diffusion theory: early adopters, technology acceptance and launch timing. For digital services the evidence favors narrow beachhead segments and measurable pilots.
@@ -159,17 +173,17 @@ Go-to-market research is driven by adoption/diffusion theory: early adopters, te
 
 ---
 
-### Content Marketing & Thought Leadership (`content-marketing`)
+### Sales Psychology & Negotiation (`sales-psychology`)
 
-Content marketing research overlaps with influence and trust literature: thought leadership works via perceived expertise, and LLM-generated content is the fastest-growing application trend.
+Sales psychology draws on behavioral economics: persuasion, trust, nudging and prospect theory. The evidence strongly supports the EU AI Act's push for transparency — trust is a measurable conversion factor.
 
-**Corpus size:** 339 papers
+**Corpus size:** 323 papers
 
 **Recent papers:**
 
-- [2026-08] ʼHumour by Women for Womenʼ: Mediated Gender Ideologies and Consumer Interpretive Strategies in Post — https://eprints.bbk.ac.uk/id/eprint/56566/1/Sukiasyan%20I%2C%20final%20thesis%20for%20library.pdf
-- [2026-08] Human-AI Collaboration vs. Substitution in Tourism Social Media Content: A Conceptual Framework for  — https://works.hcommons.org:snc83-vx894
-- [2026-08] DATA-DRIVEN DECISIONS: HOW ANALYTICS IS RESHAPING MARKETING STRATEGY — https://doi.org/10.5281/zenodo.18139046
+- [2026-08] When AI personalisation becomes persuasive: the roles of trust and consumer response in digital adve — https://doi.org/10.21203/rs.3.rs-10481479/v1
+- [2026-08] Trust-centered persuasion in live-stream commerce in China: Platform affordances, presence, and goal — https://doi.org/10.1080/13527266.2026.2714916
+- [2026-08] REACT Trust Scaffolding in Real-Time GenAI Advertising — https://aisel.aisnet.org/treos_amcis2026/137
 
 ---
 
@@ -177,13 +191,41 @@ Content marketing research overlaps with influence and trust literature: thought
 
 Pricing research spans price discrimination, dynamic pricing and subscription models. Value-based and tiered pricing have the strongest evidence for B2B services; willingness-to-pay measurement is the key tool.
 
-**Corpus size:** 292 papers
+**Corpus size:** 317 papers
 
 **Recent papers:**
 
 - [2026-08] Benefits of Shifting Passenger Traffic from Air to Rail: A Case Study of California High-Speed Rail — https://arxiv.org/abs/2608.05636v1
-- [2026-07] On Non-Stationary Dynamic Pricing: Adaptivity and Optimality — https://arxiv.org/abs/2607.24115v1
-- [2026-07] Optimizing Monetization Strategies for Generative AI Firms: Implications for Search Engagement — https://arxiv.org/abs/2607.28780v1
+- [2026-08] Minimax-Optimal Semiparametric Contextual Dynamic Pricing with Multimodal Revenue — https://arxiv.org/abs/2608.03142v1
+- [2026-08] Reoptimization Algorithms for Contextual Bandits with Knapsack Constraints — https://arxiv.org/abs/2608.11383v1
+
+---
+
+### Networking & Relationships (`networking`)
+
+Networking research applies social capital and weak-tie theory to business outcomes. Professional networks and online communities are the dominant application; relationship marketing links it to revenue.
+
+**Corpus size:** 304 papers
+
+**Recent papers:**
+
+- [2026-08] Power in Liquid Democracy: A Network Centrality Approach — https://arxiv.org/abs/2608.13188v1
+- [2026-07] A Novel Gravity-Quasi-Laplacian Approach to Identifying Influential Nodes in Complex Networks — https://arxiv.org/abs/2607.23419v1
+- [2026-07] Overload-Based Cascades in Multiplex Flow Networks with Partial Functionality — https://arxiv.org/abs/2607.02844v1
+
+---
+
+### Brand & Positioning (`brand-building`)
+
+Brand research is anchored in brand equity and loyalty theory; online reputation and word-of-mouth are the fastest-growing application areas for small businesses and solo operators.
+
+**Corpus size:** 266 papers
+
+**Recent papers:**
+
+- [2026-08] Corporate Digital Responsibility Disclosure and Firm Value: Does What Firms Say About CDR Actually M — https://aisel.aisnet.org/treos_amcis2026/57
+- [2026-08] Missing from the data, missing from the design: feminist co-design for equitable hormonal contracept — https://doi.org/10.3389/fgwh.2026.1864517
+- [2026-08] GREEN OPERATIONS AS A STRATEGIC TOOL: EXAMINING ITS INFLUENCE ON CUSTOMER PERCEPTION AND BRAND EQUIT — https://doi.org/10.5281/zenodo.21869337
 
 ---
 
@@ -198,20 +240,6 @@ Sales research covers forecasting, performance and account management. Recent wo
 - [2026-08] Improving cohort coverage estimation using a data triangulation framework: the Swiss HIV Cohort Stud — https://doi.org/10.48620/97694
 - [2026-08] Entrepreneurial Work Engagement among Baristas in Franchise and Nonfranchise Coffee Shop Ventures — https://repository.ubaya.ac.id/51166/
 - [2026-08] Analisis Strategi Bisnis PT KAI (Persero) dalam Menghadapi DisrupsiTransportasi dan Mendorong Pertum — https://repository.ubaya.ac.id/51038/
-
----
-
-### Brand & Positioning (`brand-building`)
-
-Brand research is anchored in brand equity and loyalty theory; online reputation and word-of-mouth are the fastest-growing application areas for small businesses and solo operators.
-
-**Corpus size:** 262 papers
-
-**Recent papers:**
-
-- [2026-08] Corporate Digital Responsibility Disclosure and Firm Value: Does What Firms Say About CDR Actually M — https://aisel.aisnet.org/treos_amcis2026/57
-- [2026-08] Missing from the data, missing from the design: feminist co-design for equitable hormonal contracept — https://doi.org/10.3389/fgwh.2026.1864517
-- [2026-08] GREEN OPERATIONS AS A STRATEGIC TOOL: EXAMINING ITS INFLUENCE ON CUSTOMER PERCEPTION AND BRAND EQUIT — https://doi.org/10.5281/zenodo.21869337
 
 ---
 
@@ -233,27 +261,13 @@ Business model research covers platform economics, network effects and subscript
 
 PMF research overlaps with customer development and lean startup methods: MVP testing, user interviews and pilot evidence. The academic base is thinner than practitioner practice — a genuine research gap.
 
-**Corpus size:** 247 papers
+**Corpus size:** 252 papers
 
 **Recent papers:**
 
 - [2026-07] Three Forms of Entrepreneurship in the Quest for Product-Market Fit in Entrepreneurship — https://doi.org/10.5465/amproc.2026.13413abstract
+- [2026-07] Messy Research, Certification and the Monetization of Science — https://arxiv.org/abs/2607.13844v2
 - [2026-06] SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice — https://arxiv.org/abs/2606.04155v1
-- [2026-06] Pay Beliefs and the Amenity-Pay Tradeoff — https://arxiv.org/abs/2606.02503v3
-
----
-
-### Sales Psychology & Negotiation (`sales-psychology`)
-
-Sales psychology draws on behavioral economics: persuasion, trust, nudging and prospect theory. The evidence strongly supports the EU AI Act's push for transparency — trust is a measurable conversion factor.
-
-**Corpus size:** 235 papers
-
-**Recent papers:**
-
-- [2026-08] When AI personalisation becomes persuasive: the roles of trust and consumer response in digital adve — https://doi.org/10.21203/rs.3.rs-10481479/v1
-- [2026-08] Trust-centered persuasion in live-stream commerce in China: Platform affordances, presence, and goal — https://doi.org/10.1080/13527266.2026.2714916
-- [2026-08] REACT Trust Scaffolding in Real-Time GenAI Advertising — https://aisel.aisnet.org/treos_amcis2026/137
 
 ---
 
@@ -261,7 +275,7 @@ Sales psychology draws on behavioral economics: persuasion, trust, nudging and p
 
 B2B marketing research clusters around lead generation, funnels and customer acquisition. Evidence-based content is repeatedly shown to be the highest-leverage tactic for small firms with limited budgets.
 
-**Corpus size:** 232 papers
+**Corpus size:** 244 papers
 
 **Recent papers:**
 
@@ -275,13 +289,27 @@ B2B marketing research clusters around lead generation, funnels and customer acq
 
 Entrepreneurship research covers startups, venture capital and small business economics. Solo/indie operation is an emerging cell with thin academic coverage — white space for evidence-driven content.
 
-**Corpus size:** 228 papers
+**Corpus size:** 235 papers
 
 **Recent papers:**
 
+- [2026-08] Rebuilding Startups: An Empirical Study on Remote Work and Skill Complementarity — https://arxiv.org/abs/2608.02666v1
 - [2026-07] Predicting Startup Exit from Textual Descriptors - A Computational Linguistics Framework — https://arxiv.org/abs/2608.00045v1
 - [2026-07] Lucky or Good? Outcome Noise, Effective Sample Size, and the Attribution of Skill — https://arxiv.org/abs/2607.27544v1
-- [2026-07] Delegated Monitoring in Public-Private Sector Credit Programs: Underinvestment, Overinvestment, and  — https://arxiv.org/abs/2608.02651v1
+
+---
+
+### Customer Retention & Churn (`customer-retention`)
+
+Retention and churn research is highly quantitative: survival models, churn prediction and subscription analytics dominate. The evidence base for recurring-revenue businesses is strong and actionable.
+
+**Corpus size:** 214 papers
+
+**Recent papers:**
+
+- [2026-07] Dead Reckoning: Counting Your Customers Who Never Say Goodbye — https://arxiv.org/abs/2607.18623v1
+- [2026-07] Data-Driven Telecom Marketing Optimization: A Machine Learning-Based Churn Prediction and Customer S — https://arxiv.org/abs/2607.10260v1
+- [2026-07] How Early Is Early Enough? Design-Dependent Observation-Window Sufficiency in Subscription Churn Pre — https://arxiv.org/abs/2607.00473v1
 
 ---
 
@@ -352,34 +380,6 @@ Competitive intelligence research is grounded in competitive advantage theory (P
 - [2026-06] Who Owns the AI Recommendation? A Multi-Industry Empirical Map of Brand Category Ownership Across La — https://arxiv.org/abs/2606.23057v1
 - [2026-06] A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data — https://arxiv.org/abs/2606.15529v1
 - [2026-06] Accounting for AI Inference in Corporate GHG Inventories: A Four-Tier Methodology for Scope 3 Catego — https://arxiv.org/abs/2606.10660v1
-
----
-
-### Customer Retention & Churn (`customer-retention`)
-
-Retention and churn research is highly quantitative: survival models, churn prediction and subscription analytics dominate. The evidence base for recurring-revenue businesses is strong and actionable.
-
-**Corpus size:** 197 papers
-
-**Recent papers:**
-
-- [2026-07] Dead Reckoning: Counting Your Customers Who Never Say Goodbye — https://arxiv.org/abs/2607.18623v1
-- [2026-05] Engagement vs. Commitment: The Economic Trade-Offs of Polarizing News Content — https://arxiv.org/abs/2605.18357v1
-- [2026-03] Explainable Machine Learning for Telecom Customer Churn Prediction and Actionable Retention Strategi — https://doi.org/10.65455/1z4v1627
-
----
-
-### Networking & Relationships (`networking`)
-
-Networking research applies social capital and weak-tie theory to business outcomes. Professional networks and online communities are the dominant application; relationship marketing links it to revenue.
-
-**Corpus size:** 195 papers
-
-**Recent papers:**
-
-- [2025-10] Social capital in Islamic community-based pesantren — https://doi.org/10.55942/pssj.v5i10.706
-- [2025-07] Women, networks and enterprise: the impact of social capital on rural artisans’ entrepreneurship — https://doi.org/10.1108/jec-03-2025-0079
-- [2025-07] From social networks to sustainable solutions: Unpacking the influence of social capital on green in — https://doi.org/10.1016/j.chieco.2025.102496
 
 ---
 
