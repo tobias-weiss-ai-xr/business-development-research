@@ -213,6 +213,7 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🔗 Related Repositories
 
+- **Framework (uses this corpus):** [business-development](https://github.com/tobias-weiss-ai-xr/business-development) — open-source playbook to hone business ideas (analyze → understand → evaluate → steer); every method links to this evidence base
 - **Content site:** [ki-kompetenz-training](https://github.com/tobias-weiss-ai-xr/ki-kompetenz-training) — KI-Kompetenz-Training
 - **Analogous corpus:** [graph-research](https://github.com/tobias-weiss-ai-xr/graph-research)
 - **Analogous corpus:** [learning-research](https://github.com/tobias-weiss-ai-xr/learning-research)
