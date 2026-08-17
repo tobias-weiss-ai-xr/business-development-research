@@ -1,10 +1,22 @@
-# Business Development Research Corpus
+<h1 align="center">
+  <strong>Business Development Research Corpus</strong>
+</h1>
+<h3 align="center">Evidence base for KI-Kompetenz-Training — 20 business development disciplines</h3>
 
-**Evidence base for KI-Kompetenz-Training** — Analysis of 5,596 research papers across 20 business development disciplines.
+<div align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/business--development--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/business-development-research)
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/business--development--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/business-development-research/actions/workflows/validate.yml)
+  [![Marketing](https://img.shields.io/badge/Marketing-marketing--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/marketing-research) [![AI Literacy](https://img.shields.io/badge/AI Literacy-ai--literacy--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [![Learning](https://img.shields.io/badge/Learning-learning--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research)
+</div>
 
-**Author:** Tobias Weiss
-**Contact:** ki-kompetenz-training@tobias-weiss.org
-**Website:** [ki-kompetenz-training.org](https://www.ki-kompetenz-training.org)
+> 💼 **Business development research corpus:** market analysis, go-to-market,
+> sales, marketing, brand building, customer acquisition/retention, pricing,
+> strategy, leadership, and more — part of the family of `*-research` corpora.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tobias-weiss-ai-xr/business-development-research/main/assets/visualizations/category_distribution.png" alt="Teaser" width="600" />
+</p>
 
 ---
 
@@ -23,7 +35,7 @@ corpora and feeds evidence-based topics into the content pipeline
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 5,596 |
+| **Papers Analyzed** | 5,963 |
 | **Business Development Disciplines** | 20 |
 | **Time Span** | 2021-2026 |
 | **Research Aspects** | 8 |
@@ -32,12 +44,12 @@ corpora and feeds evidence-based topics into the content pipeline
 
 ### Top Evidence Areas
 
-1. **AI Adoption & Transformation** — 689 papers
-2. **Digital Marketing & SEO** — 394 papers
+1. **AI Adoption & Transformation** — 742 papers
+2. **Digital Marketing & SEO** — 400 papers
 3. **Market Analysis & Research** — 384 papers
-4. **Go-to-Market Strategy** — 359 papers
-5. **Content Marketing & Thought Leadership** — 339 papers
-6. **Pricing & Monetization** — 292 papers
+4. **Content Marketing & Thought Leadership** — 380 papers
+5. **Go-to-Market Strategy** — 359 papers
+6. **Sales Psychology & Negotiation** — 323 papers
 
 ---
 
@@ -48,47 +60,47 @@ corpora and feeds evidence-based topics into the content pipeline
 | Market Analysis & Research | 384 |
 | Go-to-Market Strategy | 359 |
 | Sales Strategy & Process | 265 |
-| B2B Marketing & Lead Gen | 232 |
-| Content Marketing & Thought Leadership | 339 |
-| Digital Marketing & SEO | 394 |
-| Brand & Positioning | 262 |
+| B2B Marketing & Lead Gen | 244 |
+| Content Marketing & Thought Leadership | 380 |
+| Digital Marketing & SEO | 400 |
+| Brand & Positioning | 266 |
 | Customer Acquisition & Growth | 203 |
-| Customer Retention & Churn | 197 |
+| Customer Retention & Churn | 214 |
 | Customer Success & Expansion | 208 |
-| Pricing & Monetization | 292 |
-| Product-Market Fit & Validation | 247 |
+| Pricing & Monetization | 317 |
+| Product-Market Fit & Validation | 252 |
 | Business Models & Innovation | 253 |
 | Competitive Intelligence | 202 |
 | Partnerships & Alliances | 205 |
-| Sales Psychology & Negotiation | 235 |
-| Networking & Relationships | 195 |
-| Entrepreneurship & Small Business | 228 |
+| Sales Psychology & Negotiation | 323 |
+| Networking & Relationships | 304 |
+| Entrepreneurship & Small Business | 235 |
 | Growth Metrics & Analytics | 207 |
-| AI Adoption & Transformation | 689 |
+| AI Adoption & Transformation | 742 |
 
 ### Research Aspects (Subcategories)
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 563 |
-| Mechanism | 664 |
-| Method | 1871 |
-| Application | 953 |
-| Development | 98 |
-| Systems & Technology | 987 |
-| Evaluation & Benchmarks | 167 |
-| Reviews & Surveys | 293 |
+| Theory | 597 |
+| Mechanism | 723 |
+| Method | 1920 |
+| Application | 1055 |
+| Development | 102 |
+| Systems & Technology | 1069 |
+| Evaluation & Benchmarks | 201 |
+| Reviews & Surveys | 296 |
 
 ---
 
 ## 🚀 Emerging Themes (Last 12 Months)
 
-1. **agentic** — 37 papers
-2. **eu ai act** — 7 papers
-3. **solo** — 4 papers
-4. **skills** — 72 papers
-5. **genai** — 44 papers
-6. **literacy** — 64 papers
+1. **agentic** — 67 papers
+2. **eu ai act** — 9 papers
+3. **literacy** — 111 papers
+4. **negotiation** — 88 papers
+5. **benchmark** — 129 papers
+6. **solo** — 4 papers
 
 ## 📈 Category Momentum (Last 12 Months)
 
@@ -96,12 +108,12 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 
 | Category | Total | Last 12m | Growth | 12-m share |
 |----------|------:|---------:|-------:|-----------:|
-| B2B Marketing & Lead Gen | 232 | 185 | +825.0% | 80% |
+| B2B Marketing & Lead Gen | 244 | 197 | +885.0% | 81% |
+| AI Adoption & Transformation | 742 | 471 | +352.9% | 64% |
 | Market Analysis & Research | 384 | 143 | +376.7% | 37% |
-| AI Adoption & Transformation | 689 | 418 | +301.9% | 61% |
-| Digital Marketing & SEO | 394 | 127 | +262.9% | 32% |
-| Go-to-Market Strategy | 359 | 147 | +162.5% | 41% |
-| Sales Psychology & Negotiation | 235 | 119 | +138.0% | 51% |
+| Sales Psychology & Negotiation | 323 | 207 | +314.0% | 64% |
+| Digital Marketing & SEO | 400 | 133 | +280.0% | 33% |
+| Networking & Relationships | 304 | 110 | +254.8% | 36% |
 
 ---
 
@@ -115,8 +127,8 @@ Cells with the fewest papers are prime opportunities for content and offer desig
 - `customer-success/evaluation` — 2 papers
 - `business-models/evaluation` — 2 papers
 - `partnerships/evaluation` — 2 papers
-- `sales-psychology/development` — 2 papers
 - `customer-acquisition/evaluation` — 3 papers
+- `customer-retention/review` — 3 papers
 
 ---
 
@@ -227,10 +239,180 @@ a weekly scheduled job opens a PR with newly discovered papers.
 - **Tools:** MIT License
 
 ---
+## 📊 Corpus Statistics
+
+**5,963 papers** across **20 categories**.  
+Sources: **arXiv** 1,747 (29%) · **DOI** 3,978 (66%) · **Other** 238 (3%).  
+Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/business-development-research).
+
+### Top categories
+
+| Category | Papers | Recent | |
+|----------|--------|--------|-|
+| ai-adoption | **742** | 0 | ████████████ |
+| digital-marketing | **400** | 0 | ██████░░░░░░ |
+| market-analysis | **384** | 0 | ██████░░░░░░ |
+| content-marketing | **380** | 0 | ██████░░░░░░ |
+| go-to-market | **359** | 0 | █████░░░░░░░ |
+| sales-psychology | **323** | 0 | █████░░░░░░░ |
+| pricing-strategy | **317** | 0 | █████░░░░░░░ |
+| networking | **304** | 0 | ████░░░░░░░░ |
+| brand-building | **266** | 0 | ████░░░░░░░░ |
+| sales-strategy | **265** | 0 | ████░░░░░░░░ |
+| *other* | **2,223** | | |
+
+
+### By year
+
+| Year | Papers | |
+|------|--------|-|
+| 2024 | 972 | ████████░░░░ |
+| 2025 | 1,004 | ████████░░░░ |
+| 2026 | 1,405 | ████████████ |
+
+
+### Momentum (hottest categories)
+
+| Category | Total | Rate | Recent | Score |
+|----------|-------|------|--------|-------|
+| B2B Marketing & Lead Gen | 244 | 16.4/mo | 81% | 966 |
+| AI Adoption & Transformation | 742 | 39.2/mo | 64% | 416 |
+| Market Analysis & Research | 384 | 11.9/mo | 37% | 414 |
+| Sales Psychology & Negotiation | 323 | 17.2/mo | 64% | 378 |
+| Digital Marketing & SEO | 400 | 11.1/mo | 33% | 313 |
+
+
+### Trending keywords
+
+| Keyword | Papers | Burst |
+|---------|--------|-------|
+| agentic | 69 | 3.05 |
+| eu ai act | 10 | 2.83 |
+| literacy | 132 | 2.64 |
+| negotiation | 108 | 2.56 |
+| benchmark | 159 | 2.55 |
+| solo | 5 | 2.51 |
+| genai | 68 | 2.49 |
+| cohort | 24 | 2.49 |
+
+
+### Top venues
+
+| Venue | Papers |
+|-------|--------|
+| Sustainability | 119 |
+| Zenodo (CERN European Organization for Nuclear Research) | 94 |
+| Journal of Business Research | 53 |
+| SSRN Electronic Journal | 48 |
+| The International Conference on Sustainable Economics Management and Accounting Proceeding | 39 |
+| Journal of the Association for Information Systems | 37 |
+| International Journal of Data and Network Science | 34 |
+| Journal of Retailing and Consumer Services | 34 |
+
+
+### Research gaps (thinnest cells)
+
+| Cell | Papers |
+|------|--------|
+| `partnerships/development` | 1 |
+| `pricing-strategy/development` | 1 |
+| `b2b-marketing/development` | 2 |
+| `customer-success/evaluation` | 2 |
+| `business-models/evaluation` | 2 |
+
+
+
+*Generated 2026-08 by `scripts/standard_stats.py`.*
+
+## 📊 Corpus Statistics
+
+**5,963 papers** across **20 categories**.  
+Sources: **arXiv** 1,747 (29%) · **DOI** 3,978 (66%) · **Other** 238 (3%).  
+Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/business-development-research).
+
+### Top categories
+
+| Category | Papers | Recent | |
+|----------|--------|--------|-|
+| ai-adoption | **742** | 0 | ████████████ |
+| digital-marketing | **400** | 0 | ██████░░░░░░ |
+| market-analysis | **384** | 0 | ██████░░░░░░ |
+| content-marketing | **380** | 0 | ██████░░░░░░ |
+| go-to-market | **359** | 0 | █████░░░░░░░ |
+| sales-psychology | **323** | 0 | █████░░░░░░░ |
+| pricing-strategy | **317** | 0 | █████░░░░░░░ |
+| networking | **304** | 0 | ████░░░░░░░░ |
+| brand-building | **266** | 0 | ████░░░░░░░░ |
+| sales-strategy | **265** | 0 | ████░░░░░░░░ |
+| *other* | **2,223** | | |
+
+
+### By year
+
+| Year | Papers | |
+|------|--------|-|
+| 2024 | 972 | ████████░░░░ |
+| 2025 | 1,004 | ████████░░░░ |
+| 2026 | 1,405 | ████████████ |
+
+
+### Momentum (hottest categories)
+
+| Category | Total | Rate | Recent | Score |
+|----------|-------|------|--------|-------|
+| B2B Marketing & Lead Gen | 244 | 16.4/mo | 81% | 966 |
+| AI Adoption & Transformation | 742 | 39.2/mo | 64% | 416 |
+| Market Analysis & Research | 384 | 11.9/mo | 37% | 414 |
+| Sales Psychology & Negotiation | 323 | 17.2/mo | 64% | 378 |
+| Digital Marketing & SEO | 400 | 11.1/mo | 33% | 313 |
+
+
+### Trending keywords
+
+| Keyword | Papers | Burst |
+|---------|--------|-------|
+| agentic | 69 | 3.05 |
+| eu ai act | 10 | 2.83 |
+| literacy | 132 | 2.64 |
+| negotiation | 108 | 2.56 |
+| benchmark | 159 | 2.55 |
+| solo | 5 | 2.51 |
+| genai | 68 | 2.49 |
+| cohort | 24 | 2.49 |
+
+
+### Top venues
+
+| Venue | Papers |
+|-------|--------|
+| Sustainability | 119 |
+| Zenodo (CERN European Organization for Nuclear Research) | 94 |
+| Journal of Business Research | 53 |
+| SSRN Electronic Journal | 48 |
+| The International Conference on Sustainable Economics Management and Accounting Proceeding | 39 |
+| Journal of the Association for Information Systems | 37 |
+| International Journal of Data and Network Science | 34 |
+| Journal of Retailing and Consumer Services | 34 |
+
+
+### Research gaps (thinnest cells)
+
+| Cell | Papers |
+|------|--------|
+| `partnerships/development` | 1 |
+| `pricing-strategy/development` | 1 |
+| `b2b-marketing/development` | 2 |
+| `customer-success/evaluation` | 2 |
+| `business-models/evaluation` | 2 |
+
+
+
+*Generated 2026-08 by `scripts/standard_stats.py`.*
+
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 5,596 papers across 2021-2026 to create a
+This corpus synthesizes 5,963 papers across 2021-2026 to create a
 comprehensive evidence base for business development decisions: what to write,
 what to offer, how to price, and where the market is heading.
 
