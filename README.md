@@ -4,10 +4,10 @@
 <h3 align="center">Evidence base for KI-Kompetenz-Training — 20 business development disciplines</h3>
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/business--development--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/business-development-research)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/business--development--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/business-development-research/actions/workflows/validate.yml)
-  [![Marketing](https://img.shields.io/badge/Marketing-marketing--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/marketing-research) [![AI Literacy](https://img.shields.io/badge/AI Literacy-ai--literacy--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [![Learning](https://img.shields.io/badge/Learning-learning--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research)
+  [**GitHub**](https://github.com/tobias-weiss-ai-xr/business-development-research)
+  [**License**](LICENSE)
+  [**CI**](https://github.com/tobias-weiss-ai-xr/business-development-research/actions/workflows/validate.yml)
+  [**Marketing**](https://github.com/tobias-weiss-ai-xr/marketing-research) [**AI Literacy**](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [**Learning**](https://github.com/tobias-weiss-ai-xr/learning-research)
 </div>
 
 > 💼 **Business development research corpus:** market analysis, go-to-market,
