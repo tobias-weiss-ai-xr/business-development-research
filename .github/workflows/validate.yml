@@ -83,7 +83,7 @@ jobs:
         run: |
           python3 scripts/analysis/generate_analysis.py
           python3 scripts/visualize_statistics.py
-          python3 scripts/generate_readme.py
+          python3 scripts/refresh_readme_stats.py
           python3 tools/topic_planner.py --top 10
 
       - name: Commit updates

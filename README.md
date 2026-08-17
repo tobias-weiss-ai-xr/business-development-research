@@ -3,12 +3,15 @@
 </h1>
 <h3 align="center">Evidence base for KI-Kompetenz-Training — 20 business development disciplines</h3>
 
-<div align="center">
-  [**GitHub**](https://github.com/tobias-weiss-ai-xr/business-development-research)
-  [**License**](LICENSE)
-  [**CI**](https://github.com/tobias-weiss-ai-xr/business-development-research/actions/workflows/validate.yml)
-  [**Marketing**](https://github.com/tobias-weiss-ai-xr/marketing-research) [**AI Literacy**](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [**Learning**](https://github.com/tobias-weiss-ai-xr/learning-research)
-</div>
+### 🔗 Links
+
+- **GitHub**: https://github.com/tobias-weiss-ai-xr/business-development-research
+- **License**: https://github.com/tobias-weiss-ai-xr/business-development-research/blob/main/LICENSE
+- **CI**: https://github.com/tobias-weiss-ai-xr/business-development-research/actions/workflows/validate.yml
+- **Marketing**: https://github.com/tobias-weiss-ai-xr/marketing-research
+- **AI Literacy**: https://github.com/tobias-weiss-ai-xr/ai-literacy-research
+- **Learning**: https://github.com/tobias-weiss-ai-xr/learning-research
+
 
 > 💼 **Business development research corpus:** market analysis, go-to-market,
 > sales, marketing, brand building, customer acquisition/retention, pricing,
