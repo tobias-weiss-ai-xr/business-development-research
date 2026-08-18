@@ -1,0 +1,702 @@
+topic:
+  name: Business Development
+  short: business-development
+  description: '- GitHub: https://github.com/tobias-weiss-ai-xr/business-development-research'
+  openalex_mailto: research@tobias-weiss-ai-xr.de
+taxonomy:
+  categories:
+  - id: ai-adoption
+    display: Ai Adoption
+  - id: b2b-marketing
+    display: B2b Marketing
+  - id: content-marketing
+    display: Content Marketing
+  - id: digital-marketing
+    display: Digital Marketing
+  - id: sales-strategy
+    display: Sales Strategy
+  - id: customer-retention
+    display: Customer Retention
+  - id: growth-metrics
+    display: Growth Metrics
+  - id: customer-success
+    display: Customer Success
+  - id: customer-acquisition
+    display: Customer Acquisition
+  - id: pricing-strategy
+    display: Pricing Strategy
+  - id: business-models
+    display: Business Models
+  - id: entrepreneurship
+    display: Entrepreneurship
+  - id: competitive-intelligence
+    display: Competitive Intelligence
+  - id: partnerships
+    display: Partnerships
+  - id: go-to-market
+    display: Go To Market
+  - id: market-analysis
+    display: Market Analysis
+  - id: survey
+    display: Survey
+  - id: method
+    display: Method
+  subcategories:
+  - id: method
+    display: Method
+  - id: theory
+    display: Theory
+  - id: application
+    display: Application
+  - id: survey
+    display: Survey
+  - id: experiment
+    display: Experiment
+  - id: systems
+    display: Systems
+  - id: development
+    display: Development
+arxiv_queries:
+- query: abs:"AI adoption small and medium enterprises"
+  category: ai-adoption
+  subcategory_hint: application
+- query: abs:"artificial intelligence adoption firms"
+  category: ai-adoption
+  subcategory_hint: mechanism
+- query: abs:"digital transformation SME"
+  category: ai-adoption
+  subcategory_hint: application
+- query: abs:"generative AI business impact"
+  category: ai-adoption
+  subcategory_hint: evaluation
+- query: abs:"AI literacy workforce"
+  category: ai-adoption
+  subcategory_hint: method
+- query: abs:"EU AI Act compliance"
+  category: ai-adoption
+  subcategory_hint: application
+- query: abs:"large language model enterprise adoption"
+  category: ai-adoption
+  subcategory_hint: application
+- query: abs:"B2B marketing strategy"
+  category: b2b-marketing
+  subcategory_hint: method
+- query: abs:"lead generation effectiveness"
+  category: b2b-marketing
+  subcategory_hint: evaluation
+- query: abs:"content marketing research"
+  category: content-marketing
+  subcategory_hint: method
+- query: abs:"digital marketing effectiveness"
+  category: digital-marketing
+  subcategory_hint: evaluation
+- query: abs:"social media marketing small business"
+  category: digital-marketing
+  subcategory_hint: application
+- query: abs:"search engine optimization research"
+  category: digital-marketing
+  subcategory_hint: method
+- query: abs:"influencer marketing effectiveness"
+  category: content-marketing
+  subcategory_hint: evaluation
+- query: abs:"sales forecasting machine learning"
+  category: sales-strategy
+  subcategory_hint: method
+- query: abs:"churn prediction subscription"
+  category: customer-retention
+  subcategory_hint: method
+- query: abs:"customer churn prediction"
+  category: customer-retention
+  subcategory_hint: application
+- query: abs:"customer lifetime value model"
+  category: growth-metrics
+  subcategory_hint: method
+- query: abs:"net promoter score customer loyalty"
+  category: customer-success
+  subcategory_hint: evaluation
+- query: abs:"customer acquisition cost"
+  category: customer-acquisition
+  subcategory_hint: evaluation
+- query: abs:"referral programs effectiveness"
+  category: customer-acquisition
+  subcategory_hint: evaluation
+- query: abs:"subscription pricing model"
+  category: pricing-strategy
+  subcategory_hint: method
+- query: abs:"willingness to pay measurement"
+  category: pricing-strategy
+  subcategory_hint: evaluation
+- query: abs:"dynamic pricing revenue"
+  category: pricing-strategy
+  subcategory_hint: method
+- query: abs:"freemium business model"
+  category: business-models
+  subcategory_hint: method
+- query: abs:"platform business model economics"
+  category: business-models
+  subcategory_hint: theory
+- query: abs:"software as a service business model"
+  category: business-models
+  subcategory_hint: application
+- query: abs:"entrepreneurial ecosystem startup"
+  category: entrepreneurship
+  subcategory_hint: mechanism
+- query: abs:"venture capital performance"
+  category: entrepreneurship
+  subcategory_hint: evaluation
+- query: abs:"small business growth strategies"
+  category: entrepreneurship
+  subcategory_hint: application
+- query: abs:"solo entrepreneurs gig economy"
+  category: entrepreneurship
+  subcategory_hint: application
+- query: abs:"competitive advantage small firm"
+  category: competitive-intelligence
+  subcategory_hint: theory
+- query: abs:"strategic alliances performance"
+  category: partnerships
+  subcategory_hint: evaluation
+- query: abs:"market entry strategy international"
+  category: go-to-market
+  subcategory_hint: method
+- query: abs:"digital marketing survey"
+  category: digital-marketing
+  subcategory_hint: review
+- query: abs:"AI adoption survey"
+  category: ai-adoption
+  subcategory_hint: review
+- query: abs:"customer behavior survey"
+  category: market-analysis
+  subcategory_hint: review
+- query: abs:"pricing survey"
+  category: pricing-strategy
+  subcategory_hint: review
+- query: abs:"entrepreneurship survey"
+  category: entrepreneurship
+  subcategory_hint: review
+- query: abs:"churn prediction survey"
+  category: customer-retention
+  subcategory_hint: review
+- query: abs:"recommender system marketing"
+  category: digital-marketing
+  subcategory_hint: review
+- query: abs:"dynamic pricing survey"
+  category: pricing-strategy
+  subcategory_hint: review
+other_sources_queries:
+- source: crossref
+  query: AI adoption small and medium enterprises
+  category: ai-adoption
+  subcategory_hint: application
+- source: crossref
+  query: artificial intelligence adoption firms
+  category: ai-adoption
+  subcategory_hint: mechanism
+- source: crossref
+  query: digital transformation SME
+  category: ai-adoption
+  subcategory_hint: application
+- source: crossref
+  query: generative AI business impact
+  category: ai-adoption
+  subcategory_hint: evaluation
+- source: crossref
+  query: AI literacy workforce
+  category: ai-adoption
+  subcategory_hint: method
+- source: crossref
+  query: EU AI Act compliance
+  category: ai-adoption
+  subcategory_hint: application
+- source: dblp
+  query: large language model enterprise adoption
+  category: ai-adoption
+  subcategory_hint: application
+- source: crossref
+  query: B2B marketing strategy
+  category: b2b-marketing
+  subcategory_hint: method
+- source: crossref
+  query: lead generation effectiveness
+  category: b2b-marketing
+  subcategory_hint: evaluation
+- source: crossref
+  query: content marketing research
+  category: content-marketing
+  subcategory_hint: method
+- source: crossref
+  query: digital marketing effectiveness
+  category: digital-marketing
+  subcategory_hint: evaluation
+- source: crossref
+  query: social media marketing small business
+  category: digital-marketing
+  subcategory_hint: application
+- source: crossref
+  query: search engine optimization research
+  category: digital-marketing
+  subcategory_hint: method
+- source: crossref
+  query: influencer marketing effectiveness
+  category: content-marketing
+  subcategory_hint: evaluation
+- source: crossref
+  query: sales forecasting machine learning
+  category: sales-strategy
+  subcategory_hint: method
+- source: crossref
+  query: churn prediction subscription
+  category: customer-retention
+  subcategory_hint: method
+- source: dblp
+  query: customer churn prediction
+  category: customer-retention
+  subcategory_hint: application
+- source: crossref
+  query: customer lifetime value model
+  category: growth-metrics
+  subcategory_hint: method
+- source: crossref
+  query: net promoter score customer loyalty
+  category: customer-success
+  subcategory_hint: evaluation
+- source: crossref
+  query: customer acquisition cost
+  category: customer-acquisition
+  subcategory_hint: evaluation
+- source: crossref
+  query: referral programs effectiveness
+  category: customer-acquisition
+  subcategory_hint: evaluation
+- source: crossref
+  query: subscription pricing model
+  category: pricing-strategy
+  subcategory_hint: method
+- source: crossref
+  query: willingness to pay measurement
+  category: pricing-strategy
+  subcategory_hint: evaluation
+- source: crossref
+  query: dynamic pricing revenue
+  category: pricing-strategy
+  subcategory_hint: method
+- source: crossref
+  query: freemium business model
+  category: business-models
+  subcategory_hint: method
+- source: crossref
+  query: platform business model economics
+  category: business-models
+  subcategory_hint: theory
+- source: crossref
+  query: software as a service business model
+  category: business-models
+  subcategory_hint: application
+- source: crossref
+  query: entrepreneurial ecosystem startup
+  category: entrepreneurship
+  subcategory_hint: mechanism
+- source: crossref
+  query: venture capital performance
+  category: entrepreneurship
+  subcategory_hint: evaluation
+- source: crossref
+  query: small business growth strategies
+  category: entrepreneurship
+  subcategory_hint: application
+- source: crossref
+  query: solo entrepreneurs gig economy
+  category: entrepreneurship
+  subcategory_hint: application
+- source: crossref
+  query: competitive advantage small firm
+  category: competitive-intelligence
+  subcategory_hint: theory
+- source: crossref
+  query: strategic alliances performance
+  category: partnerships
+  subcategory_hint: evaluation
+- source: crossref
+  query: market entry strategy international
+  category: go-to-market
+  subcategory_hint: method
+- source: crossref
+  query: digital marketing survey
+  category: digital-marketing
+  subcategory_hint: review
+- source: crossref
+  query: AI adoption survey
+  category: ai-adoption
+  subcategory_hint: review
+- source: crossref
+  query: customer behavior survey
+  category: market-analysis
+  subcategory_hint: review
+- source: crossref
+  query: pricing survey
+  category: pricing-strategy
+  subcategory_hint: review
+- source: crossref
+  query: entrepreneurship survey
+  category: entrepreneurship
+  subcategory_hint: review
+- source: dblp
+  query: churn prediction survey
+  category: customer-retention
+  subcategory_hint: review
+- source: dblp
+  query: recommender system marketing
+  category: digital-marketing
+  subcategory_hint: review
+- source: dblp
+  query: dynamic pricing survey
+  category: pricing-strategy
+  subcategory_hint: review
+openalex_queries:
+- category: ai-adoption
+  query: AI adoption small and medium enterprises
+- category: ai-adoption
+  query: artificial intelligence adoption firms
+- category: ai-adoption
+  query: digital transformation SME
+- category: ai-adoption
+  query: generative AI business impact
+- category: ai-adoption
+  query: AI literacy workforce
+- category: ai-adoption
+  query: EU AI Act compliance
+- category: ai-adoption
+  query: large language model enterprise adoption
+- category: b2b-marketing
+  query: B2B marketing strategy
+- category: b2b-marketing
+  query: lead generation effectiveness
+- category: content-marketing
+  query: content marketing research
+- category: digital-marketing
+  query: digital marketing effectiveness
+- category: digital-marketing
+  query: social media marketing small business
+- category: digital-marketing
+  query: search engine optimization research
+- category: content-marketing
+  query: influencer marketing effectiveness
+- category: sales-strategy
+  query: sales forecasting machine learning
+- category: customer-retention
+  query: churn prediction subscription
+- category: customer-retention
+  query: customer churn prediction
+- category: growth-metrics
+  query: customer lifetime value model
+- category: customer-success
+  query: net promoter score customer loyalty
+- category: customer-acquisition
+  query: customer acquisition cost
+- category: customer-acquisition
+  query: referral programs effectiveness
+- category: pricing-strategy
+  query: subscription pricing model
+- category: pricing-strategy
+  query: willingness to pay measurement
+- category: pricing-strategy
+  query: dynamic pricing revenue
+- category: business-models
+  query: freemium business model
+- category: business-models
+  query: platform business model economics
+- category: business-models
+  query: software as a service business model
+- category: entrepreneurship
+  query: entrepreneurial ecosystem startup
+- category: entrepreneurship
+  query: venture capital performance
+- category: entrepreneurship
+  query: small business growth strategies
+- category: entrepreneurship
+  query: solo entrepreneurs gig economy
+- category: competitive-intelligence
+  query: competitive advantage small firm
+- category: partnerships
+  query: strategic alliances performance
+- category: go-to-market
+  query: market entry strategy international
+- category: digital-marketing
+  query: digital marketing survey
+- category: ai-adoption
+  query: AI adoption survey
+- category: market-analysis
+  query: customer behavior survey
+- category: pricing-strategy
+  query: pricing survey
+- category: entrepreneurship
+  query: entrepreneurship survey
+- category: customer-retention
+  query: churn prediction survey
+- category: digital-marketing
+  query: recommender system marketing
+- category: pricing-strategy
+  query: dynamic pricing survey
+subcategory_keywords:
+- id: theory
+  keywords:
+  - theory
+  - theoretical
+  - proof
+  - convergence
+  - bound
+  - consistency
+  - asymptotic
+- id: method
+  keywords:
+  - method
+  - algorithm
+  - approach
+  - technique
+  - framework
+  - novel
+  - scheme
+- id: application
+  keywords:
+  - application
+  - applied
+  - real-world
+  - case study
+  - empirical
+- id: evaluation
+  keywords:
+  - benchmark
+  - evaluation
+  - comparison
+  - baseline
+  - empirical study
+- id: development
+  keywords:
+  - implementation
+  - software
+  - package
+  - library
+  - toolkit
+  - open-source
+- id: systems
+  keywords:
+  - system
+  - framework
+  - platform
+  - scalable
+  - distributed
+  - GPU
+  - parallel
+- id: survey
+  keywords:
+  - survey
+  - review
+  - literature
+  - tutorial
+  - overview
+  - taxonomy
+- id: experiment
+  keywords:
+  - experiment
+  - experimental
+  - simulation study
+  - numerical study
+  - synthetic
+relevance_keywords:
+- acquisition
+- adoption
+- advantage
+- ai adoption
+- alliances
+- artificial
+- b2b marketing
+- behavior
+- business
+- business models
+- capital
+- churn
+- competitive
+- competitive intelligence
+- compliance
+- content
+- content marketing
+- cost
+- customer
+- customer acquisition
+- customer retention
+- customer success
+- digital
+- digital marketing
+- dynamic
+- economics
+- economy
+- ecosystem
+- effectiveness
+- engine
+- enterprise
+- enterprises
+- entrepreneurial
+- entrepreneurs
+- entrepreneurship
+- entry
+- firm
+- firms
+- forecasting
+- freemium
+- generation
+- generative
+- go to market
+- growth
+- growth metrics
+- impact
+- influencer
+- intelligence
+- international
+- language
+- large
+- lead
+- learning
+- lifetime
+- literacy
+- loyalty
+- machine
+- market
+- market analysis
+- marketing
+- measurement
+- media
+- medium
+- model
+- optimization
+- partnerships
+- performance
+- platform
+- prediction
+- pricing
+- pricing strategy
+- programs
+- promoter
+- recommender
+- referral
+- research
+- revenue
+- sales
+- sales strategy
+- score
+- search
+- service
+- small
+- social
+- software
+- solo
+- startup
+- strategic
+- strategies
+- strategy
+- subscription
+- survey
+- system
+- transformation
+- value
+- venture
+- willingness
+- workforce
+trend_keywords:
+- acquisition
+- adoption
+- advantage
+- ai adoption
+- alliances
+- artificial
+- b2b marketing
+- behavior
+- business
+- business models
+- capital
+- churn
+- competitive
+- competitive intelligence
+- compliance
+- content
+- content marketing
+- cost
+- customer
+- customer acquisition
+- customer retention
+- customer success
+- digital
+- digital marketing
+- dynamic
+- economics
+- economy
+- ecosystem
+- effectiveness
+- engine
+- enterprise
+- enterprises
+- entrepreneurial
+- entrepreneurs
+- entrepreneurship
+- entry
+- firm
+- firms
+- forecasting
+- freemium
+- generation
+- generative
+- go to market
+- growth
+- growth metrics
+- impact
+- influencer
+- intelligence
+- international
+- language
+- large
+- lead
+- learning
+- lifetime
+- literacy
+- loyalty
+- machine
+- market
+- market analysis
+- marketing
+- measurement
+- media
+- medium
+- model
+- optimization
+- partnerships
+- performance
+- platform
+- prediction
+- pricing
+- pricing strategy
+- programs
+- promoter
+- recommender
+- referral
+- research
+- revenue
+- sales
+- sales strategy
+- score
+- search
+- service
+- small
+- social
+- software
+- solo
+- startup
+- strategic
+- strategies
+- strategy
+- subscription
+- survey
+- system
+- transformation
+- value
+- venture
+- willingness
+- workforce
