@@ -1,0 +1,987 @@
+{
+  "metadata": {
+    "total_papers": 6444,
+    "generated_date": "2026-08",
+    "taxonomy": {
+      "categories": 20,
+      "subcategories": 8,
+      "total_cells": 160,
+      "filled_cells": 160,
+      "saturation": 100.0,
+      "empty_cells": 0
+    },
+    "analysis_window": {
+      "last_12m_start": "2025-08"
+    }
+  },
+  "by_category": {
+    "ai-adoption": 773,
+    "b2b-marketing": 244,
+    "brand-building": 266,
+    "business-models": 253,
+    "competitive-intelligence": 287,
+    "content-marketing": 380,
+    "customer-acquisition": 273,
+    "customer-retention": 277,
+    "customer-success": 208,
+    "digital-marketing": 469,
+    "entrepreneurship": 313,
+    "go-to-market": 359,
+    "growth-metrics": 207,
+    "market-analysis": 384,
+    "networking": 304,
+    "partnerships": 205,
+    "pricing-strategy": 402,
+    "product-market-fit": 252,
+    "sales-psychology": 323,
+    "sales-strategy": 265
+  },
+  "by_subcategory": {
+    "application": 1128,
+    "development": 110,
+    "evaluation": 216,
+    "mechanism": 791,
+    "method": 2044,
+    "review": 319,
+    "systems": 1184,
+    "theory": 652
+  },
+  "by_year": {
+    "2021": 368,
+    "2022": 1145,
+    "2023": 1069,
+    "2024": 972,
+    "2025": 1004,
+    "2026": 1886
+  },
+  "by_cell": {
+    "ai-adoption/systems": 182,
+    "ai-adoption/application": 177,
+    "ai-adoption/method": 144,
+    "pricing-strategy/method": 141,
+    "go-to-market/method": 138,
+    "digital-marketing/method": 130,
+    "digital-marketing/systems": 128,
+    "content-marketing/method": 119,
+    "customer-success/method": 116,
+    "brand-building/method": 115,
+    "competitive-intelligence/method": 113,
+    "customer-acquisition/method": 110,
+    "product-market-fit/method": 107,
+    "ai-adoption/mechanism": 106,
+    "sales-strategy/method": 100,
+    "market-analysis/method": 97,
+    "entrepreneurship/method": 95,
+    "networking/method": 87,
+    "pricing-strategy/application": 83,
+    "entrepreneurship/systems": 82,
+    "partnerships/method": 81,
+    "content-marketing/systems": 79,
+    "sales-psychology/method": 78,
+    "digital-marketing/application": 75,
+    "pricing-strategy/systems": 75,
+    "b2b-marketing/method": 74,
+    "market-analysis/application": 73,
+    "sales-psychology/systems": 73,
+    "content-marketing/application": 70,
+    "business-models/method": 70,
+    "networking/application": 70,
+    "customer-retention/method": 67,
+    "ai-adoption/theory": 67,
+    "market-analysis/mechanism": 65,
+    "ai-adoption/review": 63,
+    "growth-metrics/method": 62,
+    "go-to-market/application": 60,
+    "customer-retention/mechanism": 60,
+    "go-to-market/systems": 58,
+    "sales-strategy/application": 56,
+    "market-analysis/systems": 53,
+    "growth-metrics/application": 53,
+    "market-analysis/review": 51,
+    "b2b-marketing/systems": 51,
+    "sales-psychology/application": 51,
+    "business-models/theory": 50,
+    "sales-psychology/mechanism": 50,
+    "networking/systems": 49,
+    "customer-retention/systems": 48,
+    "competitive-intelligence/application": 48,
+    "digital-marketing/theory": 46,
+    "customer-acquisition/systems": 46,
+    "sales-psychology/theory": 46,
+    "b2b-marketing/application": 45,
+    "customer-retention/evaluation": 45,
+    "product-market-fit/systems": 45,
+    "networking/theory": 45,
+    "brand-building/theory": 44,
+    "pricing-strategy/theory": 44,
+    "digital-marketing/mechanism": 43,
+    "go-to-market/mechanism": 42,
+    "pricing-strategy/mechanism": 42,
+    "competitive-intelligence/theory": 42,
+    "sales-strategy/systems": 41,
+    "customer-acquisition/application": 41,
+    "product-market-fit/application": 41,
+    "content-marketing/mechanism": 39,
+    "entrepreneurship/mechanism": 39,
+    "customer-acquisition/mechanism": 38,
+    "customer-retention/application": 38,
+    "go-to-market/theory": 37,
+    "business-models/application": 37,
+    "entrepreneurship/application": 36,
+    "business-models/systems": 35,
+    "competitive-intelligence/systems": 35,
+    "networking/mechanism": 34,
+    "business-models/mechanism": 33,
+    "partnerships/mechanism": 33,
+    "growth-metrics/systems": 33,
+    "b2b-marketing/mechanism": 32,
+    "brand-building/mechanism": 31,
+    "partnerships/application": 31,
+    "entrepreneurship/theory": 31,
+    "brand-building/application": 30,
+    "market-analysis/theory": 27,
+    "content-marketing/theory": 27,
+    "customer-success/systems": 27,
+    "b2b-marketing/theory": 26,
+    "digital-marketing/review": 26,
+    "sales-strategy/theory": 25,
+    "sales-strategy/mechanism": 24,
+    "brand-building/systems": 24,
+    "ai-adoption/evaluation": 24,
+    "product-market-fit/mechanism": 23,
+    "partnerships/theory": 23,
+    "business-models/review": 21,
+    "growth-metrics/mechanism": 21,
+    "partnerships/systems": 20,
+    "customer-success/theory": 19,
+    "product-market-fit/theory": 19,
+    "content-marketing/review": 18,
+    "customer-success/mechanism": 18,
+    "competitive-intelligence/mechanism": 18,
+    "content-marketing/evaluation": 17,
+    "entrepreneurship/review": 17,
+    "growth-metrics/evaluation": 17,
+    "customer-acquisition/theory": 16,
+    "partnerships/review": 14,
+    "go-to-market/review": 13,
+    "customer-success/application": 13,
+    "competitive-intelligence/review": 13,
+    "competitive-intelligence/evaluation": 13,
+    "sales-psychology/evaluation": 13,
+    "market-analysis/evaluation": 12,
+    "content-marketing/development": 11,
+    "digital-marketing/evaluation": 11,
+    "digital-marketing/development": 10,
+    "customer-retention/theory": 10,
+    "ai-adoption/development": 10,
+    "sales-strategy/development": 9,
+    "brand-building/evaluation": 9,
+    "customer-acquisition/review": 9,
+    "customer-acquisition/development": 9,
+    "product-market-fit/review": 9,
+    "growth-metrics/review": 9,
+    "go-to-market/evaluation": 8,
+    "b2b-marketing/review": 8,
+    "brand-building/review": 8,
+    "customer-success/review": 8,
+    "pricing-strategy/review": 8,
+    "pricing-strategy/evaluation": 8,
+    "networking/evaluation": 8,
+    "networking/review": 8,
+    "entrepreneurship/evaluation": 8,
+    "growth-metrics/theory": 8,
+    "sales-psychology/review": 7,
+    "sales-strategy/review": 6,
+    "customer-retention/development": 6,
+    "market-analysis/development": 6,
+    "b2b-marketing/evaluation": 6,
+    "brand-building/development": 5,
+    "customer-success/development": 5,
+    "product-market-fit/development": 5,
+    "business-models/development": 5,
+    "competitive-intelligence/development": 5,
+    "sales-psychology/development": 5,
+    "entrepreneurship/development": 5,
+    "sales-strategy/evaluation": 4,
+    "customer-acquisition/evaluation": 4,
+    "growth-metrics/development": 4,
+    "customer-retention/review": 3,
+    "product-market-fit/evaluation": 3,
+    "networking/development": 3,
+    "go-to-market/development": 3,
+    "b2b-marketing/development": 2,
+    "customer-success/evaluation": 2,
+    "business-models/evaluation": 2,
+    "partnerships/evaluation": 2,
+    "partnerships/development": 1,
+    "pricing-strategy/development": 1
+  },
+  "emerging_themes_12m": [
+    {
+      "keyword": "literacy",
+      "papers": 114
+    },
+    {
+      "keyword": "workforce",
+      "papers": 48
+    },
+    {
+      "keyword": "solo",
+      "papers": 4
+    },
+    {
+      "keyword": "language",
+      "papers": 357
+    },
+    {
+      "keyword": "generative",
+      "papers": 208
+    },
+    {
+      "keyword": "score",
+      "papers": 125
+    },
+    {
+      "keyword": "compliance",
+      "papers": 43
+    },
+    {
+      "keyword": "engine",
+      "papers": 124
+    },
+    {
+      "keyword": "referral",
+      "papers": 4
+    },
+    {
+      "keyword": "ai adoption",
+      "papers": 60
+    }
+  ],
+  "momentum": [
+    {
+      "id": "b2b-marketing",
+      "name": "B2B Marketing",
+      "total": 244,
+      "recent": 197,
+      "prior": 20,
+      "growth_pct": 885.0,
+      "recent_share": 0.807,
+      "papers_per_month": 16.4,
+      "score": 965.7
+    },
+    {
+      "id": "digital-marketing",
+      "name": "Digital Marketing",
+      "total": 469,
+      "recent": 202,
+      "prior": 35,
+      "growth_pct": 477.1,
+      "recent_share": 0.431,
+      "papers_per_month": 16.8,
+      "score": 520.2
+    },
+    {
+      "id": "ai-adoption",
+      "name": "Ai Adoption",
+      "total": 773,
+      "recent": 502,
+      "prior": 104,
+      "growth_pct": 382.7,
+      "recent_share": 0.649,
+      "papers_per_month": 41.8,
+      "score": 447.6
+    },
+    {
+      "id": "competitive-intelligence",
+      "name": "Competitive Intelligence",
+      "total": 287,
+      "recent": 94,
+      "prior": 19,
+      "growth_pct": 394.7,
+      "recent_share": 0.328,
+      "papers_per_month": 7.8,
+      "score": 427.5
+    },
+    {
+      "id": "market-analysis",
+      "name": "Market Analysis",
+      "total": 384,
+      "recent": 143,
+      "prior": 30,
+      "growth_pct": 376.7,
+      "recent_share": 0.372,
+      "papers_per_month": 11.9,
+      "score": 413.9
+    },
+    {
+      "id": "sales-psychology",
+      "name": "Sales Psychology",
+      "total": 323,
+      "recent": 207,
+      "prior": 50,
+      "growth_pct": 314.0,
+      "recent_share": 0.641,
+      "papers_per_month": 17.2,
+      "score": 378.1
+    },
+    {
+      "id": "pricing-strategy",
+      "name": "Pricing Strategy",
+      "total": 402,
+      "recent": 140,
+      "prior": 39,
+      "growth_pct": 259.0,
+      "recent_share": 0.348,
+      "papers_per_month": 11.7,
+      "score": 293.8
+    },
+    {
+      "id": "networking",
+      "name": "Networking",
+      "total": 304,
+      "recent": 110,
+      "prior": 31,
+      "growth_pct": 254.8,
+      "recent_share": 0.362,
+      "papers_per_month": 9.2,
+      "score": 291.0
+    },
+    {
+      "id": "content-marketing",
+      "name": "Content Marketing",
+      "total": 380,
+      "recent": 139,
+      "prior": 40,
+      "growth_pct": 247.5,
+      "recent_share": 0.366,
+      "papers_per_month": 11.6,
+      "score": 284.1
+    },
+    {
+      "id": "entrepreneurship",
+      "name": "Entrepreneurship",
+      "total": 313,
+      "recent": 107,
+      "prior": 39,
+      "growth_pct": 174.4,
+      "recent_share": 0.342,
+      "papers_per_month": 8.9,
+      "score": 208.6
+    },
+    {
+      "id": "go-to-market",
+      "name": "Go To Market",
+      "total": 359,
+      "recent": 147,
+      "prior": 56,
+      "growth_pct": 162.5,
+      "recent_share": 0.409,
+      "papers_per_month": 12.2,
+      "score": 203.4
+    },
+    {
+      "id": "customer-acquisition",
+      "name": "Customer Acquisition",
+      "total": 273,
+      "recent": 92,
+      "prior": 42,
+      "growth_pct": 119.0,
+      "recent_share": 0.337,
+      "papers_per_month": 7.7,
+      "score": 152.7
+    },
+    {
+      "id": "customer-retention",
+      "name": "Customer Retention",
+      "total": 277,
+      "recent": 86,
+      "prior": 50,
+      "growth_pct": 72.0,
+      "recent_share": 0.31,
+      "papers_per_month": 7.2,
+      "score": 103.0
+    },
+    {
+      "id": "sales-strategy",
+      "name": "Sales Strategy",
+      "total": 265,
+      "recent": 63,
+      "prior": 36,
+      "growth_pct": 75.0,
+      "recent_share": 0.238,
+      "papers_per_month": 5.2,
+      "score": 98.8
+    },
+    {
+      "id": "product-market-fit",
+      "name": "Product Market Fit",
+      "total": 252,
+      "recent": 47,
+      "prior": 50,
+      "growth_pct": -6.0,
+      "recent_share": 0.187,
+      "papers_per_month": 3.9,
+      "score": 12.7
+    },
+    {
+      "id": "brand-building",
+      "name": "Brand Building",
+      "total": 266,
+      "recent": 32,
+      "prior": 34,
+      "growth_pct": -5.9,
+      "recent_share": 0.12,
+      "papers_per_month": 2.7,
+      "score": 6.1
+    },
+    {
+      "id": "growth-metrics",
+      "name": "Growth Metrics",
+      "total": 207,
+      "recent": 42,
+      "prior": 56,
+      "growth_pct": -25.0,
+      "recent_share": 0.203,
+      "papers_per_month": 3.5,
+      "score": -4.7
+    },
+    {
+      "id": "partnerships",
+      "name": "Partnerships",
+      "total": 205,
+      "recent": 12,
+      "prior": 36,
+      "growth_pct": -66.7,
+      "recent_share": 0.059,
+      "papers_per_month": 1.0,
+      "score": -60.8
+    },
+    {
+      "id": "business-models",
+      "name": "Business Models",
+      "total": 253,
+      "recent": 9,
+      "prior": 33,
+      "growth_pct": -72.7,
+      "recent_share": 0.036,
+      "papers_per_month": 0.8,
+      "score": -69.1
+    },
+    {
+      "id": "customer-success",
+      "name": "Customer Success",
+      "total": 208,
+      "recent": 8,
+      "prior": 30,
+      "growth_pct": -73.3,
+      "recent_share": 0.038,
+      "papers_per_month": 0.7,
+      "score": -69.5
+    }
+  ],
+  "category_trajectory": {
+    "ai-adoption": {
+      "2021": 12,
+      "2022": 46,
+      "2023": 63,
+      "2024": 85,
+      "2025": 225,
+      "2026": 342
+    },
+    "b2b-marketing": {
+      "2021": 1,
+      "2022": 7,
+      "2023": 10,
+      "2024": 11,
+      "2025": 38,
+      "2026": 177
+    },
+    "brand-building": {
+      "2021": 31,
+      "2022": 85,
+      "2023": 58,
+      "2024": 39,
+      "2025": 32,
+      "2026": 21
+    },
+    "business-models": {
+      "2021": 23,
+      "2022": 84,
+      "2023": 64,
+      "2024": 54,
+      "2025": 25,
+      "2026": 3
+    },
+    "competitive-intelligence": {
+      "2021": 24,
+      "2022": 72,
+      "2023": 53,
+      "2024": 30,
+      "2025": 16,
+      "2026": 92
+    },
+    "content-marketing": {
+      "2021": 16,
+      "2022": 67,
+      "2023": 74,
+      "2024": 66,
+      "2025": 51,
+      "2026": 106
+    },
+    "customer-acquisition": {
+      "2021": 15,
+      "2022": 43,
+      "2023": 42,
+      "2024": 54,
+      "2025": 38,
+      "2026": 81
+    },
+    "customer-retention": {
+      "2021": 9,
+      "2022": 41,
+      "2023": 42,
+      "2024": 68,
+      "2025": 38,
+      "2026": 79
+    },
+    "customer-success": {
+      "2021": 21,
+      "2022": 65,
+      "2023": 56,
+      "2024": 47,
+      "2025": 13,
+      "2026": 6
+    },
+    "digital-marketing": {
+      "2021": 34,
+      "2022": 87,
+      "2023": 81,
+      "2024": 48,
+      "2025": 32,
+      "2026": 187
+    },
+    "entrepreneurship": {
+      "2021": 23,
+      "2022": 58,
+      "2023": 47,
+      "2024": 51,
+      "2025": 42,
+      "2026": 92
+    },
+    "go-to-market": {
+      "2021": 20,
+      "2022": 47,
+      "2023": 55,
+      "2024": 53,
+      "2025": 53,
+      "2026": 131
+    },
+    "growth-metrics": {
+      "2021": 12,
+      "2022": 29,
+      "2023": 41,
+      "2024": 48,
+      "2025": 51,
+      "2026": 26
+    },
+    "market-analysis": {
+      "2021": 23,
+      "2022": 77,
+      "2023": 74,
+      "2024": 45,
+      "2025": 31,
+      "2026": 134
+    },
+    "networking": {
+      "2021": 20,
+      "2022": 67,
+      "2023": 59,
+      "2024": 32,
+      "2025": 68,
+      "2026": 58
+    },
+    "partnerships": {
+      "2021": 13,
+      "2022": 62,
+      "2023": 47,
+      "2024": 49,
+      "2025": 31,
+      "2026": 3
+    },
+    "pricing-strategy": {
+      "2021": 28,
+      "2022": 84,
+      "2023": 75,
+      "2024": 56,
+      "2025": 39,
+      "2026": 120
+    },
+    "product-market-fit": {
+      "2021": 21,
+      "2022": 55,
+      "2023": 49,
+      "2024": 49,
+      "2025": 49,
+      "2026": 29
+    },
+    "sales-psychology": {
+      "2021": 5,
+      "2022": 19,
+      "2023": 16,
+      "2024": 38,
+      "2025": 100,
+      "2026": 145
+    },
+    "sales-strategy": {
+      "2021": 17,
+      "2022": 50,
+      "2023": 63,
+      "2024": 49,
+      "2025": 32,
+      "2026": 54
+    }
+  },
+  "keyword_bursts": [
+    {
+      "keyword": "literacy",
+      "recent": 114,
+      "total": 135,
+      "burst_score": 2.29,
+      "recent_share": 0.0479
+    },
+    {
+      "keyword": "workforce",
+      "recent": 48,
+      "total": 59,
+      "burst_score": 2.2,
+      "recent_share": 0.0202
+    },
+    {
+      "keyword": "solo",
+      "recent": 4,
+      "total": 5,
+      "burst_score": 2.17,
+      "recent_share": 0.0017
+    },
+    {
+      "keyword": "language",
+      "recent": 357,
+      "total": 490,
+      "burst_score": 1.97,
+      "recent_share": 0.1501
+    },
+    {
+      "keyword": "generative",
+      "recent": 208,
+      "total": 287,
+      "burst_score": 1.96,
+      "recent_share": 0.0874
+    },
+    {
+      "keyword": "score",
+      "recent": 125,
+      "total": 173,
+      "burst_score": 1.96,
+      "recent_share": 0.0525
+    },
+    {
+      "keyword": "compliance",
+      "recent": 43,
+      "total": 61,
+      "burst_score": 1.91,
+      "recent_share": 0.0181
+    },
+    {
+      "keyword": "engine",
+      "recent": 124,
+      "total": 180,
+      "burst_score": 1.87,
+      "recent_share": 0.0521
+    },
+    {
+      "keyword": "referral",
+      "recent": 4,
+      "total": 6,
+      "burst_score": 1.81,
+      "recent_share": 0.0017
+    },
+    {
+      "keyword": "ai adoption",
+      "recent": 60,
+      "total": 93,
+      "burst_score": 1.75,
+      "recent_share": 0.0252
+    },
+    {
+      "keyword": "economics",
+      "recent": 35,
+      "total": 55,
+      "burst_score": 1.72,
+      "recent_share": 0.0147
+    },
+    {
+      "keyword": "large",
+      "recent": 455,
+      "total": 719,
+      "burst_score": 1.71,
+      "recent_share": 0.1913
+    },
+    {
+      "keyword": "measurement",
+      "recent": 49,
+      "total": 78,
+      "burst_score": 1.7,
+      "recent_share": 0.0206
+    },
+    {
+      "keyword": "software",
+      "recent": 42,
+      "total": 69,
+      "burst_score": 1.65,
+      "recent_share": 0.0177
+    },
+    {
+      "keyword": "system",
+      "recent": 642,
+      "total": 1085,
+      "burst_score": 1.6,
+      "recent_share": 0.2699
+    }
+  ],
+  "source_breakdown": {
+    "arxiv": 1749,
+    "doi": 4439,
+    "other": 256
+  },
+  "venues": [
+    {
+      "name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "papers": 169
+    },
+    {
+      "name": "Sustainability",
+      "papers": 122
+    },
+    {
+      "name": "Journal of Business Research",
+      "papers": 54
+    },
+    {
+      "name": "SSRN Electronic Journal",
+      "papers": 48
+    },
+    {
+      "name": "The International Conference on Sustainable Economics Management and Accounting Proceeding",
+      "papers": 39
+    },
+    {
+      "name": "Open MIND",
+      "papers": 38
+    },
+    {
+      "name": "Journal of the Association for Information Systems",
+      "papers": 37
+    },
+    {
+      "name": "Journal of Retailing and Consumer Services",
+      "papers": 35
+    },
+    {
+      "name": "International Journal of Data and Network Science",
+      "papers": 34
+    },
+    {
+      "name": "Technological Forecasting and Social Change",
+      "papers": 31
+    },
+    {
+      "name": "Heliyon",
+      "papers": 28
+    },
+    {
+      "name": "Journal of Cleaner Production",
+      "papers": 26
+    },
+    {
+      "name": "Industrial Marketing Management",
+      "papers": 26
+    },
+    {
+      "name": "Research Square",
+      "papers": 26
+    },
+    {
+      "name": "Cairn.info",
+      "papers": 25
+    }
+  ],
+  "gaps": {
+    "thinnest_cells": [
+      {
+        "cell": "partnerships/development",
+        "papers": 1
+      },
+      {
+        "cell": "pricing-strategy/development",
+        "papers": 1
+      },
+      {
+        "cell": "b2b-marketing/development",
+        "papers": 2
+      },
+      {
+        "cell": "customer-success/evaluation",
+        "papers": 2
+      },
+      {
+        "cell": "business-models/evaluation",
+        "papers": 2
+      },
+      {
+        "cell": "partnerships/evaluation",
+        "papers": 2
+      },
+      {
+        "cell": "customer-retention/review",
+        "papers": 3
+      },
+      {
+        "cell": "product-market-fit/evaluation",
+        "papers": 3
+      },
+      {
+        "cell": "networking/development",
+        "papers": 3
+      },
+      {
+        "cell": "go-to-market/development",
+        "papers": 3
+      }
+    ],
+    "white_space": [
+      {
+        "cell": "go-to-market/development",
+        "total": 3,
+        "recent": 3,
+        "recent_share": 1.0
+      },
+      {
+        "cell": "sales-psychology/evaluation",
+        "total": 13,
+        "recent": 12,
+        "recent_share": 0.92
+      },
+      {
+        "cell": "market-analysis/development",
+        "total": 6,
+        "recent": 5,
+        "recent_share": 0.83
+      },
+      {
+        "cell": "b2b-marketing/evaluation",
+        "total": 6,
+        "recent": 5,
+        "recent_share": 0.83
+      },
+      {
+        "cell": "sales-psychology/development",
+        "total": 5,
+        "recent": 4,
+        "recent_share": 0.8
+      },
+      {
+        "cell": "ai-adoption/evaluation",
+        "total": 24,
+        "recent": 19,
+        "recent_share": 0.79
+      },
+      {
+        "cell": "content-marketing/evaluation",
+        "total": 17,
+        "recent": 12,
+        "recent_share": 0.71
+      },
+      {
+        "cell": "sales-psychology/review",
+        "total": 7,
+        "recent": 5,
+        "recent_share": 0.71
+      },
+      {
+        "cell": "b2b-marketing/review",
+        "total": 8,
+        "recent": 5,
+        "recent_share": 0.62
+      },
+      {
+        "cell": "networking/evaluation",
+        "total": 8,
+        "recent": 5,
+        "recent_share": 0.62
+      }
+    ]
+  },
+  "top_authors": [
+    {
+      "name": "Muhammad Turki Alshurideh",
+      "papers": 8
+    },
+    {
+      "name": "Jayesh Rane",
+      "papers": 7
+    },
+    {
+      "name": "Abdul Haeba Ramli",
+      "papers": 7
+    },
+    {
+      "name": "Nancy Bocken",
+      "papers": 7
+    },
+    {
+      "name": "Antonio Messeni Petruzzelli",
+      "papers": 6
+    },
+    {
+      "name": "Demetris Vrontis",
+      "papers": 6
+    },
+    {
+      "name": "Mohammed T. Nuseir",
+      "papers": 6
+    },
+    {
+      "name": "Ghaleb A. El Refae",
+      "papers": 6
+    },
+    {
+      "name": "Abdullah Al Mamun",
+      "papers": 6
+    },
+    {
+      "name": "Hema Yoganarasimhan",
+      "papers": 6
+    },
+    {
+      "name": "Satish Kumar",
+      "papers": 5
+    },
+    {
+      "name": "Weng Marc Lim",
+      "papers": 5
+    },
+    {
+      "name": "Umberto Panniello",
+      "papers": 5
+    },
+    {
+      "name": "Nadia Zahoor",
+      "papers": 5
+    },
+    {
+      "name": "Zahid Hussain",
+      "papers": 5
+    }
+  ]
+}
