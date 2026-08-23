@@ -1,0 +1,2166 @@
+{
+  "count": 116,
+  "concepts": [
+    {
+      "term": "Ai Adoption",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 773,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "ai-adoption"
+      },
+      "top_cells": [
+        "ai-adoption/systems",
+        "ai-adoption/application",
+        "ai-adoption/method",
+        "ai-adoption/mechanism"
+      ],
+      "papers": 773
+    },
+    {
+      "term": "Digital Marketing",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 469,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "digital-marketing"
+      },
+      "top_cells": [
+        "digital-marketing/method",
+        "digital-marketing/systems",
+        "digital-marketing/application",
+        "digital-marketing/theory"
+      ],
+      "papers": 469
+    },
+    {
+      "term": "Pricing Strategy",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 402,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "pricing-strategy"
+      },
+      "top_cells": [
+        "pricing-strategy/method",
+        "pricing-strategy/application",
+        "pricing-strategy/systems",
+        "pricing-strategy/theory"
+      ],
+      "papers": 402
+    },
+    {
+      "term": "Market Analysis",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 384,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "market-analysis"
+      },
+      "top_cells": [
+        "market-analysis/method",
+        "market-analysis/application",
+        "market-analysis/mechanism",
+        "market-analysis/systems"
+      ],
+      "papers": 384
+    },
+    {
+      "term": "Content Marketing",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 380,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "content-marketing"
+      },
+      "top_cells": [
+        "content-marketing/method",
+        "content-marketing/systems",
+        "content-marketing/application",
+        "content-marketing/mechanism"
+      ],
+      "papers": 380
+    },
+    {
+      "term": "large language",
+      "kind": "emergent",
+      "seed": false,
+      "df": 363,
+      "match": {
+        "type": "text",
+        "forms": [
+          "large language"
+        ]
+      },
+      "papers": 363,
+      "top_cells": [
+        "ai-adoption/systems",
+        "ai-adoption/application",
+        "ai-adoption/mechanism",
+        "content-marketing/application"
+      ]
+    },
+    {
+      "term": "Go To Market",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 359,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "go-to-market"
+      },
+      "top_cells": [
+        "go-to-market/method",
+        "go-to-market/application",
+        "go-to-market/systems",
+        "go-to-market/mechanism"
+      ],
+      "papers": 359
+    },
+    {
+      "term": "digital marketing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 331,
+      "match": {
+        "type": "text",
+        "forms": [
+          "digital marketing"
+        ]
+      },
+      "papers": 331,
+      "top_cells": [
+        "digital-marketing/method",
+        "digital-marketing/systems",
+        "digital-marketing/theory",
+        "digital-marketing/application"
+      ]
+    },
+    {
+      "term": "social media",
+      "kind": "emergent",
+      "seed": false,
+      "df": 327,
+      "match": {
+        "type": "text",
+        "forms": [
+          "social media"
+        ]
+      },
+      "papers": 327,
+      "top_cells": [
+        "digital-marketing/systems",
+        "content-marketing/method",
+        "brand-building/method",
+        "content-marketing/systems"
+      ]
+    },
+    {
+      "term": "language models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 316,
+      "match": {
+        "type": "text",
+        "forms": [
+          "language models"
+        ]
+      },
+      "papers": 316,
+      "top_cells": [
+        "ai-adoption/systems",
+        "ai-adoption/application",
+        "ai-adoption/mechanism",
+        "content-marketing/application"
+      ]
+    },
+    {
+      "term": "Entrepreneurship",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 313,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "entrepreneurship"
+      },
+      "top_cells": [
+        "entrepreneurship/method",
+        "entrepreneurship/systems",
+        "entrepreneurship/mechanism",
+        "entrepreneurship/application"
+      ],
+      "papers": 313
+    },
+    {
+      "term": "competitive advantage",
+      "kind": "emergent",
+      "seed": false,
+      "df": 298,
+      "match": {
+        "type": "text",
+        "forms": [
+          "competitive advantage"
+        ]
+      },
+      "papers": 298,
+      "top_cells": [
+        "competitive-intelligence/method",
+        "competitive-intelligence/application",
+        "competitive-intelligence/theory",
+        "competitive-intelligence/systems"
+      ]
+    },
+    {
+      "term": "Competitive Intelligence",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 287,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "competitive-intelligence"
+      },
+      "top_cells": [
+        "competitive-intelligence/method",
+        "competitive-intelligence/application",
+        "competitive-intelligence/theory",
+        "competitive-intelligence/systems"
+      ],
+      "papers": 287
+    },
+    {
+      "term": "Customer Retention",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 277,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "customer-retention"
+      },
+      "top_cells": [
+        "customer-retention/method",
+        "customer-retention/mechanism",
+        "customer-retention/systems",
+        "customer-retention/evaluation"
+      ],
+      "papers": 277
+    },
+    {
+      "term": "Customer Acquisition",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 273,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "customer-acquisition"
+      },
+      "top_cells": [
+        "customer-acquisition/method",
+        "customer-acquisition/systems",
+        "customer-acquisition/application",
+        "customer-acquisition/mechanism"
+      ],
+      "papers": 273
+    },
+    {
+      "term": "Sales Strategy",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 265,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "sales-strategy"
+      },
+      "top_cells": [
+        "sales-strategy/method",
+        "sales-strategy/application",
+        "sales-strategy/systems",
+        "sales-strategy/theory"
+      ],
+      "papers": 265
+    },
+    {
+      "term": "Business Models",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 253,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "business-models"
+      },
+      "top_cells": [
+        "business-models/method",
+        "business-models/theory",
+        "business-models/application",
+        "business-models/systems"
+      ],
+      "papers": 253
+    },
+    {
+      "term": "B2b Marketing",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 244,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "b2b-marketing"
+      },
+      "top_cells": [
+        "b2b-marketing/method",
+        "b2b-marketing/systems",
+        "b2b-marketing/application",
+        "b2b-marketing/mechanism"
+      ],
+      "papers": 244
+    },
+    {
+      "term": "Customer Success",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 208,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "customer-success"
+      },
+      "top_cells": [
+        "customer-success/method",
+        "customer-success/systems",
+        "customer-success/theory",
+        "customer-success/mechanism"
+      ],
+      "papers": 208
+    },
+    {
+      "term": "Growth Metrics",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 207,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "growth-metrics"
+      },
+      "top_cells": [
+        "growth-metrics/method",
+        "growth-metrics/application",
+        "growth-metrics/systems",
+        "growth-metrics/mechanism"
+      ],
+      "papers": 207
+    },
+    {
+      "term": "Partnerships",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 205,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "partnerships"
+      },
+      "top_cells": [
+        "partnerships/method",
+        "partnerships/mechanism",
+        "partnerships/application",
+        "partnerships/theory"
+      ],
+      "papers": 205
+    },
+    {
+      "term": "customer churn",
+      "kind": "emergent",
+      "seed": false,
+      "df": 205,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer churn"
+        ]
+      },
+      "papers": 205,
+      "top_cells": [
+        "customer-retention/mechanism",
+        "customer-retention/method",
+        "customer-retention/evaluation",
+        "customer-retention/systems"
+      ]
+    },
+    {
+      "term": "brand equity",
+      "kind": "emergent",
+      "seed": false,
+      "df": 190,
+      "match": {
+        "type": "text",
+        "forms": [
+          "brand equity"
+        ]
+      },
+      "papers": 190,
+      "top_cells": [
+        "brand-building/method",
+        "brand-building/theory",
+        "brand-building/mechanism",
+        "brand-building/systems"
+      ]
+    },
+    {
+      "term": "customer satisfaction",
+      "kind": "emergent",
+      "seed": false,
+      "df": 182,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer satisfaction"
+        ]
+      },
+      "papers": 182,
+      "top_cells": [
+        "customer-success/method",
+        "customer-success/systems",
+        "customer-success/theory",
+        "customer-success/mechanism"
+      ]
+    },
+    {
+      "term": "content marketing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 169,
+      "match": {
+        "type": "text",
+        "forms": [
+          "content marketing"
+        ]
+      },
+      "papers": 169,
+      "top_cells": [
+        "content-marketing/method",
+        "content-marketing/systems",
+        "content-marketing/application",
+        "content-marketing/mechanism"
+      ]
+    },
+    {
+      "term": "lifetime value",
+      "kind": "emergent",
+      "seed": false,
+      "df": 163,
+      "match": {
+        "type": "text",
+        "forms": [
+          "lifetime value"
+        ]
+      },
+      "papers": 163,
+      "top_cells": [
+        "growth-metrics/method",
+        "growth-metrics/application",
+        "growth-metrics/systems",
+        "growth-metrics/mechanism"
+      ]
+    },
+    {
+      "term": "churn prediction",
+      "kind": "emergent",
+      "seed": false,
+      "df": 153,
+      "match": {
+        "type": "text",
+        "forms": [
+          "churn prediction"
+        ]
+      },
+      "papers": 153,
+      "top_cells": [
+        "customer-retention/mechanism",
+        "customer-retention/method",
+        "customer-retention/systems",
+        "customer-retention/evaluation"
+      ]
+    },
+    {
+      "term": "customer lifetime",
+      "kind": "emergent",
+      "seed": false,
+      "df": 152,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer lifetime"
+        ]
+      },
+      "papers": 152,
+      "top_cells": [
+        "growth-metrics/method",
+        "growth-metrics/application",
+        "growth-metrics/systems",
+        "growth-metrics/mechanism"
+      ]
+    },
+    {
+      "term": "pricing strategies",
+      "kind": "emergent",
+      "seed": false,
+      "df": 151,
+      "match": {
+        "type": "text",
+        "forms": [
+          "pricing strategies"
+        ]
+      },
+      "papers": 151,
+      "top_cells": [
+        "pricing-strategy/method",
+        "pricing-strategy/application",
+        "pricing-strategy/systems",
+        "pricing-strategy/theory"
+      ]
+    },
+    {
+      "term": "customer acquisition",
+      "kind": "emergent",
+      "seed": false,
+      "df": 146,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer acquisition"
+        ]
+      },
+      "papers": 146,
+      "top_cells": [
+        "customer-acquisition/method",
+        "customer-acquisition/systems",
+        "customer-acquisition/application",
+        "customer-acquisition/mechanism"
+      ]
+    },
+    {
+      "term": "strategic alliances",
+      "kind": "emergent",
+      "seed": false,
+      "df": 143,
+      "match": {
+        "type": "text",
+        "forms": [
+          "strategic alliances"
+        ]
+      },
+      "papers": 143,
+      "top_cells": [
+        "partnerships/method",
+        "partnerships/mechanism",
+        "partnerships/theory",
+        "partnerships/application"
+      ]
+    },
+    {
+      "term": "pricing strategy",
+      "kind": "emergent",
+      "seed": false,
+      "df": 140,
+      "match": {
+        "type": "text",
+        "forms": [
+          "pricing strategy"
+        ]
+      },
+      "papers": 140,
+      "top_cells": [
+        "pricing-strategy/method",
+        "pricing-strategy/application",
+        "pricing-strategy/systems",
+        "pricing-strategy/mechanism"
+      ]
+    },
+    {
+      "term": "customer loyalty",
+      "kind": "emergent",
+      "seed": false,
+      "df": 136,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer loyalty"
+        ]
+      },
+      "papers": 136,
+      "top_cells": [
+        "customer-success/method",
+        "customer-success/systems",
+        "customer-success/mechanism",
+        "customer-success/theory"
+      ]
+    },
+    {
+      "term": "supply chain",
+      "kind": "emergent",
+      "seed": false,
+      "df": 135,
+      "match": {
+        "type": "text",
+        "forms": [
+          "supply chain"
+        ]
+      },
+      "papers": 135,
+      "top_cells": [
+        "pricing-strategy/application",
+        "competitive-intelligence/application",
+        "sales-strategy/application",
+        "partnerships/application"
+      ]
+    },
+    {
+      "term": "social capital",
+      "kind": "emergent",
+      "seed": false,
+      "df": 122,
+      "match": {
+        "type": "text",
+        "forms": [
+          "social capital"
+        ]
+      },
+      "papers": 122,
+      "top_cells": [
+        "networking/method",
+        "networking/application",
+        "networking/systems",
+        "networking/theory"
+      ]
+    },
+    {
+      "term": "digital transformation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 117,
+      "match": {
+        "type": "text",
+        "forms": [
+          "digital transformation"
+        ]
+      },
+      "papers": 117,
+      "top_cells": [
+        "competitive-intelligence/method",
+        "business-models/review",
+        "business-models/method",
+        "ai-adoption/mechanism"
+      ]
+    },
+    {
+      "term": "marketing strategies",
+      "kind": "emergent",
+      "seed": false,
+      "df": 112,
+      "match": {
+        "type": "text",
+        "forms": [
+          "marketing strategies"
+        ]
+      },
+      "papers": 112,
+      "top_cells": [
+        "digital-marketing/method",
+        "digital-marketing/systems",
+        "content-marketing/method",
+        "digital-marketing/application"
+      ]
+    },
+    {
+      "term": "customer retention",
+      "kind": "emergent",
+      "seed": false,
+      "df": 107,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer retention"
+        ]
+      },
+      "papers": 107,
+      "top_cells": [
+        "customer-retention/method",
+        "customer-retention/mechanism",
+        "customer-retention/evaluation",
+        "customer-retention/systems"
+      ]
+    },
+    {
+      "term": "market entry",
+      "kind": "emergent",
+      "seed": false,
+      "df": 105,
+      "match": {
+        "type": "text",
+        "forms": [
+          "market entry"
+        ]
+      },
+      "papers": 105,
+      "top_cells": [
+        "go-to-market/method",
+        "go-to-market/application",
+        "go-to-market/theory",
+        "go-to-market/systems"
+      ]
+    },
+    {
+      "term": "mediating role",
+      "kind": "emergent",
+      "seed": false,
+      "df": 104,
+      "match": {
+        "type": "text",
+        "forms": [
+          "mediating role"
+        ]
+      },
+      "papers": 104,
+      "top_cells": [
+        "customer-success/method",
+        "competitive-intelligence/method",
+        "brand-building/method",
+        "brand-building/mechanism"
+      ]
+    },
+    {
+      "term": "service quality",
+      "kind": "emergent",
+      "seed": false,
+      "df": 83,
+      "match": {
+        "type": "text",
+        "forms": [
+          "service quality"
+        ]
+      },
+      "papers": 83,
+      "top_cells": [
+        "customer-success/method",
+        "customer-success/systems",
+        "customer-success/theory",
+        "customer-success/mechanism"
+      ]
+    },
+    {
+      "term": "dynamic pricing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 81,
+      "match": {
+        "type": "text",
+        "forms": [
+          "dynamic pricing"
+        ]
+      },
+      "papers": 81,
+      "top_cells": [
+        "pricing-strategy/application",
+        "pricing-strategy/method",
+        "pricing-strategy/systems",
+        "pricing-strategy/theory"
+      ]
+    },
+    {
+      "term": "higher education",
+      "kind": "emergent",
+      "seed": false,
+      "df": 78,
+      "match": {
+        "type": "text",
+        "forms": [
+          "higher education"
+        ]
+      },
+      "papers": 78,
+      "top_cells": [
+        "ai-adoption/method",
+        "ai-adoption/systems",
+        "ai-adoption/application",
+        "ai-adoption/mechanism"
+      ]
+    },
+    {
+      "term": "social networks",
+      "kind": "emergent",
+      "seed": false,
+      "df": 77,
+      "match": {
+        "type": "text",
+        "forms": [
+          "social networks"
+        ]
+      },
+      "papers": 77,
+      "top_cells": [
+        "networking/application",
+        "networking/theory",
+        "networking/method",
+        "networking/systems"
+      ]
+    },
+    {
+      "term": "findings reveal",
+      "kind": "emergent",
+      "seed": false,
+      "df": 71,
+      "match": {
+        "type": "text",
+        "forms": [
+          "findings reveal"
+        ]
+      },
+      "papers": 71,
+      "top_cells": [
+        "ai-adoption/mechanism",
+        "ai-adoption/method",
+        "ai-adoption/systems",
+        "digital-marketing/mechanism"
+      ]
+    },
+    {
+      "term": "content generation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 70,
+      "match": {
+        "type": "text",
+        "forms": [
+          "content generation"
+        ]
+      },
+      "papers": 70,
+      "top_cells": [
+        "content-marketing/systems",
+        "content-marketing/application",
+        "content-marketing/evaluation",
+        "content-marketing/mechanism"
+      ]
+    },
+    {
+      "term": "business models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 69,
+      "match": {
+        "type": "text",
+        "forms": [
+          "business models"
+        ]
+      },
+      "papers": 69,
+      "top_cells": [
+        "business-models/method",
+        "business-models/systems",
+        "business-models/mechanism",
+        "business-models/review"
+      ]
+    },
+    {
+      "term": "systematic literature",
+      "kind": "emergent",
+      "seed": false,
+      "df": 68,
+      "match": {
+        "type": "text",
+        "forms": [
+          "systematic literature"
+        ]
+      },
+      "papers": 68,
+      "top_cells": [
+        "ai-adoption/review",
+        "market-analysis/review",
+        "ai-adoption/systems",
+        "ai-adoption/application"
+      ]
+    },
+    {
+      "term": "strategic alliance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 68,
+      "match": {
+        "type": "text",
+        "forms": [
+          "strategic alliance"
+        ]
+      },
+      "papers": 68,
+      "top_cells": [
+        "partnerships/method",
+        "partnerships/mechanism",
+        "partnerships/application",
+        "partnerships/systems"
+      ]
+    },
+    {
+      "term": "customer relationship",
+      "kind": "emergent",
+      "seed": false,
+      "df": 63,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer relationship"
+        ]
+      },
+      "papers": 63,
+      "top_cells": [
+        "growth-metrics/application",
+        "customer-success/method",
+        "growth-metrics/systems",
+        "customer-acquisition/method"
+      ]
+    },
+    {
+      "term": "marketing strategy",
+      "kind": "emergent",
+      "seed": false,
+      "df": 62,
+      "match": {
+        "type": "text",
+        "forms": [
+          "marketing strategy"
+        ]
+      },
+      "papers": 62,
+      "top_cells": [
+        "digital-marketing/method",
+        "market-analysis/application",
+        "sales-strategy/method",
+        "content-marketing/method"
+      ]
+    },
+    {
+      "term": "relationship management",
+      "kind": "emergent",
+      "seed": false,
+      "df": 62,
+      "match": {
+        "type": "text",
+        "forms": [
+          "relationship management"
+        ]
+      },
+      "papers": 62,
+      "top_cells": [
+        "customer-acquisition/method",
+        "growth-metrics/systems",
+        "growth-metrics/application",
+        "customer-retention/systems"
+      ]
+    },
+    {
+      "term": "purchase intention",
+      "kind": "emergent",
+      "seed": false,
+      "df": 62,
+      "match": {
+        "type": "text",
+        "forms": [
+          "purchase intention"
+        ]
+      },
+      "papers": 62,
+      "top_cells": [
+        "content-marketing/method",
+        "sales-psychology/theory",
+        "brand-building/method",
+        "content-marketing/systems"
+      ]
+    },
+    {
+      "term": "empirical evidence",
+      "kind": "emergent",
+      "seed": false,
+      "df": 61,
+      "match": {
+        "type": "text",
+        "forms": [
+          "empirical evidence"
+        ]
+      },
+      "papers": 61,
+      "top_cells": [
+        "ai-adoption/mechanism",
+        "go-to-market/method",
+        "b2b-marketing/mechanism",
+        "ai-adoption/method"
+      ]
+    },
+    {
+      "term": "findings suggest",
+      "kind": "emergent",
+      "seed": false,
+      "df": 60,
+      "match": {
+        "type": "text",
+        "forms": [
+          "findings suggest"
+        ]
+      },
+      "papers": 60,
+      "top_cells": [
+        "ai-adoption/systems",
+        "ai-adoption/application",
+        "ai-adoption/method",
+        "go-to-market/systems"
+      ]
+    },
+    {
+      "term": "customer engagement",
+      "kind": "emergent",
+      "seed": false,
+      "df": 60,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer engagement"
+        ]
+      },
+      "papers": 60,
+      "top_cells": [
+        "content-marketing/method",
+        "content-marketing/systems",
+        "customer-acquisition/method",
+        "digital-marketing/method"
+      ]
+    },
+    {
+      "term": "natural language",
+      "kind": "emergent",
+      "seed": false,
+      "df": 60,
+      "match": {
+        "type": "text",
+        "forms": [
+          "natural language"
+        ]
+      },
+      "papers": 60,
+      "top_cells": [
+        "ai-adoption/application",
+        "ai-adoption/theory",
+        "content-marketing/systems",
+        "sales-psychology/method"
+      ]
+    },
+    {
+      "term": "medium enterprises",
+      "kind": "emergent",
+      "seed": false,
+      "df": 57,
+      "match": {
+        "type": "text",
+        "forms": [
+          "medium enterprises"
+        ]
+      },
+      "papers": 57,
+      "top_cells": [
+        "digital-marketing/systems",
+        "competitive-intelligence/method",
+        "sales-strategy/application",
+        "digital-marketing/method"
+      ]
+    },
+    {
+      "term": "sustainable competitive",
+      "kind": "emergent",
+      "seed": false,
+      "df": 57,
+      "match": {
+        "type": "text",
+        "forms": [
+          "sustainable competitive"
+        ]
+      },
+      "papers": 57,
+      "top_cells": [
+        "competitive-intelligence/method",
+        "competitive-intelligence/theory",
+        "competitive-intelligence/application",
+        "competitive-intelligence/systems"
+      ]
+    },
+    {
+      "term": "media platforms",
+      "kind": "emergent",
+      "seed": false,
+      "df": 55,
+      "match": {
+        "type": "text",
+        "forms": [
+          "media platforms"
+        ]
+      },
+      "papers": 55,
+      "top_cells": [
+        "content-marketing/systems",
+        "digital-marketing/systems",
+        "market-analysis/systems",
+        "brand-building/application"
+      ]
+    },
+    {
+      "term": "sales performance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 55,
+      "match": {
+        "type": "text",
+        "forms": [
+          "sales performance"
+        ]
+      },
+      "papers": 55,
+      "top_cells": [
+        "sales-strategy/method",
+        "sales-strategy/systems",
+        "sales-strategy/theory",
+        "sales-strategy/mechanism"
+      ]
+    },
+    {
+      "term": "united states",
+      "kind": "emergent",
+      "seed": false,
+      "df": 51,
+      "match": {
+        "type": "text",
+        "forms": [
+          "united states"
+        ]
+      },
+      "papers": 51,
+      "top_cells": [
+        "ai-adoption/systems",
+        "ai-adoption/application",
+        "go-to-market/method",
+        "entrepreneurship/mechanism"
+      ]
+    },
+    {
+      "term": "media marketing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 50,
+      "match": {
+        "type": "text",
+        "forms": [
+          "media marketing"
+        ]
+      },
+      "papers": 50,
+      "top_cells": [
+        "brand-building/method",
+        "content-marketing/method",
+        "digital-marketing/systems",
+        "sales-strategy/method"
+      ]
+    },
+    {
+      "term": "influencer marketing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 50,
+      "match": {
+        "type": "text",
+        "forms": [
+          "influencer marketing"
+        ]
+      },
+      "papers": 50,
+      "top_cells": [
+        "content-marketing/method",
+        "content-marketing/systems",
+        "sales-psychology/method",
+        "sales-psychology/mechanism"
+      ]
+    },
+    {
+      "term": "findings highlight",
+      "kind": "emergent",
+      "seed": false,
+      "df": 49,
+      "match": {
+        "type": "text",
+        "forms": [
+          "findings highlight"
+        ]
+      },
+      "papers": 49,
+      "top_cells": [
+        "ai-adoption/systems",
+        "ai-adoption/mechanism",
+        "ai-adoption/application",
+        "ai-adoption/method"
+      ]
+    },
+    {
+      "term": "predicting customer",
+      "kind": "emergent",
+      "seed": false,
+      "df": 48,
+      "match": {
+        "type": "text",
+        "forms": [
+          "predicting customer"
+        ]
+      },
+      "papers": 48,
+      "top_cells": [
+        "customer-retention/application",
+        "customer-retention/systems",
+        "customer-retention/method",
+        "growth-metrics/application"
+      ]
+    },
+    {
+      "term": "entry strategies",
+      "kind": "emergent",
+      "seed": false,
+      "df": 48,
+      "match": {
+        "type": "text",
+        "forms": [
+          "entry strategies"
+        ]
+      },
+      "papers": 48,
+      "top_cells": [
+        "go-to-market/method",
+        "go-to-market/application",
+        "go-to-market/systems",
+        "go-to-market/mechanism"
+      ]
+    },
+    {
+      "term": "labor market",
+      "kind": "emergent",
+      "seed": false,
+      "df": 47,
+      "match": {
+        "type": "text",
+        "forms": [
+          "labor market"
+        ]
+      },
+      "papers": 47,
+      "top_cells": [
+        "ai-adoption/application",
+        "ai-adoption/mechanism",
+        "ai-adoption/systems",
+        "ai-adoption/theory"
+      ]
+    },
+    {
+      "term": "factors influencing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 47,
+      "match": {
+        "type": "text",
+        "forms": [
+          "factors influencing"
+        ]
+      },
+      "papers": 47,
+      "top_cells": [
+        "ai-adoption/method",
+        "ai-adoption/systems",
+        "customer-acquisition/application",
+        "pricing-strategy/mechanism"
+      ]
+    },
+    {
+      "term": "firm performance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 46,
+      "match": {
+        "type": "text",
+        "forms": [
+          "firm performance"
+        ]
+      },
+      "papers": 46,
+      "top_cells": [
+        "business-models/method",
+        "competitive-intelligence/method",
+        "sales-strategy/method",
+        "ai-adoption/method"
+      ]
+    },
+    {
+      "term": "medium-sized enterprises",
+      "kind": "emergent",
+      "seed": false,
+      "df": 45,
+      "match": {
+        "type": "text",
+        "forms": [
+          "medium-sized enterprises"
+        ]
+      },
+      "papers": 45,
+      "top_cells": [
+        "sales-strategy/method",
+        "digital-marketing/systems",
+        "go-to-market/review",
+        "b2b-marketing/application"
+      ]
+    },
+    {
+      "term": "brand loyalty",
+      "kind": "emergent",
+      "seed": false,
+      "df": 45,
+      "match": {
+        "type": "text",
+        "forms": [
+          "brand loyalty"
+        ]
+      },
+      "papers": 45,
+      "top_cells": [
+        "brand-building/method",
+        "customer-success/method",
+        "content-marketing/method",
+        "brand-building/systems"
+      ]
+    },
+    {
+      "term": "concerns about",
+      "kind": "emergent",
+      "seed": false,
+      "df": 44,
+      "match": {
+        "type": "text",
+        "forms": [
+          "concerns about"
+        ]
+      },
+      "papers": 44,
+      "top_cells": [
+        "ai-adoption/systems",
+        "ai-adoption/method",
+        "ai-adoption/mechanism",
+        "market-analysis/application"
+      ]
+    },
+    {
+      "term": "case studies",
+      "kind": "emergent",
+      "seed": false,
+      "df": 43,
+      "match": {
+        "type": "text",
+        "forms": [
+          "case studies"
+        ]
+      },
+      "papers": 43,
+      "top_cells": [
+        "product-market-fit/application",
+        "product-market-fit/method",
+        "ai-adoption/mechanism",
+        "ai-adoption/application"
+      ]
+    },
+    {
+      "term": "stock market",
+      "kind": "emergent",
+      "seed": false,
+      "df": 41,
+      "match": {
+        "type": "text",
+        "forms": [
+          "stock market"
+        ]
+      },
+      "papers": 41,
+      "top_cells": [
+        "market-analysis/review",
+        "market-analysis/method",
+        "market-analysis/systems",
+        "market-analysis/evaluation"
+      ]
+    },
+    {
+      "term": "economic growth",
+      "kind": "emergent",
+      "seed": false,
+      "df": 41,
+      "match": {
+        "type": "text",
+        "forms": [
+          "economic growth"
+        ]
+      },
+      "papers": 41,
+      "top_cells": [
+        "entrepreneurship/method",
+        "entrepreneurship/application",
+        "entrepreneurship/systems",
+        "entrepreneurship/theory"
+      ]
+    },
+    {
+      "term": "social responsibility",
+      "kind": "emergent",
+      "seed": false,
+      "df": 40,
+      "match": {
+        "type": "text",
+        "forms": [
+          "social responsibility"
+        ]
+      },
+      "papers": 40,
+      "top_cells": [
+        "brand-building/method",
+        "competitive-intelligence/method",
+        "brand-building/theory",
+        "customer-success/method"
+      ]
+    },
+    {
+      "term": "moderating role",
+      "kind": "emergent",
+      "seed": false,
+      "df": 40,
+      "match": {
+        "type": "text",
+        "forms": [
+          "moderating role"
+        ]
+      },
+      "papers": 40,
+      "top_cells": [
+        "brand-building/mechanism",
+        "competitive-intelligence/method",
+        "content-marketing/method",
+        "brand-building/method"
+      ]
+    },
+    {
+      "term": "digital content",
+      "kind": "emergent",
+      "seed": false,
+      "df": 39,
+      "match": {
+        "type": "text",
+        "forms": [
+          "digital content"
+        ]
+      },
+      "papers": 39,
+      "top_cells": [
+        "content-marketing/method",
+        "content-marketing/systems",
+        "content-marketing/mechanism",
+        "content-marketing/application"
+      ]
+    },
+    {
+      "term": "prompt engineering",
+      "kind": "emergent",
+      "seed": false,
+      "df": 39,
+      "match": {
+        "type": "text",
+        "forms": [
+          "prompt engineering"
+        ]
+      },
+      "papers": 39,
+      "top_cells": [
+        "ai-adoption/systems",
+        "ai-adoption/application",
+        "ai-adoption/mechanism",
+        "ai-adoption/theory"
+      ]
+    },
+    {
+      "term": "while maintaining",
+      "kind": "emergent",
+      "seed": false,
+      "df": 38,
+      "match": {
+        "type": "text",
+        "forms": [
+          "while maintaining"
+        ]
+      },
+      "papers": 38,
+      "top_cells": [
+        "networking/application",
+        "pricing-strategy/application",
+        "market-analysis/systems",
+        "digital-marketing/mechanism"
+      ]
+    },
+    {
+      "term": "business environment",
+      "kind": "emergent",
+      "seed": false,
+      "df": 38,
+      "match": {
+        "type": "text",
+        "forms": [
+          "business environment"
+        ]
+      },
+      "papers": 38,
+      "top_cells": [
+        "competitive-intelligence/theory",
+        "networking/method",
+        "digital-marketing/systems",
+        "customer-retention/systems"
+      ]
+    },
+    {
+      "term": "corporate social",
+      "kind": "emergent",
+      "seed": false,
+      "df": 38,
+      "match": {
+        "type": "text",
+        "forms": [
+          "corporate social"
+        ]
+      },
+      "papers": 38,
+      "top_cells": [
+        "brand-building/method",
+        "competitive-intelligence/method",
+        "brand-building/theory",
+        "customer-success/method"
+      ]
+    },
+    {
+      "term": "green innovation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 37,
+      "match": {
+        "type": "text",
+        "forms": [
+          "green innovation"
+        ]
+      },
+      "papers": 37,
+      "top_cells": [
+        "competitive-intelligence/method",
+        "market-analysis/method",
+        "competitive-intelligence/mechanism",
+        "competitive-intelligence/theory"
+      ]
+    },
+    {
+      "term": "digital technologies",
+      "kind": "emergent",
+      "seed": false,
+      "df": 37,
+      "match": {
+        "type": "text",
+        "forms": [
+          "digital technologies"
+        ]
+      },
+      "papers": 37,
+      "top_cells": [
+        "entrepreneurship/theory",
+        "digital-marketing/method",
+        "business-models/method",
+        "business-models/mechanism"
+      ]
+    },
+    {
+      "term": "enhancing customer",
+      "kind": "emergent",
+      "seed": false,
+      "df": 37,
+      "match": {
+        "type": "text",
+        "forms": [
+          "enhancing customer"
+        ]
+      },
+      "papers": 37,
+      "top_cells": [
+        "customer-success/method",
+        "customer-acquisition/method",
+        "customer-retention/evaluation",
+        "customer-retention/method"
+      ]
+    },
+    {
+      "term": "search engine",
+      "kind": "emergent",
+      "seed": false,
+      "df": 37,
+      "match": {
+        "type": "text",
+        "forms": [
+          "search engine"
+        ]
+      },
+      "papers": 37,
+      "top_cells": [
+        "digital-marketing/systems",
+        "digital-marketing/application",
+        "digital-marketing/mechanism",
+        "content-marketing/systems"
+      ]
+    },
+    {
+      "term": "predictive analytics",
+      "kind": "emergent",
+      "seed": false,
+      "df": 36,
+      "match": {
+        "type": "text",
+        "forms": [
+          "predictive analytics"
+        ]
+      },
+      "papers": 36,
+      "top_cells": [
+        "customer-retention/systems",
+        "customer-retention/mechanism",
+        "customer-retention/method",
+        "growth-metrics/evaluation"
+      ]
+    },
+    {
+      "term": "dynamic capabilities",
+      "kind": "emergent",
+      "seed": false,
+      "df": 36,
+      "match": {
+        "type": "text",
+        "forms": [
+          "dynamic capabilities"
+        ]
+      },
+      "papers": 36,
+      "top_cells": [
+        "business-models/method",
+        "business-models/theory",
+        "competitive-intelligence/method",
+        "business-models/mechanism"
+      ]
+    },
+    {
+      "term": "banking sector",
+      "kind": "emergent",
+      "seed": false,
+      "df": 36,
+      "match": {
+        "type": "text",
+        "forms": [
+          "banking sector"
+        ]
+      },
+      "papers": 36,
+      "top_cells": [
+        "customer-success/method",
+        "customer-retention/evaluation",
+        "customer-acquisition/method",
+        "customer-retention/mechanism"
+      ]
+    },
+    {
+      "term": "business performance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 35,
+      "match": {
+        "type": "text",
+        "forms": [
+          "business performance"
+        ]
+      },
+      "papers": 35,
+      "top_cells": [
+        "digital-marketing/method",
+        "networking/theory",
+        "sales-strategy/mechanism",
+        "sales-strategy/application"
+      ]
+    },
+    {
+      "term": "emerging markets",
+      "kind": "emergent",
+      "seed": false,
+      "df": 34,
+      "match": {
+        "type": "text",
+        "forms": [
+          "emerging markets"
+        ]
+      },
+      "papers": 34,
+      "top_cells": [
+        "market-analysis/theory",
+        "go-to-market/method",
+        "product-market-fit/method",
+        "ai-adoption/theory"
+      ]
+    },
+    {
+      "term": "digital technology",
+      "kind": "emergent",
+      "seed": false,
+      "df": 33,
+      "match": {
+        "type": "text",
+        "forms": [
+          "digital technology"
+        ]
+      },
+      "papers": 33,
+      "top_cells": [
+        "business-models/method",
+        "digital-marketing/systems",
+        "ai-adoption/method",
+        "market-analysis/application"
+      ]
+    },
+    {
+      "term": "value prediction",
+      "kind": "emergent",
+      "seed": false,
+      "df": 33,
+      "match": {
+        "type": "text",
+        "forms": [
+          "value prediction"
+        ]
+      },
+      "papers": 33,
+      "top_cells": [
+        "growth-metrics/application",
+        "growth-metrics/method",
+        "growth-metrics/systems",
+        "growth-metrics/mechanism"
+      ]
+    },
+    {
+      "term": "customer experience",
+      "kind": "emergent",
+      "seed": false,
+      "df": 33,
+      "match": {
+        "type": "text",
+        "forms": [
+          "customer experience"
+        ]
+      },
+      "papers": 33,
+      "top_cells": [
+        "customer-success/method",
+        "customer-success/theory",
+        "sales-strategy/method",
+        "brand-building/method"
+      ]
+    },
+    {
+      "term": "engine optimization",
+      "kind": "emergent",
+      "seed": false,
+      "df": 33,
+      "match": {
+        "type": "text",
+        "forms": [
+          "engine optimization"
+        ]
+      },
+      "papers": 33,
+      "top_cells": [
+        "digital-marketing/systems",
+        "digital-marketing/application",
+        "digital-marketing/mechanism",
+        "content-marketing/systems"
+      ]
+    },
+    {
+      "term": "consumer trust",
+      "kind": "emergent",
+      "seed": false,
+      "df": 33,
+      "match": {
+        "type": "text",
+        "forms": [
+          "consumer trust"
+        ]
+      },
+      "papers": 33,
+      "top_cells": [
+        "sales-psychology/theory",
+        "sales-psychology/systems",
+        "sales-psychology/method",
+        "sales-psychology/mechanism"
+      ]
+    },
+    {
+      "term": "digital economy",
+      "kind": "emergent",
+      "seed": false,
+      "df": 32,
+      "match": {
+        "type": "text",
+        "forms": [
+          "digital economy"
+        ]
+      },
+      "papers": 32,
+      "top_cells": [
+        "customer-acquisition/systems",
+        "b2b-marketing/mechanism",
+        "digital-marketing/application",
+        "customer-acquisition/mechanism"
+      ]
+    },
+    {
+      "term": "consumer behavior",
+      "kind": "emergent",
+      "seed": false,
+      "df": 31,
+      "match": {
+        "type": "text",
+        "forms": [
+          "consumer behavior"
+        ]
+      },
+      "papers": 31,
+      "top_cells": [
+        "market-analysis/systems",
+        "market-analysis/application",
+        "digital-marketing/review",
+        "sales-psychology/method"
+      ]
+    },
+    {
+      "term": "human resource",
+      "kind": "emergent",
+      "seed": false,
+      "df": 31,
+      "match": {
+        "type": "text",
+        "forms": [
+          "human resource"
+        ]
+      },
+      "papers": 31,
+      "top_cells": [
+        "competitive-intelligence/method",
+        "ai-adoption/application",
+        "ai-adoption/systems",
+        "competitive-intelligence/application"
+      ]
+    },
+    {
+      "term": "structural equation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 31,
+      "match": {
+        "type": "text",
+        "forms": [
+          "structural equation"
+        ]
+      },
+      "papers": 31,
+      "top_cells": [
+        "brand-building/method",
+        "ai-adoption/theory",
+        "brand-building/theory",
+        "customer-success/method"
+      ]
+    },
+    {
+      "term": "technology adoption",
+      "kind": "emergent",
+      "seed": false,
+      "df": 30,
+      "match": {
+        "type": "text",
+        "forms": [
+          "technology adoption"
+        ]
+      },
+      "papers": 30,
+      "top_cells": [
+        "ai-adoption/systems",
+        "go-to-market/method",
+        "go-to-market/mechanism",
+        "go-to-market/systems"
+      ]
+    },
+    {
+      "term": "supply chains",
+      "kind": "emergent",
+      "seed": false,
+      "df": 30,
+      "match": {
+        "type": "text",
+        "forms": [
+          "supply chains"
+        ]
+      },
+      "papers": 30,
+      "top_cells": [
+        "pricing-strategy/application",
+        "ai-adoption/application",
+        "partnerships/application",
+        "go-to-market/application"
+      ]
+    },
+    {
+      "term": "digital era",
+      "kind": "emergent",
+      "seed": false,
+      "df": 30,
+      "match": {
+        "type": "text",
+        "forms": [
+          "digital era"
+        ]
+      },
+      "papers": 30,
+      "top_cells": [
+        "digital-marketing/method",
+        "content-marketing/application",
+        "digital-marketing/systems",
+        "brand-building/application"
+      ]
+    },
+    {
+      "term": "sustainable business",
+      "kind": "emergent",
+      "seed": false,
+      "df": 29,
+      "match": {
+        "type": "text",
+        "forms": [
+          "sustainable business"
+        ]
+      },
+      "papers": 29,
+      "top_cells": [
+        "business-models/theory",
+        "business-models/method",
+        "business-models/application",
+        "business-models/systems"
+      ]
+    },
+    {
+      "term": "autonomous agents",
+      "kind": "emergent",
+      "seed": false,
+      "df": 28,
+      "match": {
+        "type": "text",
+        "forms": [
+          "autonomous agents"
+        ]
+      },
+      "papers": 28,
+      "top_cells": [
+        "sales-psychology/mechanism",
+        "sales-psychology/application",
+        "sales-psychology/systems",
+        "ai-adoption/application"
+      ]
+    },
+    {
+      "term": "future directions",
+      "kind": "emergent",
+      "seed": false,
+      "df": 19,
+      "match": {
+        "type": "text",
+        "forms": [
+          "future directions"
+        ]
+      },
+      "papers": 19,
+      "top_cells": [
+        "digital-marketing/review",
+        "content-marketing/review",
+        "market-analysis/review",
+        "product-market-fit/application"
+      ]
+    },
+    {
+      "term": "during covid-",
+      "kind": "emergent",
+      "seed": false,
+      "df": 15,
+      "match": {
+        "type": "text",
+        "forms": [
+          "during covid-"
+        ]
+      },
+      "papers": 15,
+      "top_cells": [
+        "market-analysis/method",
+        "sales-strategy/method",
+        "brand-building/systems",
+        "product-market-fit/development"
+      ]
+    },
+    {
+      "term": "business innovation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 5,
+      "match": {
+        "type": "text",
+        "forms": [
+          "business innovation"
+        ]
+      },
+      "papers": 5,
+      "top_cells": [
+        "digital-marketing/development",
+        "business-models/method",
+        "entrepreneurship/application",
+        "product-market-fit/method"
+      ]
+    },
+    {
+      "term": "small medium",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "small medium"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "sales-strategy/application"
+      ]
+    },
+    {
+      "term": "quality customer",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "quality customer"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "customer-success/method"
+      ]
+    },
+    {
+      "term": "role customer",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "role customer"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "customer-success/method"
+      ]
+    },
+    {
+      "term": "micro small",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "micro small"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "competitive-intelligence/theory"
+      ]
+    },
+    {
+      "term": "models increasingly",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "models increasingly"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "ai-adoption/systems"
+      ]
+    },
+    {
+      "term": "Survey",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 0,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "survey"
+      },
+      "top_cells": [],
+      "papers": 0
+    },
+    {
+      "term": "Method",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 0,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "method"
+      },
+      "top_cells": [],
+      "papers": 0
+    }
+  ]
+}
