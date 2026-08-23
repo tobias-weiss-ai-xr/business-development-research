@@ -1,0 +1,1222 @@
+{
+  "stats": {
+    "nodes": 80,
+    "edges": 746,
+    "components": 1,
+    "communities": 11,
+    "modularity": -6.0415
+  },
+  "nodes": [
+    {
+      "id": 18,
+      "term": "large language",
+      "kind": "emergent",
+      "df": 363,
+      "degree": 35,
+      "weighted_degree": 798,
+      "degree_centrality": 0.443,
+      "pagerank": 0.040124,
+      "betweenness": 74.0432,
+      "clustering": 0.4
+    },
+    {
+      "id": 21,
+      "term": "language models",
+      "kind": "emergent",
+      "df": 316,
+      "degree": 33,
+      "weighted_degree": 736,
+      "degree_centrality": 0.4177,
+      "pagerank": 0.036829,
+      "betweenness": 65.4017,
+      "clustering": 0.4015
+    },
+    {
+      "id": 0,
+      "term": "Ai Adoption",
+      "kind": "taxonomy",
+      "df": 773,
+      "degree": 27,
+      "weighted_degree": 632,
+      "degree_centrality": 0.3418,
+      "pagerank": 0.035558,
+      "betweenness": 59.1284,
+      "clustering": 0.3276
+    },
+    {
+      "id": 20,
+      "term": "social media",
+      "kind": "emergent",
+      "df": 327,
+      "degree": 46,
+      "weighted_degree": 615,
+      "degree_centrality": 0.5823,
+      "pagerank": 0.034754,
+      "betweenness": 200.4506,
+      "clustering": 0.3285
+    },
+    {
+      "id": 4,
+      "term": "Content Marketing",
+      "kind": "taxonomy",
+      "df": 380,
+      "degree": 28,
+      "weighted_degree": 597,
+      "degree_centrality": 0.3544,
+      "pagerank": 0.030649,
+      "betweenness": 45.3006,
+      "clustering": 0.3915
+    },
+    {
+      "id": 19,
+      "term": "digital marketing",
+      "kind": "emergent",
+      "df": 331,
+      "degree": 39,
+      "weighted_degree": 557,
+      "degree_centrality": 0.4937,
+      "pagerank": 0.028804,
+      "betweenness": 82.7098,
+      "clustering": 0.3995
+    },
+    {
+      "id": 22,
+      "term": "competitive advantage",
+      "kind": "emergent",
+      "df": 298,
+      "degree": 37,
+      "weighted_degree": 504,
+      "degree_centrality": 0.4684,
+      "pagerank": 0.028385,
+      "betweenness": 135.8875,
+      "clustering": 0.3829
+    },
+    {
+      "id": 1,
+      "term": "Digital Marketing",
+      "kind": "taxonomy",
+      "df": 469,
+      "degree": 33,
+      "weighted_degree": 542,
+      "degree_centrality": 0.4177,
+      "pagerank": 0.028208,
+      "betweenness": 75.436,
+      "clustering": 0.3295
+    },
+    {
+      "id": 2,
+      "term": "Pricing Strategy",
+      "kind": "taxonomy",
+      "df": 402,
+      "degree": 22,
+      "weighted_degree": 443,
+      "degree_centrality": 0.2785,
+      "pagerank": 0.024949,
+      "betweenness": 62.5029,
+      "clustering": 0.2727
+    },
+    {
+      "id": 7,
+      "term": "Competitive Intelligence",
+      "kind": "taxonomy",
+      "df": 287,
+      "degree": 22,
+      "weighted_degree": 432,
+      "degree_centrality": 0.2785,
+      "pagerank": 0.024364,
+      "betweenness": 24.8503,
+      "clustering": 0.3853
+    },
+    {
+      "id": 8,
+      "term": "Customer Retention",
+      "kind": "taxonomy",
+      "df": 277,
+      "degree": 18,
+      "weighted_degree": 510,
+      "degree_centrality": 0.2278,
+      "pagerank": 0.021217,
+      "betweenness": 35.1891,
+      "clustering": 0.4183
+    },
+    {
+      "id": 13,
+      "term": "Customer Success",
+      "kind": "taxonomy",
+      "df": 208,
+      "degree": 22,
+      "weighted_degree": 417,
+      "degree_centrality": 0.2785,
+      "pagerank": 0.020852,
+      "betweenness": 23.0226,
+      "clustering": 0.4459
+    },
+    {
+      "id": 25,
+      "term": "customer satisfaction",
+      "kind": "emergent",
+      "df": 182,
+      "degree": 28,
+      "weighted_degree": 415,
+      "degree_centrality": 0.3544,
+      "pagerank": 0.020801,
+      "betweenness": 40.7254,
+      "clustering": 0.4603
+    },
+    {
+      "id": 23,
+      "term": "customer churn",
+      "kind": "emergent",
+      "df": 205,
+      "degree": 12,
+      "weighted_degree": 430,
+      "degree_centrality": 0.1519,
+      "pagerank": 0.017914,
+      "betweenness": 3.0529,
+      "clustering": 0.7273
+    },
+    {
+      "id": 14,
+      "term": "Growth Metrics",
+      "kind": "taxonomy",
+      "df": 207,
+      "degree": 22,
+      "weighted_degree": 398,
+      "degree_centrality": 0.2785,
+      "pagerank": 0.017679,
+      "betweenness": 49.8761,
+      "clustering": 0.4069
+    },
+    {
+      "id": 5,
+      "term": "Go To Market",
+      "kind": "taxonomy",
+      "df": 359,
+      "degree": 26,
+      "weighted_degree": 241,
+      "degree_centrality": 0.3291,
+      "pagerank": 0.017498,
+      "betweenness": 85.5142,
+      "clustering": 0.2769
+    },
+    {
+      "id": 15,
+      "term": "Partnerships",
+      "kind": "taxonomy",
+      "df": 205,
+      "degree": 11,
+      "weighted_degree": 249,
+      "degree_centrality": 0.1392,
+      "pagerank": 0.017423,
+      "betweenness": 11.8516,
+      "clustering": 0.4
+    },
+    {
+      "id": 27,
+      "term": "lifetime value",
+      "kind": "emergent",
+      "df": 163,
+      "degree": 17,
+      "weighted_degree": 392,
+      "degree_centrality": 0.2152,
+      "pagerank": 0.017284,
+      "betweenness": 6.6116,
+      "clustering": 0.6618
+    },
+    {
+      "id": 9,
+      "term": "Customer Acquisition",
+      "kind": "taxonomy",
+      "df": 273,
+      "degree": 29,
+      "weighted_degree": 318,
+      "degree_centrality": 0.3671,
+      "pagerank": 0.016981,
+      "betweenness": 90.1027,
+      "clustering": 0.3645
+    },
+    {
+      "id": 34,
+      "term": "customer loyalty",
+      "kind": "emergent",
+      "df": 136,
+      "degree": 23,
+      "weighted_degree": 331,
+      "degree_centrality": 0.2911,
+      "pagerank": 0.016675,
+      "betweenness": 25.7993,
+      "clustering": 0.498
+    },
+    {
+      "id": 29,
+      "term": "customer lifetime",
+      "kind": "emergent",
+      "df": 152,
+      "degree": 15,
+      "weighted_degree": 371,
+      "degree_centrality": 0.1899,
+      "pagerank": 0.016403,
+      "betweenness": 4.9052,
+      "clustering": 0.6667
+    },
+    {
+      "id": 26,
+      "term": "content marketing",
+      "kind": "emergent",
+      "df": 169,
+      "degree": 16,
+      "weighted_degree": 296,
+      "degree_centrality": 0.2025,
+      "pagerank": 0.015968,
+      "betweenness": 5.1609,
+      "clustering": 0.6417
+    },
+    {
+      "id": 38,
+      "term": "marketing strategies",
+      "kind": "emergent",
+      "df": 112,
+      "degree": 39,
+      "weighted_degree": 268,
+      "degree_centrality": 0.4937,
+      "pagerank": 0.015122,
+      "betweenness": 199.6409,
+      "clustering": 0.3293
+    },
+    {
+      "id": 28,
+      "term": "churn prediction",
+      "kind": "emergent",
+      "df": 153,
+      "degree": 10,
+      "weighted_degree": 355,
+      "degree_centrality": 0.1266,
+      "pagerank": 0.015005,
+      "betweenness": 3.0621,
+      "clustering": 0.6667
+    },
+    {
+      "id": 41,
+      "term": "mediating role",
+      "kind": "emergent",
+      "df": 104,
+      "degree": 34,
+      "weighted_degree": 227,
+      "degree_centrality": 0.4304,
+      "pagerank": 0.013554,
+      "betweenness": 74.4782,
+      "clustering": 0.3957
+    },
+    {
+      "id": 32,
+      "term": "strategic alliances",
+      "kind": "emergent",
+      "df": 143,
+      "degree": 9,
+      "weighted_degree": 187,
+      "degree_centrality": 0.1139,
+      "pagerank": 0.013142,
+      "betweenness": 4.3547,
+      "clustering": 0.5556
+    },
+    {
+      "id": 35,
+      "term": "supply chain",
+      "kind": "emergent",
+      "df": 135,
+      "degree": 27,
+      "weighted_degree": 210,
+      "degree_centrality": 0.3418,
+      "pagerank": 0.013073,
+      "betweenness": 98.7309,
+      "clustering": 0.3077
+    },
+    {
+      "id": 37,
+      "term": "digital transformation",
+      "kind": "emergent",
+      "df": 117,
+      "degree": 39,
+      "weighted_degree": 206,
+      "degree_centrality": 0.4937,
+      "pagerank": 0.013038,
+      "betweenness": 147.2071,
+      "clustering": 0.3509
+    },
+    {
+      "id": 30,
+      "term": "pricing strategies",
+      "kind": "emergent",
+      "df": 151,
+      "degree": 12,
+      "weighted_degree": 214,
+      "degree_centrality": 0.1519,
+      "pagerank": 0.012639,
+      "betweenness": 13.8415,
+      "clustering": 0.4697
+    },
+    {
+      "id": 10,
+      "term": "Sales Strategy",
+      "kind": "taxonomy",
+      "df": 265,
+      "degree": 24,
+      "weighted_degree": 185,
+      "degree_centrality": 0.3038,
+      "pagerank": 0.012197,
+      "betweenness": 53.6343,
+      "clustering": 0.3152
+    },
+    {
+      "id": 40,
+      "term": "market entry",
+      "kind": "emergent",
+      "df": 105,
+      "degree": 5,
+      "weighted_degree": 157,
+      "degree_centrality": 0.0633,
+      "pagerank": 0.011924,
+      "betweenness": 0.6835,
+      "clustering": 0.9
+    },
+    {
+      "id": 31,
+      "term": "customer acquisition",
+      "kind": "emergent",
+      "df": 146,
+      "degree": 15,
+      "weighted_degree": 208,
+      "degree_centrality": 0.1899,
+      "pagerank": 0.011357,
+      "betweenness": 11.5628,
+      "clustering": 0.5714
+    },
+    {
+      "id": 11,
+      "term": "Business Models",
+      "kind": "taxonomy",
+      "df": 253,
+      "degree": 20,
+      "weighted_degree": 148,
+      "degree_centrality": 0.2532,
+      "pagerank": 0.011303,
+      "betweenness": 18.0138,
+      "clustering": 0.4053
+    },
+    {
+      "id": 39,
+      "term": "customer retention",
+      "kind": "emergent",
+      "df": 107,
+      "degree": 19,
+      "weighted_degree": 245,
+      "degree_centrality": 0.2405,
+      "pagerank": 0.011216,
+      "betweenness": 14.2835,
+      "clustering": 0.5848
+    },
+    {
+      "id": 33,
+      "term": "pricing strategy",
+      "kind": "emergent",
+      "df": 140,
+      "degree": 5,
+      "weighted_degree": 184,
+      "degree_centrality": 0.0633,
+      "pagerank": 0.010966,
+      "betweenness": 1.0217,
+      "clustering": 0.7
+    },
+    {
+      "id": 47,
+      "term": "content generation",
+      "kind": "emergent",
+      "df": 70,
+      "degree": 11,
+      "weighted_degree": 198,
+      "degree_centrality": 0.1392,
+      "pagerank": 0.010759,
+      "betweenness": 0.9276,
+      "clustering": 0.8545
+    },
+    {
+      "id": 51,
+      "term": "customer relationship",
+      "kind": "emergent",
+      "df": 63,
+      "degree": 22,
+      "weighted_degree": 206,
+      "degree_centrality": 0.2785,
+      "pagerank": 0.010578,
+      "betweenness": 25.5265,
+      "clustering": 0.5325
+    },
+    {
+      "id": 42,
+      "term": "service quality",
+      "kind": "emergent",
+      "df": 83,
+      "degree": 20,
+      "weighted_degree": 189,
+      "degree_centrality": 0.2532,
+      "pagerank": 0.010307,
+      "betweenness": 20.2144,
+      "clustering": 0.4211
+    },
+    {
+      "id": 53,
+      "term": "relationship management",
+      "kind": "emergent",
+      "df": 62,
+      "degree": 20,
+      "weighted_degree": 194,
+      "degree_centrality": 0.2532,
+      "pagerank": 0.01003,
+      "betweenness": 21.886,
+      "clustering": 0.5316
+    },
+    {
+      "id": 24,
+      "term": "brand equity",
+      "kind": "emergent",
+      "df": 190,
+      "degree": 17,
+      "weighted_degree": 140,
+      "degree_centrality": 0.2152,
+      "pagerank": 0.009603,
+      "betweenness": 12.5385,
+      "clustering": 0.4632
+    },
+    {
+      "id": 3,
+      "term": "Market Analysis",
+      "kind": "taxonomy",
+      "df": 384,
+      "degree": 21,
+      "weighted_degree": 118,
+      "degree_centrality": 0.2658,
+      "pagerank": 0.009282,
+      "betweenness": 29.3666,
+      "clustering": 0.3429
+    },
+    {
+      "id": 64,
+      "term": "media marketing",
+      "kind": "emergent",
+      "df": 50,
+      "degree": 20,
+      "weighted_degree": 141,
+      "degree_centrality": 0.2532,
+      "pagerank": 0.009016,
+      "betweenness": 14.3978,
+      "clustering": 0.5263
+    },
+    {
+      "id": 60,
+      "term": "sustainable competitive",
+      "kind": "emergent",
+      "df": 57,
+      "degree": 13,
+      "weighted_degree": 134,
+      "degree_centrality": 0.1646,
+      "pagerank": 0.008721,
+      "betweenness": 2.907,
+      "clustering": 0.7051
+    },
+    {
+      "id": 12,
+      "term": "B2b Marketing",
+      "kind": "taxonomy",
+      "df": 244,
+      "degree": 28,
+      "weighted_degree": 133,
+      "degree_centrality": 0.3544,
+      "pagerank": 0.008717,
+      "betweenness": 47.3565,
+      "clustering": 0.3942
+    },
+    {
+      "id": 46,
+      "term": "findings reveal",
+      "kind": "emergent",
+      "df": 71,
+      "degree": 24,
+      "weighted_degree": 124,
+      "degree_centrality": 0.3038,
+      "pagerank": 0.0083,
+      "betweenness": 39.9474,
+      "clustering": 0.4312
+    },
+    {
+      "id": 57,
+      "term": "customer engagement",
+      "kind": "emergent",
+      "df": 60,
+      "degree": 27,
+      "weighted_degree": 134,
+      "degree_centrality": 0.3418,
+      "pagerank": 0.008075,
+      "betweenness": 27.2578,
+      "clustering": 0.5328
+    },
+    {
+      "id": 68,
+      "term": "entry strategies",
+      "kind": "emergent",
+      "df": 48,
+      "degree": 4,
+      "weighted_degree": 96,
+      "degree_centrality": 0.0506,
+      "pagerank": 0.007946,
+      "betweenness": 0.0,
+      "clustering": 1.0
+    },
+    {
+      "id": 61,
+      "term": "media platforms",
+      "kind": "emergent",
+      "df": 55,
+      "degree": 18,
+      "weighted_degree": 123,
+      "degree_centrality": 0.2278,
+      "pagerank": 0.007883,
+      "betweenness": 19.979,
+      "clustering": 0.4314
+    },
+    {
+      "id": 52,
+      "term": "marketing strategy",
+      "kind": "emergent",
+      "df": 62,
+      "degree": 22,
+      "weighted_degree": 123,
+      "degree_centrality": 0.2785,
+      "pagerank": 0.007844,
+      "betweenness": 29.0648,
+      "clustering": 0.4199
+    },
+    {
+      "id": 44,
+      "term": "higher education",
+      "kind": "emergent",
+      "df": 78,
+      "degree": 19,
+      "weighted_degree": 109,
+      "degree_centrality": 0.2405,
+      "pagerank": 0.00776,
+      "betweenness": 24.8798,
+      "clustering": 0.4678
+    },
+    {
+      "id": 43,
+      "term": "dynamic pricing",
+      "kind": "emergent",
+      "df": 81,
+      "degree": 5,
+      "weighted_degree": 119,
+      "degree_centrality": 0.0633,
+      "pagerank": 0.007754,
+      "betweenness": 1.2264,
+      "clustering": 0.7
+    },
+    {
+      "id": 58,
+      "term": "natural language",
+      "kind": "emergent",
+      "df": 60,
+      "degree": 16,
+      "weighted_degree": 125,
+      "degree_centrality": 0.2025,
+      "pagerank": 0.007657,
+      "betweenness": 7.0121,
+      "clustering": 0.575
+    },
+    {
+      "id": 59,
+      "term": "medium enterprises",
+      "kind": "emergent",
+      "df": 57,
+      "degree": 23,
+      "weighted_degree": 104,
+      "degree_centrality": 0.2911,
+      "pagerank": 0.007578,
+      "betweenness": 45.6611,
+      "clustering": 0.4348
+    },
+    {
+      "id": 55,
+      "term": "empirical evidence",
+      "kind": "emergent",
+      "df": 61,
+      "degree": 27,
+      "weighted_degree": 100,
+      "degree_centrality": 0.3418,
+      "pagerank": 0.007546,
+      "betweenness": 50.3371,
+      "clustering": 0.4074
+    },
+    {
+      "id": 50,
+      "term": "strategic alliance",
+      "kind": "emergent",
+      "df": 68,
+      "degree": 4,
+      "weighted_degree": 95,
+      "degree_centrality": 0.0506,
+      "pagerank": 0.007511,
+      "betweenness": 0.0,
+      "clustering": 1.0
+    },
+    {
+      "id": 54,
+      "term": "purchase intention",
+      "kind": "emergent",
+      "df": 62,
+      "degree": 16,
+      "weighted_degree": 109,
+      "degree_centrality": 0.2025,
+      "pagerank": 0.007364,
+      "betweenness": 6.2968,
+      "clustering": 0.6083
+    },
+    {
+      "id": 67,
+      "term": "predicting customer",
+      "kind": "emergent",
+      "df": 48,
+      "degree": 10,
+      "weighted_degree": 146,
+      "degree_centrality": 0.1266,
+      "pagerank": 0.007337,
+      "betweenness": 0.9688,
+      "clustering": 0.8667
+    },
+    {
+      "id": 6,
+      "term": "Entrepreneurship",
+      "kind": "taxonomy",
+      "df": 313,
+      "degree": 11,
+      "weighted_degree": 66,
+      "degree_centrality": 0.1392,
+      "pagerank": 0.00724,
+      "betweenness": 5.5944,
+      "clustering": 0.5091
+    },
+    {
+      "id": 49,
+      "term": "systematic literature",
+      "kind": "emergent",
+      "df": 68,
+      "degree": 29,
+      "weighted_degree": 102,
+      "degree_centrality": 0.3671,
+      "pagerank": 0.007211,
+      "betweenness": 71.405,
+      "clustering": 0.3719
+    },
+    {
+      "id": 48,
+      "term": "business models",
+      "kind": "emergent",
+      "df": 69,
+      "degree": 13,
+      "weighted_degree": 85,
+      "degree_centrality": 0.1646,
+      "pagerank": 0.007206,
+      "betweenness": 3.214,
+      "clustering": 0.6667
+    },
+    {
+      "id": 62,
+      "term": "sales performance",
+      "kind": "emergent",
+      "df": 55,
+      "degree": 12,
+      "weighted_degree": 97,
+      "degree_centrality": 0.1519,
+      "pagerank": 0.007071,
+      "betweenness": 5.8077,
+      "clustering": 0.5152
+    },
+    {
+      "id": 72,
+      "term": "medium-sized enterprises",
+      "kind": "emergent",
+      "df": 45,
+      "degree": 21,
+      "weighted_degree": 87,
+      "degree_centrality": 0.2658,
+      "pagerank": 0.0066,
+      "betweenness": 14.0792,
+      "clustering": 0.5381
+    },
+    {
+      "id": 73,
+      "term": "brand loyalty",
+      "kind": "emergent",
+      "df": 45,
+      "degree": 17,
+      "weighted_degree": 90,
+      "degree_centrality": 0.2152,
+      "pagerank": 0.00634,
+      "betweenness": 9.5994,
+      "clustering": 0.5735
+    },
+    {
+      "id": 56,
+      "term": "findings suggest",
+      "kind": "emergent",
+      "df": 60,
+      "degree": 12,
+      "weighted_degree": 80,
+      "degree_centrality": 0.1519,
+      "pagerank": 0.005861,
+      "betweenness": 4.6743,
+      "clustering": 0.5455
+    },
+    {
+      "id": 66,
+      "term": "findings highlight",
+      "kind": "emergent",
+      "df": 49,
+      "degree": 15,
+      "weighted_degree": 74,
+      "degree_centrality": 0.1899,
+      "pagerank": 0.00566,
+      "betweenness": 9.3597,
+      "clustering": 0.581
+    },
+    {
+      "id": 65,
+      "term": "influencer marketing",
+      "kind": "emergent",
+      "df": 50,
+      "degree": 11,
+      "weighted_degree": 79,
+      "degree_centrality": 0.1392,
+      "pagerank": 0.005656,
+      "betweenness": 1.197,
+      "clustering": 0.7818
+    },
+    {
+      "id": 71,
+      "term": "firm performance",
+      "kind": "emergent",
+      "df": 46,
+      "degree": 16,
+      "weighted_degree": 65,
+      "degree_centrality": 0.2025,
+      "pagerank": 0.005589,
+      "betweenness": 6.0629,
+      "clustering": 0.525
+    },
+    {
+      "id": 69,
+      "term": "labor market",
+      "kind": "emergent",
+      "df": 47,
+      "degree": 11,
+      "weighted_degree": 68,
+      "degree_centrality": 0.1392,
+      "pagerank": 0.00558,
+      "betweenness": 2.6061,
+      "clustering": 0.6364
+    },
+    {
+      "id": 63,
+      "term": "united states",
+      "kind": "emergent",
+      "df": 51,
+      "degree": 16,
+      "weighted_degree": 64,
+      "degree_centrality": 0.2025,
+      "pagerank": 0.005561,
+      "betweenness": 11.531,
+      "clustering": 0.4
+    },
+    {
+      "id": 74,
+      "term": "concerns about",
+      "kind": "emergent",
+      "df": 44,
+      "degree": 15,
+      "weighted_degree": 70,
+      "degree_centrality": 0.1899,
+      "pagerank": 0.005398,
+      "betweenness": 5.7108,
+      "clustering": 0.6095
+    },
+    {
+      "id": 79,
+      "term": "moderating role",
+      "kind": "emergent",
+      "df": 40,
+      "degree": 16,
+      "weighted_degree": 60,
+      "degree_centrality": 0.2025,
+      "pagerank": 0.005151,
+      "betweenness": 13.0454,
+      "clustering": 0.425
+    },
+    {
+      "id": 78,
+      "term": "social responsibility",
+      "kind": "emergent",
+      "df": 40,
+      "degree": 11,
+      "weighted_degree": 64,
+      "degree_centrality": 0.1392,
+      "pagerank": 0.005141,
+      "betweenness": 4.3988,
+      "clustering": 0.5273
+    },
+    {
+      "id": 70,
+      "term": "factors influencing",
+      "kind": "emergent",
+      "df": 47,
+      "degree": 20,
+      "weighted_degree": 65,
+      "degree_centrality": 0.2532,
+      "pagerank": 0.004983,
+      "betweenness": 44.142,
+      "clustering": 0.3421
+    },
+    {
+      "id": 77,
+      "term": "economic growth",
+      "kind": "emergent",
+      "df": 41,
+      "degree": 6,
+      "weighted_degree": 38,
+      "degree_centrality": 0.0759,
+      "pagerank": 0.00498,
+      "betweenness": 2.8228,
+      "clustering": 0.2
+    },
+    {
+      "id": 76,
+      "term": "stock market",
+      "kind": "emergent",
+      "df": 41,
+      "degree": 5,
+      "weighted_degree": 49,
+      "degree_centrality": 0.0633,
+      "pagerank": 0.004854,
+      "betweenness": 0.5768,
+      "clustering": 0.5
+    },
+    {
+      "id": 45,
+      "term": "social networks",
+      "kind": "emergent",
+      "df": 77,
+      "degree": 10,
+      "weighted_degree": 45,
+      "degree_centrality": 0.1266,
+      "pagerank": 0.004627,
+      "betweenness": 2.962,
+      "clustering": 0.5111
+    },
+    {
+      "id": 36,
+      "term": "social capital",
+      "kind": "emergent",
+      "df": 122,
+      "degree": 9,
+      "weighted_degree": 33,
+      "degree_centrality": 0.1139,
+      "pagerank": 0.004074,
+      "betweenness": 2.3312,
+      "clustering": 0.5
+    },
+    {
+      "id": 75,
+      "term": "case studies",
+      "kind": "emergent",
+      "df": 43,
+      "degree": 10,
+      "weighted_degree": 37,
+      "degree_centrality": 0.1266,
+      "pagerank": 0.003793,
+      "betweenness": 4.0898,
+      "clustering": 0.5333
+    },
+    {
+      "id": 16,
+      "term": "Survey",
+      "kind": "taxonomy",
+      "df": 0,
+      "degree": 0,
+      "weighted_degree": 0,
+      "degree_centrality": 0.0,
+      "pagerank": 0.0,
+      "betweenness": 0.0,
+      "clustering": 0.0
+    },
+    {
+      "id": 17,
+      "term": "Method",
+      "kind": "taxonomy",
+      "df": 0,
+      "degree": 0,
+      "weighted_degree": 0,
+      "degree_centrality": 0.0,
+      "pagerank": 0.0,
+      "betweenness": 0.0,
+      "clustering": 0.0
+    }
+  ],
+  "communities": [
+    {
+      "size": 28,
+      "members": [
+        "B2b Marketing",
+        "Business Models",
+        "Digital Marketing",
+        "Market Analysis",
+        "Sales Strategy",
+        "brand equity",
+        "brand loyalty",
+        "business models",
+        "customer engagement",
+        "digital marketing",
+        "digital transformation",
+        "firm performance",
+        "influencer marketing",
+        "marketing strategies",
+        "marketing strategy",
+        "media marketing",
+        "media platforms",
+        "mediating role",
+        "medium enterprises",
+        "medium-sized enterprises",
+        "moderating role",
+        "purchase intention",
+        "sales performance",
+        "social capital",
+        "social media",
+        "social networks",
+        "stock market",
+        "systematic literature"
+      ]
+    },
+    {
+      "size": 19,
+      "members": [
+        "Ai Adoption",
+        "Content Marketing",
+        "Entrepreneurship",
+        "case studies",
+        "concerns about",
+        "content generation",
+        "content marketing",
+        "economic growth",
+        "empirical evidence",
+        "factors influencing",
+        "findings highlight",
+        "findings reveal",
+        "findings suggest",
+        "higher education",
+        "labor market",
+        "language models",
+        "large language",
+        "natural language",
+        "united states"
+      ]
+    },
+    {
+      "size": 5,
+      "members": [
+        "Pricing Strategy",
+        "dynamic pricing",
+        "pricing strategies",
+        "pricing strategy",
+        "supply chain"
+      ]
+    },
+    {
+      "size": 5,
+      "members": [
+        "Customer Retention",
+        "churn prediction",
+        "customer churn",
+        "customer retention",
+        "predicting customer"
+      ]
+    },
+    {
+      "size": 4,
+      "members": [
+        "Competitive Intelligence",
+        "competitive advantage",
+        "social responsibility",
+        "sustainable competitive"
+      ]
+    },
+    {
+      "size": 4,
+      "members": [
+        "Customer Success",
+        "customer loyalty",
+        "customer satisfaction",
+        "service quality"
+      ]
+    },
+    {
+      "size": 3,
+      "members": [
+        "Go To Market",
+        "entry strategies",
+        "market entry"
+      ]
+    },
+    {
+      "size": 3,
+      "members": [
+        "Growth Metrics",
+        "customer lifetime",
+        "lifetime value"
+      ]
+    },
+    {
+      "size": 3,
+      "members": [
+        "Partnerships",
+        "strategic alliance",
+        "strategic alliances"
+      ]
+    },
+    {
+      "size": 2,
+      "members": [
+        "Customer Acquisition",
+        "customer acquisition"
+      ]
+    },
+    {
+      "size": 2,
+      "members": [
+        "customer relationship",
+        "relationship management"
+      ]
+    }
+  ],
+  "top_hubs": [
+    "large language",
+    "language models",
+    "Ai Adoption",
+    "social media",
+    "Content Marketing",
+    "digital marketing",
+    "competitive advantage",
+    "Digital Marketing",
+    "Pricing Strategy",
+    "Competitive Intelligence"
+  ],
+  "bridge_nodes": [
+    "social media",
+    "marketing strategies",
+    "digital transformation",
+    "competitive advantage",
+    "supply chain",
+    "Customer Acquisition",
+    "Go To Market",
+    "digital marketing",
+    "Digital Marketing",
+    "mediating role"
+  ],
+  "bridge_edges": [
+    {
+      "source": "competitive advantage",
+      "target": "strategic alliance",
+      "weight": 3,
+      "edge_betweenness": 38.9866
+    },
+    {
+      "source": "digital transformation",
+      "target": "dynamic pricing",
+      "weight": 2,
+      "edge_betweenness": 37.7387
+    },
+    {
+      "source": "marketing strategies",
+      "target": "entry strategies",
+      "weight": 2,
+      "edge_betweenness": 35.6562
+    },
+    {
+      "source": "marketing strategies",
+      "target": "predicting customer",
+      "weight": 2,
+      "edge_betweenness": 31.904
+    },
+    {
+      "source": "marketing strategies",
+      "target": "market entry",
+      "weight": 3,
+      "edge_betweenness": 28.7327
+    },
+    {
+      "source": "supply chain",
+      "target": "strategic alliance",
+      "weight": 5,
+      "edge_betweenness": 28.0045
+    },
+    {
+      "source": "pricing strategy",
+      "target": "supply chain",
+      "weight": 17,
+      "edge_betweenness": 27.889
+    },
+    {
+      "source": "Customer Acquisition",
+      "target": "economic growth",
+      "weight": 2,
+      "edge_betweenness": 25.7117
+    },
+    {
+      "source": "social media",
+      "target": "stock market",
+      "weight": 9,
+      "edge_betweenness": 25.7026
+    },
+    {
+      "source": "churn prediction",
+      "target": "systematic literature",
+      "weight": 2,
+      "edge_betweenness": 25.6291
+    },
+    {
+      "source": "Sales Strategy",
+      "target": "pricing strategy",
+      "weight": 2,
+      "edge_betweenness": 22.6927
+    },
+    {
+      "source": "Go To Market",
+      "target": "entry strategies",
+      "weight": 48,
+      "edge_betweenness": 22.1991
+    },
+    {
+      "source": "competitive advantage",
+      "target": "market entry",
+      "weight": 2,
+      "edge_betweenness": 22.1973
+    },
+    {
+      "source": "customer churn",
+      "target": "marketing strategies",
+      "weight": 3,
+      "edge_betweenness": 22.0028
+    },
+    {
+      "source": "social media",
+      "target": "customer acquisition",
+      "weight": 6,
+      "edge_betweenness": 21.5302
+    }
+  ]
+}
