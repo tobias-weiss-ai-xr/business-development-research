@@ -339,37 +339,37 @@
    "id": "digital-marketing",
    "name": "Digital Marketing & SEO",
    "color": "#7ee787",
-   "count": 400,
+   "count": 469,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 32
+     "count": 46
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 39
+     "count": 43
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 112
+     "count": 130
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 68
+     "count": 75
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 8
+     "count": 10
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 108
+     "count": 128
     },
     {
      "id": "evaluation",
@@ -379,7 +379,7 @@
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 22
+     "count": 26
     }
    ],
    "trajectory": {
@@ -388,18 +388,18 @@
     "2023": 81,
     "2024": 48,
     "2025": 32,
-    "2026": 118
+    "2026": 187
    },
    "momentum": {
     "id": "digital-marketing",
     "name": "Digital Marketing & SEO",
-    "total": 400,
-    "recent": 133,
+    "total": 469,
+    "recent": 202,
     "prior": 35,
-    "growth_pct": 280.0,
-    "recent_share": 0.333,
-    "papers_per_month": 11.1,
-    "score": 313.3
+    "growth_pct": 477.1,
+    "recent_share": 0.431,
+    "papers_per_month": 16.8,
+    "score": 520.2
    }
   },
   {
@@ -473,79 +473,12 @@
    "id": "customer-acquisition",
    "name": "Customer Acquisition & Growth",
    "color": "#79c0ff",
-   "count": 203,
+   "count": 273,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 12
-    },
-    {
-     "id": "mechanism",
-     "name": "Mechanism",
-     "count": 20
-    },
-    {
-     "id": "method",
-     "name": "Method",
-     "count": 90
-    },
-    {
-     "id": "application",
-     "name": "Application",
-     "count": 32
-    },
-    {
-     "id": "development",
-     "name": "Development",
-     "count": 8
-    },
-    {
-     "id": "systems",
-     "name": "Systems & Technology",
-     "count": 31
-    },
-    {
-     "id": "evaluation",
-     "name": "Evaluation & Benchmarks",
-     "count": 3
-    },
-    {
-     "id": "review",
-     "name": "Reviews & Surveys",
-     "count": 7
-    }
-   ],
-   "trajectory": {
-    "2021": 15,
-    "2022": 43,
-    "2023": 42,
-    "2024": 54,
-    "2025": 38,
-    "2026": 11
-   },
-   "momentum": {
-    "id": "customer-acquisition",
-    "name": "Customer Acquisition & Growth",
-    "total": 203,
-    "recent": 22,
-    "prior": 42,
-    "growth_pct": -47.6,
-    "recent_share": 0.108,
-    "papers_per_month": 1.8,
-    "score": -36.8
-   }
-  },
-  {
-   "id": "customer-retention",
-   "name": "Customer Retention & Churn",
-   "color": "#ffa657",
-   "count": 214,
-   "subcategories": [
-    {
-     "id": "theory",
-     "name": "Theory",
-     "count": 7
+     "count": 16
     },
     {
      "id": "mechanism",
@@ -555,27 +488,94 @@
     {
      "id": "method",
      "name": "Method",
-     "count": 65
+     "count": 110
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 29
+     "count": 41
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 5
+     "count": 9
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 32
+     "count": 46
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 35
+     "count": 4
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 9
+    }
+   ],
+   "trajectory": {
+    "2021": 15,
+    "2022": 43,
+    "2023": 42,
+    "2024": 54,
+    "2025": 38,
+    "2026": 81
+   },
+   "momentum": {
+    "id": "customer-acquisition",
+    "name": "Customer Acquisition & Growth",
+    "total": 273,
+    "recent": 92,
+    "prior": 42,
+    "growth_pct": 119.0,
+    "recent_share": 0.337,
+    "papers_per_month": 7.7,
+    "score": 152.7
+   }
+  },
+  {
+   "id": "customer-retention",
+   "name": "Customer Retention & Churn",
+   "color": "#ffa657",
+   "count": 277,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 10
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 60
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 67
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 38
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 6
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 48
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 45
     },
     {
      "id": "review",
@@ -589,18 +589,18 @@
     "2023": 42,
     "2024": 68,
     "2025": 38,
-    "2026": 16
+    "2026": 79
    },
    "momentum": {
     "id": "customer-retention",
     "name": "Customer Retention & Churn",
-    "total": 214,
-    "recent": 23,
+    "total": 277,
+    "recent": 86,
     "prior": 50,
-    "growth_pct": -54.0,
-    "recent_share": 0.107,
-    "papers_per_month": 1.9,
-    "score": -43.3
+    "growth_pct": 72.0,
+    "recent_share": 0.31,
+    "papers_per_month": 7.2,
+    "score": 103.0
    }
   },
   {
@@ -674,27 +674,27 @@
    "id": "pricing-strategy",
    "name": "Pricing & Monetization",
    "color": "#d2a8ff",
-   "count": 317,
+   "count": 402,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 36
+     "count": 44
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 39
+     "count": 42
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 101
+     "count": 141
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 68
+     "count": 83
     },
     {
      "id": "development",
@@ -704,17 +704,17 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 58
+     "count": 75
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 7
+     "count": 8
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 7
+     "count": 8
     }
    ],
    "trajectory": {
@@ -723,18 +723,18 @@
     "2023": 75,
     "2024": 56,
     "2025": 39,
-    "2026": 35
+    "2026": 120
    },
    "momentum": {
     "id": "pricing-strategy",
     "name": "Pricing & Monetization",
-    "total": 317,
-    "recent": 55,
+    "total": 402,
+    "recent": 140,
     "prior": 39,
-    "growth_pct": 41.0,
-    "recent_share": 0.174,
-    "papers_per_month": 4.6,
-    "score": 58.4
+    "growth_pct": 259.0,
+    "recent_share": 0.348,
+    "papers_per_month": 11.7,
+    "score": 293.8
    }
   },
   {
@@ -875,47 +875,47 @@
    "id": "competitive-intelligence",
    "name": "Competitive Intelligence",
    "color": "#b392f0",
-   "count": 202,
+   "count": 287,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 32
+     "count": 42
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 8
+     "count": 18
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 87
+     "count": 113
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 30
+     "count": 48
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 3
+     "count": 5
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 22
+     "count": 35
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 12
+     "count": 13
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 8
+     "count": 13
     }
    ],
    "trajectory": {
@@ -924,18 +924,18 @@
     "2023": 53,
     "2024": 30,
     "2025": 16,
-    "2026": 7
+    "2026": 92
    },
    "momentum": {
     "id": "competitive-intelligence",
     "name": "Competitive Intelligence",
-    "total": 202,
-    "recent": 9,
+    "total": 287,
+    "recent": 94,
     "prior": 19,
-    "growth_pct": -52.6,
-    "recent_share": 0.045,
-    "papers_per_month": 0.8,
-    "score": -48.1
+    "growth_pct": 394.7,
+    "recent_share": 0.328,
+    "papers_per_month": 7.8,
+    "score": 427.5
    }
   },
   {
@@ -1143,47 +1143,47 @@
    "id": "entrepreneurship",
    "name": "Entrepreneurship & Small Business",
    "color": "#68a4ff",
-   "count": 235,
+   "count": 313,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 23
+     "count": 31
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 31
+     "count": 39
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 77
+     "count": 95
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 25
+     "count": 36
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 4
+     "count": 5
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 54
+     "count": 82
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 7
+     "count": 8
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 14
+     "count": 17
     }
    ],
    "trajectory": {
@@ -1192,18 +1192,18 @@
     "2023": 47,
     "2024": 51,
     "2025": 42,
-    "2026": 14
+    "2026": 92
    },
    "momentum": {
     "id": "entrepreneurship",
     "name": "Entrepreneurship & Small Business",
-    "total": 235,
-    "recent": 29,
+    "total": 313,
+    "recent": 107,
     "prior": 39,
-    "growth_pct": -25.6,
-    "recent_share": 0.123,
-    "papers_per_month": 2.4,
-    "score": -13.3
+    "growth_pct": 174.4,
+    "recent_share": 0.342,
+    "papers_per_month": 8.9,
+    "score": 208.6
    }
   },
   {
@@ -1277,17 +1277,17 @@
    "id": "ai-adoption",
    "name": "AI Adoption & Transformation",
    "color": "#a371f7",
-   "count": 742,
+   "count": 773,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 59
+     "count": 67
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 103
+     "count": 106
     },
     {
      "id": "method",
@@ -1297,27 +1297,27 @@
     {
      "id": "application",
      "name": "Application",
-     "count": 173
+     "count": 177
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 9
+     "count": 10
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 176
+     "count": 182
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 23
+     "count": 24
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 55
+     "count": 63
     }
    ],
    "trajectory": {
@@ -1326,18 +1326,18 @@
     "2023": 63,
     "2024": 85,
     "2025": 225,
-    "2026": 311
+    "2026": 342
    },
    "momentum": {
     "id": "ai-adoption",
     "name": "AI Adoption & Transformation",
-    "total": 742,
-    "recent": 471,
+    "total": 773,
+    "recent": 502,
     "prior": 104,
-    "growth_pct": 352.9,
-    "recent_share": 0.635,
-    "papers_per_month": 39.2,
-    "score": 416.4
+    "growth_pct": 382.7,
+    "recent_share": 0.649,
+    "papers_per_month": 41.8,
+    "score": 447.6
    }
   }
  ],
@@ -1345,42 +1345,42 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 597
+   "count": 652
   },
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 723
+   "count": 791
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 1920
+   "count": 2044
   },
   {
    "id": "application",
    "name": "Application",
-   "count": 1055
+   "count": 1128
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 102
+   "count": 110
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 1069
+   "count": 1184
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Benchmarks",
-   "count": 201
+   "count": 216
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 296
+   "count": 319
   }
  ],
  "timeline": [
@@ -24942,7 +24942,7 @@
   [
    "2026-02",
    "ai-adoption",
-   "method"
+   "mechanism"
   ],
   [
    "2026-02",
@@ -24953,6 +24953,16 @@
    "2026-02",
    "ai-adoption",
    "method"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "method"
+  ],
+  [
+   "2026-02",
+   "ai-adoption",
+   "review"
   ],
   [
    "2026-02",
@@ -25057,6 +25067,61 @@
   [
    "2026-02",
    "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
+   "review"
+  ],
+  [
+   "2026-02",
+   "competitive-intelligence",
    "theory"
   ],
   [
@@ -25073,6 +25138,36 @@
    "2026-02",
    "customer-acquisition",
    "mechanism"
+  ],
+  [
+   "2026-02",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-02",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-02",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "customer-retention",
+   "evaluation"
   ],
   [
    "2026-02",
@@ -25092,7 +25187,87 @@
   [
    "2026-02",
    "digital-marketing",
+   "application"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "application"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "review"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
    "systems"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-02",
+   "entrepreneurship",
+   "development"
+  ],
+  [
+   "2026-02",
+   "entrepreneurship",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "entrepreneurship",
+   "review"
   ],
   [
    "2026-02",
@@ -25182,6 +25357,21 @@
   [
    "2026-02",
    "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "pricing-strategy",
    "systems"
   ],
   [
@@ -25317,6 +25507,11 @@
   [
    "2026-03",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
    "evaluation"
   ],
   [
@@ -25432,7 +25627,12 @@
   [
    "2026-03",
    "ai-adoption",
-   "systems"
+   "review"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "review"
   ],
   [
    "2026-03",
@@ -25478,6 +25678,16 @@
    "2026-03",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-03",
@@ -25497,7 +25707,107 @@
   [
    "2026-03",
    "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
    "systems"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "competitive-intelligence",
+   "theory"
   ],
   [
    "2026-03",
@@ -25512,7 +25822,52 @@
   [
    "2026-03",
    "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "customer-acquisition",
+   "theory"
   ],
   [
    "2026-03",
@@ -25527,7 +25882,82 @@
   [
    "2026-03",
    "customer-retention",
+   "application"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "method"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "application"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "application"
   ],
   [
    "2026-03",
@@ -25541,8 +25971,183 @@
   ],
   [
    "2026-03",
+   "digital-marketing",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "review"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "review"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-03",
    "entrepreneurship",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "entrepreneurship",
+   "theory"
   ],
   [
    "2026-03",
@@ -25612,7 +26217,112 @@
   [
    "2026-03",
    "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "method"
   ],
   [
    "2026-03",
@@ -25621,6 +26331,46 @@
   ],
   [
    "2026-03",
+   "pricing-strategy",
+   "review"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "pricing-strategy",
+   "theory"
+  ],
+  [
+   "2026-03",
    "product-market-fit",
    "application"
   ],
@@ -25787,7 +26537,7 @@
   [
    "2026-04",
    "ai-adoption",
-   "evaluation"
+   "application"
   ],
   [
    "2026-04",
@@ -25798,6 +26548,16 @@
    "2026-04",
    "ai-adoption",
    "evaluation"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "mechanism"
   ],
   [
    "2026-04",
@@ -25878,6 +26638,16 @@
    "2026-04",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2026-04",
@@ -26036,6 +26806,61 @@
   ],
   [
    "2026-04",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "development"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "competitive-intelligence",
+   "theory"
+  ],
+  [
+   "2026-04",
    "content-marketing",
    "application"
   ],
@@ -26082,7 +26907,117 @@
   [
    "2026-04",
    "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
    "method"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-04",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "mechanism"
   ],
   [
    "2026-04",
@@ -26091,6 +27026,21 @@
   ],
   [
    "2026-04",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-04",
    "digital-marketing",
    "application"
   ],
@@ -26098,6 +27048,16 @@
    "2026-04",
    "digital-marketing",
    "application"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "application"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "development"
   ],
   [
    "2026-04",
@@ -26106,13 +27066,118 @@
   ],
   [
    "2026-04",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "review"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-04",
    "entrepreneurship",
    "application"
   ],
   [
    "2026-04",
    "entrepreneurship",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
    "method"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "entrepreneurship",
+   "theory"
   ],
   [
    "2026-04",
@@ -26212,6 +27277,26 @@
   [
    "2026-04",
    "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
    "evaluation"
   ],
   [
@@ -26227,7 +27312,77 @@
   [
    "2026-04",
    "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
    "systems"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "pricing-strategy",
+   "theory"
   ],
   [
    "2026-04",
@@ -26422,6 +27577,16 @@
   [
    "2026-05",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "development"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
    "development"
   ],
   [
@@ -26473,6 +27638,16 @@
    "2026-05",
    "ai-adoption",
    "method"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "review"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "review"
   ],
   [
    "2026-05",
@@ -26573,6 +27748,16 @@
    "2026-05",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-05",
@@ -26626,6 +27811,56 @@
   ],
   [
    "2026-05",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "review"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "review"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "competitive-intelligence",
+   "theory"
+  ],
+  [
+   "2026-05",
    "content-marketing",
    "application"
   ],
@@ -26637,6 +27872,81 @@
   [
    "2026-05",
    "content-marketing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "review"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "customer-acquisition",
    "systems"
   ],
   [
@@ -26651,8 +27961,38 @@
   ],
   [
    "2026-05",
+   "customer-acquisition",
+   "theory"
+  ],
+  [
+   "2026-05",
    "customer-retention",
    "application"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "evaluation"
   ],
   [
    "2026-05",
@@ -26662,7 +28002,37 @@
   [
    "2026-05",
    "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "method"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
    "systems"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "application"
   ],
   [
    "2026-05",
@@ -26672,7 +28042,87 @@
   [
    "2026-05",
    "digital-marketing",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
    "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-marketing",
+   "theory"
   ],
   [
    "2026-05",
@@ -26683,6 +28133,76 @@
    "2026-05",
    "entrepreneurship",
    "evaluation"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "entrepreneurship",
+   "systems"
   ],
   [
    "2026-05",
@@ -26797,12 +28317,62 @@
   [
    "2026-05",
    "pricing-strategy",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
    "method"
   ],
   [
    "2026-05",
    "pricing-strategy",
    "method"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "pricing-strategy",
+   "systems"
   ],
   [
    "2026-05",
@@ -27027,12 +28597,22 @@
   [
    "2026-06",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
    "evaluation"
   ],
   [
    "2026-06",
    "ai-adoption",
    "evaluation"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "mechanism"
   ],
   [
    "2026-06",
@@ -27132,7 +28712,12 @@
   [
    "2026-06",
    "ai-adoption",
-   "systems"
+   "review"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "review"
   ],
   [
    "2026-06",
@@ -27158,6 +28743,46 @@
    "2026-06",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-06",
@@ -27217,7 +28842,32 @@
   [
    "2026-06",
    "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
    "evaluation"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
+   "mechanism"
   ],
   [
    "2026-06",
@@ -27227,7 +28877,32 @@
   [
    "2026-06",
    "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
+   "review"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
    "systems"
+  ],
+  [
+   "2026-06",
+   "competitive-intelligence",
+   "theory"
   ],
   [
    "2026-06",
@@ -27247,10 +28922,95 @@
   [
    "2026-06",
    "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "development"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
    "method"
   ],
   [
    "2026-06",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "customer-acquisition",
+   "theory"
+  ],
+  [
+   "2026-06",
    "customer-retention",
    "application"
   ],
@@ -27258,6 +29018,71 @@
    "2026-06",
    "customer-retention",
    "application"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "customer-retention",
+   "theory"
   ],
   [
    "2026-06",
@@ -27277,6 +29102,26 @@
   [
    "2026-06",
    "digital-marketing",
+   "development"
+  ],
+  [
+   "2026-06",
+   "digital-marketing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "digital-marketing",
    "systems"
   ],
   [
@@ -27293,11 +29138,86 @@
    "2026-06",
    "digital-marketing",
    "systems"
+  ],
+  [
+   "2026-06",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "digital-marketing",
+   "theory"
   ],
   [
    "2026-06",
    "entrepreneurship",
    "application"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "review"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "entrepreneurship",
+   "theory"
   ],
   [
    "2026-06",
@@ -27412,7 +29332,82 @@
   [
    "2026-06",
    "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
    "systems"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "pricing-strategy",
+   "theory"
   ],
   [
    "2026-06",
@@ -27587,6 +29582,11 @@
   [
    "2026-07",
    "ai-adoption",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
    "mechanism"
   ],
   [
@@ -27633,6 +29633,11 @@
    "2026-07",
    "ai-adoption",
    "review"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "systems"
   ],
   [
    "2026-07",
@@ -27756,6 +29761,96 @@
   ],
   [
    "2026-07",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "development"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "review"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "competitive-intelligence",
+   "theory"
+  ],
+  [
+   "2026-07",
    "content-marketing",
    "application"
   ],
@@ -27771,6 +29866,66 @@
   ],
   [
    "2026-07",
+   "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "method"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "review"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "customer-acquisition",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "application"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "development"
+  ],
+  [
+   "2026-07",
    "customer-retention",
    "evaluation"
   ],
@@ -27783,6 +29938,41 @@
    "2026-07",
    "customer-retention",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "customer-retention",
+   "theory"
   ],
   [
    "2026-07",
@@ -27802,12 +29992,37 @@
   [
    "2026-07",
    "digital-marketing",
+   "application"
+  ],
+  [
+   "2026-07",
+   "digital-marketing",
    "systems"
   ],
   [
    "2026-07",
    "digital-marketing",
    "systems"
+  ],
+  [
+   "2026-07",
+   "digital-marketing",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "digital-marketing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "application"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "evaluation"
   ],
   [
    "2026-07",
@@ -27832,7 +30047,67 @@
   [
    "2026-07",
    "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "review"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
    "systems"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "entrepreneurship",
+   "theory"
   ],
   [
    "2026-07",
@@ -27917,6 +30192,16 @@
   [
    "2026-07",
    "pricing-strategy",
+   "application"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
    "mechanism"
   ],
   [
@@ -27932,12 +30217,42 @@
   [
    "2026-07",
    "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
    "systems"
   ],
   [
    "2026-07",
    "pricing-strategy",
    "systems"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "pricing-strategy",
+   "theory"
   ],
   [
    "2026-07",
@@ -28102,7 +30417,7 @@
   [
    "2026-08",
    "ai-adoption",
-   "systems"
+   "review"
   ],
   [
    "2026-08",
@@ -28128,6 +30443,16 @@
    "2026-08",
    "ai-adoption",
    "systems"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
+   "theory"
   ],
   [
    "2026-08",
@@ -28866,6 +31191,31 @@
   ],
   [
    "2026-08",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-08",
+   "competitive-intelligence",
+   "application"
+  ],
+  [
+   "2026-08",
+   "competitive-intelligence",
+   "method"
+  ],
+  [
+   "2026-08",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "competitive-intelligence",
+   "systems"
+  ],
+  [
+   "2026-08",
    "content-marketing",
    "application"
   ],
@@ -29273,6 +31623,31 @@
    "2026-08",
    "content-marketing",
    "theory"
+  ],
+  [
+   "2026-08",
+   "customer-acquisition",
+   "application"
+  ],
+  [
+   "2026-08",
+   "customer-acquisition",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "customer-acquisition",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "customer-retention",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "customer-retention",
+   "systems"
   ],
   [
    "2026-08",
@@ -29748,6 +32123,26 @@
    "2026-08",
    "entrepreneurship",
    "mechanism"
+  ],
+  [
+   "2026-08",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-08",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-08",
+   "entrepreneurship",
+   "method"
+  ],
+  [
+   "2026-08",
+   "entrepreneurship",
+   "systems"
   ],
   [
    "2026-08",
@@ -30893,6 +33288,16 @@
    "2026-08",
    "pricing-strategy",
    "method"
+  ],
+  [
+   "2026-08",
+   "pricing-strategy",
+   "method"
+  ],
+  [
+   "2026-08",
+   "pricing-strategy",
+   "systems"
   ],
   [
    "2026-08",
@@ -31202,16 +33607,16 @@
  ],
  "venues": [
   {
-   "name": "Sustainability",
-   "papers": 119
+   "name": "Zenodo (CERN European Organization for Nuclear Research)",
+   "papers": 169
   },
   {
-   "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 94
+   "name": "Sustainability",
+   "papers": 122
   },
   {
    "name": "Journal of Business Research",
-   "papers": 53
+   "papers": 54
   },
   {
    "name": "SSRN Electronic Journal",
@@ -31222,20 +33627,20 @@
    "papers": 39
   },
   {
+   "name": "Open MIND",
+   "papers": 38
+  },
+  {
    "name": "Journal of the Association for Information Systems",
    "papers": 37
   },
   {
+   "name": "Journal of Retailing and Consumer Services",
+   "papers": 35
+  },
+  {
    "name": "International Journal of Data and Network Science",
    "papers": 34
-  },
-  {
-   "name": "Journal of Retailing and Consumer Services",
-   "papers": 34
-  },
-  {
-   "name": "Open MIND",
-   "papers": 33
   },
   {
    "name": "Technological Forecasting and Social Change",
@@ -31247,131 +33652,131 @@
   },
   {
    "name": "Journal of Cleaner Production",
-   "papers": 25
+   "papers": 26
   },
   {
    "name": "Industrial Marketing Management",
-   "papers": 25
+   "papers": 26
+  },
+  {
+   "name": "Research Square",
+   "papers": 26
   },
   {
    "name": "Cairn.info",
    "papers": 25
-  },
-  {
-   "name": "Research Square",
-   "papers": 25
   }
  ],
  "source_breakdown": {
-  "arxiv": 1747,
-  "doi": 3978,
-  "other": 238
+  "arxiv": 1749,
+  "doi": 4439,
+  "other": 256
  },
  "keyword_bursts": [
   {
+   "keyword": "mvp",
+   "recent": 1,
+   "total": 1,
+   "burst_score": 2.71,
+   "recent_share": 0.0004
+  },
+  {
    "keyword": "agentic",
-   "recent": 67,
-   "total": 69,
-   "burst_score": 3.05,
-   "recent_share": 0.0353
+   "recent": 69,
+   "total": 71,
+   "burst_score": 2.63,
+   "recent_share": 0.029
   },
   {
    "keyword": "eu ai act",
    "recent": 9,
    "total": 10,
-   "burst_score": 2.83,
-   "recent_share": 0.0047
+   "burst_score": 2.44,
+   "recent_share": 0.0038
+  },
+  {
+   "keyword": "saas",
+   "recent": 17,
+   "total": 20,
+   "burst_score": 2.3,
+   "recent_share": 0.0071
   },
   {
    "keyword": "literacy",
-   "recent": 111,
-   "total": 132,
-   "burst_score": 2.64,
-   "recent_share": 0.0585
+   "recent": 114,
+   "total": 135,
+   "burst_score": 2.29,
+   "recent_share": 0.0479
   },
   {
    "keyword": "negotiation",
    "recent": 88,
    "total": 108,
-   "burst_score": 2.56,
-   "recent_share": 0.0464
+   "burst_score": 2.21,
+   "recent_share": 0.037
   },
   {
    "keyword": "benchmark",
-   "recent": 129,
-   "total": 159,
-   "burst_score": 2.55,
-   "recent_share": 0.068
+   "recent": 131,
+   "total": 161,
+   "burst_score": 2.2,
+   "recent_share": 0.0551
+  },
+  {
+   "keyword": "genai",
+   "recent": 57,
+   "total": 71,
+   "burst_score": 2.17,
+   "recent_share": 0.024
   },
   {
    "keyword": "solo",
    "recent": 4,
    "total": 5,
-   "burst_score": 2.51,
-   "recent_share": 0.0021
+   "burst_score": 2.17,
+   "recent_share": 0.0017
   },
   {
-   "keyword": "genai",
-   "recent": 54,
-   "total": 68,
-   "burst_score": 2.49,
-   "recent_share": 0.0285
+   "keyword": "training",
+   "recent": 164,
+   "total": 208,
+   "burst_score": 2.14,
+   "recent_share": 0.0689
+  },
+  {
+   "keyword": "skills",
+   "recent": 82,
+   "total": 104,
+   "burst_score": 2.14,
+   "recent_share": 0.0345
   },
   {
    "keyword": "cohort",
    "recent": 19,
    "total": 24,
-   "burst_score": 2.49,
-   "recent_share": 0.01
+   "burst_score": 2.14,
+   "recent_share": 0.008
   },
   {
    "keyword": "llm",
-   "recent": 338,
-   "total": 430,
-   "burst_score": 2.47,
-   "recent_share": 0.1781
-  },
-  {
-   "keyword": "skills",
-   "recent": 80,
-   "total": 102,
-   "burst_score": 2.46,
-   "recent_share": 0.0421
-  },
-  {
-   "keyword": "training",
-   "recent": 156,
-   "total": 200,
-   "burst_score": 2.45,
-   "recent_share": 0.0822
+   "recent": 339,
+   "total": 431,
+   "burst_score": 2.13,
+   "recent_share": 0.1425
   },
   {
    "keyword": "large language model",
-   "recent": 273,
-   "total": 361,
-   "burst_score": 2.38,
-   "recent_share": 0.1438
+   "recent": 274,
+   "total": 362,
+   "burst_score": 2.05,
+   "recent_share": 0.1152
   },
   {
    "keyword": "generative ai",
-   "recent": 130,
-   "total": 174,
-   "burst_score": 2.35,
-   "recent_share": 0.0685
-  },
-  {
-   "keyword": "agent",
-   "recent": 251,
-   "total": 344,
-   "burst_score": 2.29,
-   "recent_share": 0.1322
-  },
-  {
-   "keyword": "saas",
-   "recent": 8,
-   "total": 11,
-   "burst_score": 2.28,
-   "recent_share": 0.0042
+   "recent": 133,
+   "total": 177,
+   "burst_score": 2.04,
+   "recent_share": 0.0559
   }
  ]
 }

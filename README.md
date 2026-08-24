@@ -236,69 +236,74 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 📊 Corpus Statistics
 
-**5,963 papers** across **20 categories**.  
-Sources: **arXiv** 1,747 (29%) · **DOI** 3,978 (66%) · **Other** 238 (3%).  
+**6,444 papers** across **20 categories**.  
+Sources: **arXiv** 1,749 (27%) · **DOI** 4,439 (68%) · **Other** 256 (3%).  
 Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/business-development-research).
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-| ai-adoption | **742** | 0 | ████████████ |
-| digital-marketing | **400** | 0 | ██████░░░░░░ |
-| market-analysis | **384** | 0 | ██████░░░░░░ |
-| content-marketing | **380** | 0 | ██████░░░░░░ |
+| ai-adoption | **773** | 0 | ████████████ |
+| digital-marketing | **469** | 0 | ███████░░░░░ |
+| pricing-strategy | **402** | 0 | ██████░░░░░░ |
+| market-analysis | **384** | 0 | █████░░░░░░░ |
+| content-marketing | **380** | 0 | █████░░░░░░░ |
 | go-to-market | **359** | 0 | █████░░░░░░░ |
 | sales-psychology | **323** | 0 | █████░░░░░░░ |
-| pricing-strategy | **317** | 0 | █████░░░░░░░ |
+| entrepreneurship | **313** | 0 | ████░░░░░░░░ |
 | networking | **304** | 0 | ████░░░░░░░░ |
-| brand-building | **266** | 0 | ████░░░░░░░░ |
-| sales-strategy | **265** | 0 | ████░░░░░░░░ |
-| *other* | **2,223** | | |
+| competitive-intelligence | **287** | 0 | ████░░░░░░░░ |
+| *other* | **2,450** | | |
+
 
 ### By year
 
 | Year | Papers | |
 |------|--------|-|
-| 2024 | 972 | ████████░░░░ |
-| 2025 | 1,004 | ████████░░░░ |
-| 2026 | 1,405 | ████████████ |
+| 2024 | 972 | ██████░░░░░░ |
+| 2025 | 1,004 | ██████░░░░░░ |
+| 2026 | 1,886 | ████████████ |
+
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
 | B2B Marketing & Lead Gen | 244 | 16.4/mo | 81% | 966 |
-| AI Adoption & Transformation | 742 | 39.2/mo | 64% | 416 |
+| Digital Marketing & SEO | 469 | 16.8/mo | 43% | 520 |
+| AI Adoption & Transformation | 773 | 41.8/mo | 65% | 448 |
+| Competitive Intelligence | 287 | 7.8/mo | 33% | 428 |
 | Market Analysis & Research | 384 | 11.9/mo | 37% | 414 |
-| Sales Psychology & Negotiation | 323 | 17.2/mo | 64% | 378 |
-| Digital Marketing & SEO | 400 | 11.1/mo | 33% | 313 |
+
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| agentic | 69 | 3.05 |
-| eu ai act | 10 | 2.83 |
-| literacy | 132 | 2.64 |
-| negotiation | 108 | 2.56 |
-| benchmark | 159 | 2.55 |
-| solo | 5 | 2.51 |
-| genai | 68 | 2.49 |
-| cohort | 24 | 2.49 |
+| mvp | 1 | 2.71 |
+| agentic | 71 | 2.63 |
+| eu ai act | 10 | 2.44 |
+| saas | 20 | 2.30 |
+| literacy | 135 | 2.29 |
+| negotiation | 108 | 2.21 |
+| benchmark | 161 | 2.20 |
+| genai | 71 | 2.17 |
+
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| Sustainability | 119 |
-| Zenodo (CERN European Organization for Nuclear Research) | 94 |
-| Journal of Business Research | 53 |
+| Zenodo (CERN European Organization for Nuclear Research) | 169 |
+| Sustainability | 122 |
+| Journal of Business Research | 54 |
 | SSRN Electronic Journal | 48 |
 | The International Conference on Sustainable Economics Management and Accounting Proceeding | 39 |
+| Open MIND | 38 |
 | Journal of the Association for Information Systems | 37 |
-| International Journal of Data and Network Science | 34 |
-| Journal of Retailing and Consumer Services | 34 |
+| Journal of Retailing and Consumer Services | 35 |
+
 
 ### Research gaps (thinnest cells)
 
@@ -310,7 +315,10 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/busine
 | `customer-success/evaluation` | 2 |
 | `business-models/evaluation` | 2 |
 
+
+
 *Generated 2026-08 by `scripts/standard_stats.py`.*
+
 
 ## 📄 License
 
