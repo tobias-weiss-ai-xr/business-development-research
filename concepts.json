@@ -1,5 +1,5 @@
 {
-  "count": 18,
+  "count": 38,
   "concepts": [
     {
       "term": "Ai Adoption",
@@ -18,6 +18,25 @@
         "ai-adoption/mechanism"
       ],
       "papers": 773
+    },
+    {
+      "term": "framework",
+      "kind": "curated",
+      "seed": true,
+      "df": 725,
+      "match": {
+        "type": "text",
+        "forms": [
+          "framework"
+        ]
+      },
+      "papers": 725,
+      "top_cells": [
+        "ai-adoption/application",
+        "ai-adoption/systems",
+        "ai-adoption/mechanism",
+        "ai-adoption/method"
+      ]
     },
     {
       "term": "Digital Marketing",
@@ -236,6 +255,25 @@
       "papers": 244
     },
     {
+      "term": "survey",
+      "kind": "curated",
+      "seed": true,
+      "df": 234,
+      "match": {
+        "type": "text",
+        "forms": [
+          "survey"
+        ]
+      },
+      "papers": 234,
+      "top_cells": [
+        "ai-adoption/review",
+        "ai-adoption/application",
+        "market-analysis/review",
+        "ai-adoption/mechanism"
+      ]
+    },
+    {
       "term": "Customer Success",
       "kind": "taxonomy",
       "seed": true,
@@ -288,6 +326,337 @@
         "partnerships/theory"
       ],
       "papers": 205
+    },
+    {
+      "term": "dataset",
+      "kind": "curated",
+      "seed": true,
+      "df": 188,
+      "match": {
+        "type": "text",
+        "forms": [
+          "dataset"
+        ]
+      },
+      "papers": 188,
+      "top_cells": [
+        "ai-adoption/application",
+        "ai-adoption/systems",
+        "digital-marketing/systems",
+        "ai-adoption/evaluation"
+      ]
+    },
+    {
+      "term": "case study",
+      "kind": "curated",
+      "seed": true,
+      "df": 131,
+      "match": {
+        "type": "text",
+        "forms": [
+          "case study"
+        ]
+      },
+      "papers": 131,
+      "top_cells": [
+        "market-analysis/application",
+        "ai-adoption/application",
+        "customer-acquisition/application",
+        "b2b-marketing/application"
+      ]
+    },
+    {
+      "term": "quantitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 125,
+      "match": {
+        "type": "text",
+        "forms": [
+          "quantitative"
+        ]
+      },
+      "papers": 125,
+      "top_cells": [
+        "ai-adoption/application",
+        "ai-adoption/method",
+        "ai-adoption/mechanism",
+        "content-marketing/method"
+      ]
+    },
+    {
+      "term": "qualitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 123,
+      "match": {
+        "type": "text",
+        "forms": [
+          "qualitative"
+        ]
+      },
+      "papers": 123,
+      "top_cells": [
+        "ai-adoption/application",
+        "ai-adoption/systems",
+        "ai-adoption/method",
+        "ai-adoption/mechanism"
+      ]
+    },
+    {
+      "term": "benchmark",
+      "kind": "curated",
+      "seed": true,
+      "df": 112,
+      "match": {
+        "type": "text",
+        "forms": [
+          "benchmark"
+        ]
+      },
+      "papers": 112,
+      "top_cells": [
+        "ai-adoption/application",
+        "sales-psychology/systems",
+        "ai-adoption/systems",
+        "digital-marketing/application"
+      ]
+    },
+    {
+      "term": "literature review",
+      "kind": "curated",
+      "seed": true,
+      "df": 104,
+      "match": {
+        "type": "text",
+        "forms": [
+          "literature review"
+        ]
+      },
+      "papers": 104,
+      "top_cells": [
+        "ai-adoption/review",
+        "market-analysis/review",
+        "ai-adoption/systems",
+        "digital-marketing/systems"
+      ]
+    },
+    {
+      "term": "experiment",
+      "kind": "curated",
+      "seed": true,
+      "df": 100,
+      "match": {
+        "type": "text",
+        "forms": [
+          "experiment"
+        ]
+      },
+      "papers": 100,
+      "top_cells": [
+        "ai-adoption/systems",
+        "product-market-fit/method",
+        "ai-adoption/application",
+        "ai-adoption/mechanism"
+      ]
+    },
+    {
+      "term": "systematic review",
+      "kind": "curated",
+      "seed": true,
+      "df": 69,
+      "match": {
+        "type": "text",
+        "forms": [
+          "systematic review"
+        ]
+      },
+      "papers": 69,
+      "top_cells": [
+        "ai-adoption/review",
+        "market-analysis/review",
+        "digital-marketing/review",
+        "business-models/review"
+      ]
+    },
+    {
+      "term": "taxonomy",
+      "kind": "curated",
+      "seed": true,
+      "df": 38,
+      "match": {
+        "type": "text",
+        "forms": [
+          "taxonomy"
+        ]
+      },
+      "papers": 38,
+      "top_cells": [
+        "ai-adoption/application",
+        "entrepreneurship/systems",
+        "ai-adoption/mechanism",
+        "content-marketing/application"
+      ]
+    },
+    {
+      "term": "interview",
+      "kind": "curated",
+      "seed": true,
+      "df": 14,
+      "match": {
+        "type": "text",
+        "forms": [
+          "interview"
+        ]
+      },
+      "papers": 14,
+      "top_cells": [
+        "product-market-fit/method",
+        "ai-adoption/application",
+        "ai-adoption/mechanism",
+        "go-to-market/theory"
+      ]
+    },
+    {
+      "term": "reproducibility",
+      "kind": "curated",
+      "seed": true,
+      "df": 13,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reproducibility"
+        ]
+      },
+      "papers": 13,
+      "top_cells": [
+        "ai-adoption/systems",
+        "digital-marketing/mechanism",
+        "sales-psychology/systems",
+        "growth-metrics/application"
+      ]
+    },
+    {
+      "term": "peer review",
+      "kind": "curated",
+      "seed": true,
+      "df": 8,
+      "match": {
+        "type": "text",
+        "forms": [
+          "peer review"
+        ]
+      },
+      "papers": 8,
+      "top_cells": [
+        "ai-adoption/mechanism",
+        "ai-adoption/systems",
+        "go-to-market/systems",
+        "digital-marketing/mechanism"
+      ]
+    },
+    {
+      "term": "research gap",
+      "kind": "curated",
+      "seed": true,
+      "df": 7,
+      "match": {
+        "type": "text",
+        "forms": [
+          "research gap"
+        ]
+      },
+      "papers": 7,
+      "top_cells": [
+        "product-market-fit/mechanism",
+        "market-analysis/mechanism",
+        "brand-building/theory",
+        "growth-metrics/method"
+      ]
+    },
+    {
+      "term": "triangulation",
+      "kind": "curated",
+      "seed": true,
+      "df": 3,
+      "match": {
+        "type": "text",
+        "forms": [
+          "triangulation"
+        ]
+      },
+      "papers": 3,
+      "top_cells": [
+        "sales-strategy/application",
+        "ai-adoption/systems",
+        "networking/systems"
+      ]
+    },
+    {
+      "term": "mixed methods",
+      "kind": "curated",
+      "seed": true,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "mixed methods"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "sales-psychology/mechanism",
+        "ai-adoption/systems"
+      ]
+    },
+    {
+      "term": "grounded theory",
+      "kind": "curated",
+      "seed": true,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "grounded theory"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "customer-acquisition/systems",
+        "entrepreneurship/method"
+      ]
+    },
+    {
+      "term": "meta analysis",
+      "kind": "curated",
+      "seed": true,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "meta analysis"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "market-analysis/method"
+      ]
+    },
+    {
+      "term": "open access",
+      "kind": "curated",
+      "seed": true,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "open access"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "digital-marketing/method"
+      ]
     },
     {
       "term": "Survey",
