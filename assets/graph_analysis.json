@@ -3,25 +3,25 @@
   {
    "id": "ai-adoption",
    "name": "Ai Adoption",
-   "count": 773,
+   "count": 778,
    "trajectory": {
     "2021": 12,
     "2022": 46,
     "2023": 63,
     "2024": 85,
     "2025": 225,
-    "2026": 342
+    "2026": 347
    },
    "momentum": {
     "id": "ai-adoption",
     "name": "Ai Adoption",
-    "total": 773,
-    "recent": 502,
+    "total": 778,
+    "recent": 507,
     "prior": 104,
-    "growth_pct": 382.7,
-    "recent_share": 0.649,
-    "papers_per_month": 41.8,
-    "score": 447.6
+    "growth_pct": 387.5,
+    "recent_share": 0.652,
+    "papers_per_month": 42.2,
+    "score": 452.7
    }
   },
   {
@@ -485,7 +485,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 1128
+   "count": 1133
   },
   {
    "id": "development",
@@ -24652,6 +24652,16 @@
   [
    "2026-03",
    "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-adoption",
    "evaluation"
   ],
   [
@@ -26653,6 +26663,11 @@
    "2026-04",
    "sales-psychology",
    "systems"
+  ],
+  [
+   "2026-05",
+   "ai-adoption",
+   "application"
   ],
   [
    "2026-05",
@@ -28678,6 +28693,11 @@
    "2026-06",
    "sales-psychology",
    "theory"
+  ],
+  [
+   "2026-07",
+   "ai-adoption",
+   "application"
   ],
   [
    "2026-07",
@@ -29497,6 +29517,11 @@
   [
    "2026-07",
    "sales-strategy",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-adoption",
    "application"
   ],
   [
@@ -32812,63 +32837,63 @@
    "keyword": "literacy",
    "recent": 114,
    "total": 135,
-   "burst_score": 2.29,
-   "recent_share": 0.0479
+   "burst_score": 2.28,
+   "recent_share": 0.0478
   },
   {
    "keyword": "workforce",
    "recent": 48,
    "total": 59,
    "burst_score": 2.2,
-   "recent_share": 0.0202
+   "recent_share": 0.0201
   },
   {
    "keyword": "solo",
    "recent": 4,
    "total": 5,
-   "burst_score": 2.17,
+   "burst_score": 2.16,
    "recent_share": 0.0017
   },
   {
    "keyword": "language",
-   "recent": 357,
-   "total": 490,
+   "recent": 359,
+   "total": 492,
    "burst_score": 1.97,
-   "recent_share": 0.1501
-  },
-  {
-   "keyword": "generative",
-   "recent": 208,
-   "total": 287,
-   "burst_score": 1.96,
-   "recent_share": 0.0874
-  },
-  {
-   "keyword": "score",
-   "recent": 125,
-   "total": 173,
-   "burst_score": 1.96,
-   "recent_share": 0.0525
+   "recent_share": 0.1506
   },
   {
    "keyword": "compliance",
-   "recent": 43,
-   "total": 61,
-   "burst_score": 1.91,
-   "recent_share": 0.0181
+   "recent": 48,
+   "total": 66,
+   "burst_score": 1.97,
+   "recent_share": 0.0201
+  },
+  {
+   "keyword": "generative",
+   "recent": 209,
+   "total": 288,
+   "burst_score": 1.96,
+   "recent_share": 0.0877
+  },
+  {
+   "keyword": "score",
+   "recent": 126,
+   "total": 174,
+   "burst_score": 1.96,
+   "recent_share": 0.0529
   },
   {
    "keyword": "engine",
-   "recent": 124,
-   "total": 180,
+   "recent": 125,
+   "total": 181,
    "burst_score": 1.87,
-   "recent_share": 0.0521
+   "recent_share": 0.0524
   },
   {
    "keyword": "referral",
    "recent": 4,
    "total": 6,
-   "burst_score": 1.81,
+   "burst_score": 1.8,
    "recent_share": 0.0017
   },
   {
@@ -32887,10 +32912,10 @@
   },
   {
    "keyword": "large",
-   "recent": 455,
-   "total": 719,
+   "recent": 457,
+   "total": 721,
    "burst_score": 1.71,
-   "recent_share": 0.1913
+   "recent_share": 0.1917
   },
   {
    "keyword": "measurement",
@@ -32901,17 +32926,17 @@
   },
   {
    "keyword": "software",
-   "recent": 42,
-   "total": 69,
-   "burst_score": 1.65,
-   "recent_share": 0.0177
+   "recent": 43,
+   "total": 70,
+   "burst_score": 1.66,
+   "recent_share": 0.018
   },
   {
    "keyword": "system",
-   "recent": 642,
-   "total": 1085,
-   "burst_score": 1.6,
-   "recent_share": 0.2699
+   "recent": 647,
+   "total": 1090,
+   "burst_score": 1.61,
+   "recent_share": 0.2714
   }
  ]
 }

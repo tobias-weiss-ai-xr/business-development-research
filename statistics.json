@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 6444,
+    "total_papers": 6449,
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 20,
@@ -15,36 +15,36 @@
     }
   },
   "by_category": {
-    "market-analysis": 384,
-    "go-to-market": 359,
-    "sales-strategy": 265,
+    "ai-adoption": 778,
     "b2b-marketing": 244,
-    "content-marketing": 380,
-    "digital-marketing": 469,
     "brand-building": 266,
+    "business-models": 253,
+    "competitive-intelligence": 287,
+    "content-marketing": 380,
     "customer-acquisition": 273,
     "customer-retention": 277,
     "customer-success": 208,
+    "digital-marketing": 469,
+    "entrepreneurship": 313,
+    "go-to-market": 359,
+    "growth-metrics": 207,
+    "market-analysis": 384,
+    "networking": 304,
+    "partnerships": 205,
     "pricing-strategy": 402,
     "product-market-fit": 252,
-    "business-models": 253,
-    "competitive-intelligence": 287,
-    "partnerships": 205,
     "sales-psychology": 323,
-    "networking": 304,
-    "entrepreneurship": 313,
-    "growth-metrics": 207,
-    "ai-adoption": 773
+    "sales-strategy": 265
   },
   "by_subcategory": {
-    "theory": 652,
+    "application": 1133,
+    "development": 110,
+    "evaluation": 216,
     "mechanism": 791,
     "method": 2044,
-    "application": 1128,
-    "development": 110,
+    "review": 319,
     "systems": 1184,
-    "evaluation": 216,
-    "review": 319
+    "theory": 652
   },
   "by_year": {
     "2021": 368,
@@ -52,11 +52,11 @@
     "2023": 1069,
     "2024": 972,
     "2025": 1004,
-    "2026": 1886
+    "2026": 1891
   },
   "by_cell": {
+    "ai-adoption/application": 182,
     "ai-adoption/systems": 182,
-    "ai-adoption/application": 177,
     "ai-adoption/method": 144,
     "pricing-strategy/method": 141,
     "go-to-market/method": 138,
@@ -218,50 +218,50 @@
   },
   "emerging_themes_12m": [
     {
-      "keyword": "mvp",
-      "papers": 1
-    },
-    {
-      "keyword": "agentic",
-      "papers": 69
-    },
-    {
-      "keyword": "eu ai act",
-      "papers": 9
-    },
-    {
-      "keyword": "saas",
-      "papers": 17
-    },
-    {
       "keyword": "literacy",
       "papers": 114
     },
     {
-      "keyword": "negotiation",
-      "papers": 88
-    },
-    {
-      "keyword": "benchmark",
-      "papers": 131
-    },
-    {
-      "keyword": "genai",
-      "papers": 57
+      "keyword": "workforce",
+      "papers": 48
     },
     {
       "keyword": "solo",
       "papers": 4
     },
     {
-      "keyword": "training",
-      "papers": 164
+      "keyword": "language",
+      "papers": 359
+    },
+    {
+      "keyword": "compliance",
+      "papers": 48
+    },
+    {
+      "keyword": "generative",
+      "papers": 209
+    },
+    {
+      "keyword": "score",
+      "papers": 126
+    },
+    {
+      "keyword": "engine",
+      "papers": 125
+    },
+    {
+      "keyword": "referral",
+      "papers": 4
+    },
+    {
+      "keyword": "ai adoption",
+      "papers": 60
     }
   ],
   "momentum": [
     {
       "id": "b2b-marketing",
-      "name": "B2B Marketing & Lead Gen",
+      "name": "B2B Marketing",
       "total": 244,
       "recent": 197,
       "prior": 20,
@@ -272,7 +272,7 @@
     },
     {
       "id": "digital-marketing",
-      "name": "Digital Marketing & SEO",
+      "name": "Digital Marketing",
       "total": 469,
       "recent": 202,
       "prior": 35,
@@ -283,14 +283,14 @@
     },
     {
       "id": "ai-adoption",
-      "name": "AI Adoption & Transformation",
-      "total": 773,
-      "recent": 502,
+      "name": "Ai Adoption",
+      "total": 778,
+      "recent": 507,
       "prior": 104,
-      "growth_pct": 382.7,
-      "recent_share": 0.649,
-      "papers_per_month": 41.8,
-      "score": 447.6
+      "growth_pct": 387.5,
+      "recent_share": 0.652,
+      "papers_per_month": 42.2,
+      "score": 452.7
     },
     {
       "id": "competitive-intelligence",
@@ -305,7 +305,7 @@
     },
     {
       "id": "market-analysis",
-      "name": "Market Analysis & Research",
+      "name": "Market Analysis",
       "total": 384,
       "recent": 143,
       "prior": 30,
@@ -316,7 +316,7 @@
     },
     {
       "id": "sales-psychology",
-      "name": "Sales Psychology & Negotiation",
+      "name": "Sales Psychology",
       "total": 323,
       "recent": 207,
       "prior": 50,
@@ -327,7 +327,7 @@
     },
     {
       "id": "pricing-strategy",
-      "name": "Pricing & Monetization",
+      "name": "Pricing Strategy",
       "total": 402,
       "recent": 140,
       "prior": 39,
@@ -338,7 +338,7 @@
     },
     {
       "id": "networking",
-      "name": "Networking & Relationships",
+      "name": "Networking",
       "total": 304,
       "recent": 110,
       "prior": 31,
@@ -349,7 +349,7 @@
     },
     {
       "id": "content-marketing",
-      "name": "Content Marketing & Thought Leadership",
+      "name": "Content Marketing",
       "total": 380,
       "recent": 139,
       "prior": 40,
@@ -360,7 +360,7 @@
     },
     {
       "id": "entrepreneurship",
-      "name": "Entrepreneurship & Small Business",
+      "name": "Entrepreneurship",
       "total": 313,
       "recent": 107,
       "prior": 39,
@@ -371,7 +371,7 @@
     },
     {
       "id": "go-to-market",
-      "name": "Go-to-Market Strategy",
+      "name": "Go To Market",
       "total": 359,
       "recent": 147,
       "prior": 56,
@@ -382,7 +382,7 @@
     },
     {
       "id": "customer-acquisition",
-      "name": "Customer Acquisition & Growth",
+      "name": "Customer Acquisition",
       "total": 273,
       "recent": 92,
       "prior": 42,
@@ -393,7 +393,7 @@
     },
     {
       "id": "customer-retention",
-      "name": "Customer Retention & Churn",
+      "name": "Customer Retention",
       "total": 277,
       "recent": 86,
       "prior": 50,
@@ -404,7 +404,7 @@
     },
     {
       "id": "sales-strategy",
-      "name": "Sales Strategy & Process",
+      "name": "Sales Strategy",
       "total": 265,
       "recent": 63,
       "prior": 36,
@@ -415,7 +415,7 @@
     },
     {
       "id": "product-market-fit",
-      "name": "Product-Market Fit & Validation",
+      "name": "Product Market Fit",
       "total": 252,
       "recent": 47,
       "prior": 50,
@@ -426,7 +426,7 @@
     },
     {
       "id": "brand-building",
-      "name": "Brand & Positioning",
+      "name": "Brand Building",
       "total": 266,
       "recent": 32,
       "prior": 34,
@@ -437,7 +437,7 @@
     },
     {
       "id": "growth-metrics",
-      "name": "Growth Metrics & Analytics",
+      "name": "Growth Metrics",
       "total": 207,
       "recent": 42,
       "prior": 56,
@@ -448,7 +448,7 @@
     },
     {
       "id": "partnerships",
-      "name": "Partnerships & Alliances",
+      "name": "Partnerships",
       "total": 205,
       "recent": 12,
       "prior": 36,
@@ -459,7 +459,7 @@
     },
     {
       "id": "business-models",
-      "name": "Business Models & Innovation",
+      "name": "Business Models",
       "total": 253,
       "recent": 9,
       "prior": 33,
@@ -470,7 +470,7 @@
     },
     {
       "id": "customer-success",
-      "name": "Customer Success & Expansion",
+      "name": "Customer Success",
       "total": 208,
       "recent": 8,
       "prior": 30,
@@ -481,29 +481,13 @@
     }
   ],
   "category_trajectory": {
-    "market-analysis": {
-      "2021": 23,
-      "2022": 77,
-      "2023": 74,
-      "2024": 45,
-      "2025": 31,
-      "2026": 134
-    },
-    "go-to-market": {
-      "2021": 20,
-      "2022": 47,
-      "2023": 55,
-      "2024": 53,
-      "2025": 53,
-      "2026": 131
-    },
-    "sales-strategy": {
-      "2021": 17,
-      "2022": 50,
+    "ai-adoption": {
+      "2021": 12,
+      "2022": 46,
       "2023": 63,
-      "2024": 49,
-      "2025": 32,
-      "2026": 54
+      "2024": 85,
+      "2025": 225,
+      "2026": 347
     },
     "b2b-marketing": {
       "2021": 1,
@@ -513,22 +497,6 @@
       "2025": 38,
       "2026": 177
     },
-    "content-marketing": {
-      "2021": 16,
-      "2022": 67,
-      "2023": 74,
-      "2024": 66,
-      "2025": 51,
-      "2026": 106
-    },
-    "digital-marketing": {
-      "2021": 34,
-      "2022": 87,
-      "2023": 81,
-      "2024": 48,
-      "2025": 32,
-      "2026": 187
-    },
     "brand-building": {
       "2021": 31,
       "2022": 85,
@@ -536,6 +504,30 @@
       "2024": 39,
       "2025": 32,
       "2026": 21
+    },
+    "business-models": {
+      "2021": 23,
+      "2022": 84,
+      "2023": 64,
+      "2024": 54,
+      "2025": 25,
+      "2026": 3
+    },
+    "competitive-intelligence": {
+      "2021": 24,
+      "2022": 72,
+      "2023": 53,
+      "2024": 30,
+      "2025": 16,
+      "2026": 92
+    },
+    "content-marketing": {
+      "2021": 16,
+      "2022": 67,
+      "2023": 74,
+      "2024": 66,
+      "2025": 51,
+      "2026": 106
     },
     "customer-acquisition": {
       "2021": 15,
@@ -561,6 +553,62 @@
       "2025": 13,
       "2026": 6
     },
+    "digital-marketing": {
+      "2021": 34,
+      "2022": 87,
+      "2023": 81,
+      "2024": 48,
+      "2025": 32,
+      "2026": 187
+    },
+    "entrepreneurship": {
+      "2021": 23,
+      "2022": 58,
+      "2023": 47,
+      "2024": 51,
+      "2025": 42,
+      "2026": 92
+    },
+    "go-to-market": {
+      "2021": 20,
+      "2022": 47,
+      "2023": 55,
+      "2024": 53,
+      "2025": 53,
+      "2026": 131
+    },
+    "growth-metrics": {
+      "2021": 12,
+      "2022": 29,
+      "2023": 41,
+      "2024": 48,
+      "2025": 51,
+      "2026": 26
+    },
+    "market-analysis": {
+      "2021": 23,
+      "2022": 77,
+      "2023": 74,
+      "2024": 45,
+      "2025": 31,
+      "2026": 134
+    },
+    "networking": {
+      "2021": 20,
+      "2022": 67,
+      "2023": 59,
+      "2024": 32,
+      "2025": 68,
+      "2026": 58
+    },
+    "partnerships": {
+      "2021": 13,
+      "2022": 62,
+      "2023": 47,
+      "2024": 49,
+      "2025": 31,
+      "2026": 3
+    },
     "pricing-strategy": {
       "2021": 28,
       "2022": 84,
@@ -577,30 +625,6 @@
       "2025": 49,
       "2026": 29
     },
-    "business-models": {
-      "2021": 23,
-      "2022": 84,
-      "2023": 64,
-      "2024": 54,
-      "2025": 25,
-      "2026": 3
-    },
-    "competitive-intelligence": {
-      "2021": 24,
-      "2022": 72,
-      "2023": 53,
-      "2024": 30,
-      "2025": 16,
-      "2026": 92
-    },
-    "partnerships": {
-      "2021": 13,
-      "2022": 62,
-      "2023": 47,
-      "2024": 49,
-      "2025": 31,
-      "2026": 3
-    },
     "sales-psychology": {
       "2021": 5,
       "2022": 19,
@@ -609,148 +633,124 @@
       "2025": 100,
       "2026": 145
     },
-    "networking": {
-      "2021": 20,
-      "2022": 67,
-      "2023": 59,
-      "2024": 32,
-      "2025": 68,
-      "2026": 58
-    },
-    "entrepreneurship": {
-      "2021": 23,
-      "2022": 58,
-      "2023": 47,
-      "2024": 51,
-      "2025": 42,
-      "2026": 92
-    },
-    "growth-metrics": {
-      "2021": 12,
-      "2022": 29,
-      "2023": 41,
-      "2024": 48,
-      "2025": 51,
-      "2026": 26
-    },
-    "ai-adoption": {
-      "2021": 12,
-      "2022": 46,
+    "sales-strategy": {
+      "2021": 17,
+      "2022": 50,
       "2023": 63,
-      "2024": 85,
-      "2025": 225,
-      "2026": 342
+      "2024": 49,
+      "2025": 32,
+      "2026": 54
     }
   },
   "keyword_bursts": [
     {
-      "keyword": "mvp",
-      "recent": 1,
-      "total": 1,
-      "burst_score": 2.71,
-      "recent_share": 0.0004
-    },
-    {
-      "keyword": "agentic",
-      "recent": 69,
-      "total": 71,
-      "burst_score": 2.63,
-      "recent_share": 0.029
-    },
-    {
-      "keyword": "eu ai act",
-      "recent": 9,
-      "total": 10,
-      "burst_score": 2.44,
-      "recent_share": 0.0038
-    },
-    {
-      "keyword": "saas",
-      "recent": 17,
-      "total": 20,
-      "burst_score": 2.3,
-      "recent_share": 0.0071
-    },
-    {
       "keyword": "literacy",
       "recent": 114,
       "total": 135,
-      "burst_score": 2.29,
-      "recent_share": 0.0479
+      "burst_score": 2.28,
+      "recent_share": 0.0478
     },
     {
-      "keyword": "negotiation",
-      "recent": 88,
-      "total": 108,
-      "burst_score": 2.21,
-      "recent_share": 0.037
-    },
-    {
-      "keyword": "benchmark",
-      "recent": 131,
-      "total": 161,
+      "keyword": "workforce",
+      "recent": 48,
+      "total": 59,
       "burst_score": 2.2,
-      "recent_share": 0.0551
-    },
-    {
-      "keyword": "genai",
-      "recent": 57,
-      "total": 71,
-      "burst_score": 2.17,
-      "recent_share": 0.024
+      "recent_share": 0.0201
     },
     {
       "keyword": "solo",
       "recent": 4,
       "total": 5,
-      "burst_score": 2.17,
+      "burst_score": 2.16,
       "recent_share": 0.0017
     },
     {
-      "keyword": "training",
-      "recent": 164,
-      "total": 208,
-      "burst_score": 2.14,
-      "recent_share": 0.0689
+      "keyword": "language",
+      "recent": 359,
+      "total": 492,
+      "burst_score": 1.97,
+      "recent_share": 0.1506
     },
     {
-      "keyword": "skills",
-      "recent": 82,
-      "total": 104,
-      "burst_score": 2.14,
-      "recent_share": 0.0345
+      "keyword": "compliance",
+      "recent": 48,
+      "total": 66,
+      "burst_score": 1.97,
+      "recent_share": 0.0201
     },
     {
-      "keyword": "cohort",
-      "recent": 19,
-      "total": 24,
-      "burst_score": 2.14,
-      "recent_share": 0.008
+      "keyword": "generative",
+      "recent": 209,
+      "total": 288,
+      "burst_score": 1.96,
+      "recent_share": 0.0877
     },
     {
-      "keyword": "llm",
-      "recent": 339,
-      "total": 431,
-      "burst_score": 2.13,
-      "recent_share": 0.1425
+      "keyword": "score",
+      "recent": 126,
+      "total": 174,
+      "burst_score": 1.96,
+      "recent_share": 0.0529
     },
     {
-      "keyword": "large language model",
-      "recent": 274,
-      "total": 362,
-      "burst_score": 2.05,
-      "recent_share": 0.1152
+      "keyword": "engine",
+      "recent": 125,
+      "total": 181,
+      "burst_score": 1.87,
+      "recent_share": 0.0524
     },
     {
-      "keyword": "generative ai",
-      "recent": 133,
-      "total": 177,
-      "burst_score": 2.04,
-      "recent_share": 0.0559
+      "keyword": "referral",
+      "recent": 4,
+      "total": 6,
+      "burst_score": 1.8,
+      "recent_share": 0.0017
+    },
+    {
+      "keyword": "ai adoption",
+      "recent": 60,
+      "total": 93,
+      "burst_score": 1.75,
+      "recent_share": 0.0252
+    },
+    {
+      "keyword": "economics",
+      "recent": 35,
+      "total": 55,
+      "burst_score": 1.72,
+      "recent_share": 0.0147
+    },
+    {
+      "keyword": "large",
+      "recent": 457,
+      "total": 721,
+      "burst_score": 1.71,
+      "recent_share": 0.1917
+    },
+    {
+      "keyword": "measurement",
+      "recent": 49,
+      "total": 78,
+      "burst_score": 1.7,
+      "recent_share": 0.0206
+    },
+    {
+      "keyword": "software",
+      "recent": 43,
+      "total": 70,
+      "burst_score": 1.66,
+      "recent_share": 0.018
+    },
+    {
+      "keyword": "system",
+      "recent": 647,
+      "total": 1090,
+      "burst_score": 1.61,
+      "recent_share": 0.2714
     }
   ],
   "source_breakdown": {
-    "arxiv": 1749,
+    "arxiv": 1754,
     "doi": 4439,
     "other": 256
   },
