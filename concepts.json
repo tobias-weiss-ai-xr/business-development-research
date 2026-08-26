@@ -5,32 +5,32 @@
       "term": "Ai Adoption",
       "kind": "taxonomy",
       "seed": true,
-      "df": 773,
+      "df": 778,
       "match": {
         "type": "field",
         "field": "category",
         "value": "ai-adoption"
       },
       "top_cells": [
-        "ai-adoption/systems",
         "ai-adoption/application",
+        "ai-adoption/systems",
         "ai-adoption/method",
         "ai-adoption/mechanism"
       ],
-      "papers": 773
+      "papers": 778
     },
     {
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 725,
+      "df": 727,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 725,
+      "papers": 727,
       "top_cells": [
         "ai-adoption/application",
         "ai-adoption/systems",
@@ -258,14 +258,14 @@
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 234,
+      "df": 235,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 234,
+      "papers": 235,
       "top_cells": [
         "ai-adoption/review",
         "ai-adoption/application",
@@ -331,14 +331,14 @@
       "term": "dataset",
       "kind": "curated",
       "seed": true,
-      "df": 188,
+      "df": 189,
       "match": {
         "type": "text",
         "forms": [
           "dataset"
         ]
       },
-      "papers": 188,
+      "papers": 189,
       "top_cells": [
         "ai-adoption/application",
         "ai-adoption/systems",
@@ -388,14 +388,14 @@
       "term": "qualitative",
       "kind": "curated",
       "seed": true,
-      "df": 123,
+      "df": 124,
       "match": {
         "type": "text",
         "forms": [
           "qualitative"
         ]
       },
-      "papers": 123,
+      "papers": 124,
       "top_cells": [
         "ai-adoption/application",
         "ai-adoption/systems",
@@ -407,14 +407,14 @@
       "term": "benchmark",
       "kind": "curated",
       "seed": true,
-      "df": 112,
+      "df": 114,
       "match": {
         "type": "text",
         "forms": [
           "benchmark"
         ]
       },
-      "papers": 112,
+      "papers": 114,
       "top_cells": [
         "ai-adoption/application",
         "sales-psychology/systems",
@@ -483,14 +483,14 @@
       "term": "taxonomy",
       "kind": "curated",
       "seed": true,
-      "df": 38,
+      "df": 40,
       "match": {
         "type": "text",
         "forms": [
           "taxonomy"
         ]
       },
-      "papers": 38,
+      "papers": 40,
       "top_cells": [
         "ai-adoption/application",
         "entrepreneurship/systems",
@@ -521,14 +521,14 @@
       "term": "reproducibility",
       "kind": "curated",
       "seed": true,
-      "df": 13,
+      "df": 14,
       "match": {
         "type": "text",
         "forms": [
           "reproducibility"
         ]
       },
-      "papers": 13,
+      "papers": 14,
       "top_cells": [
         "ai-adoption/systems",
         "digital-marketing/mechanism",

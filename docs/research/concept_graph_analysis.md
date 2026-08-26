@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 38 nodes, 188 edges, 1 components, 1 communities (modularity -72.965). Edges = co-occurrence.
+**Generated:** 38 nodes, 188 edges, 1 components, 1 communities (modularity -74.319). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1821, degree 30, df 725
-- **Ai Adoption** — PR 0.1149, degree 14, df 773
-- **survey** — PR 0.0713, degree 23, df 234
-- **dataset** — PR 0.0577, degree 23, df 188
-- **quantitative** — PR 0.0440, degree 21, df 125
-- **qualitative** — PR 0.0440, degree 24, df 123
-- **case study** — PR 0.0389, degree 21, df 131
-- **benchmark** — PR 0.0360, degree 14, df 112
-- **Market Analysis** — PR 0.0337, degree 10, df 384
-- **Digital Marketing** — PR 0.0312, degree 11, df 469
-- **experiment** — PR 0.0302, degree 19, df 100
-- **literature review** — PR 0.0291, degree 20, df 104
+- **framework** — PR 0.1818, degree 30, df 727
+- **Ai Adoption** — PR 0.1159, degree 14, df 778
+- **survey** — PR 0.0712, degree 23, df 235
+- **dataset** — PR 0.0576, degree 23, df 189
+- **qualitative** — PR 0.0441, degree 24, df 124
+- **quantitative** — PR 0.0437, degree 21, df 125
+- **case study** — PR 0.0387, degree 21, df 131
+- **benchmark** — PR 0.0369, degree 14, df 114
+- **Market Analysis** — PR 0.0335, degree 10, df 384
+- **Digital Marketing** — PR 0.0309, degree 11, df 469
+- **experiment** — PR 0.0300, degree 19, df 100
+- **literature review** — PR 0.0290, degree 20, df 104
 
 ## Bridge nodes (high betweenness — connect clusters)
 
@@ -34,7 +34,7 @@
 
 - framework ↔ peer review (weight 3, EB 23.0)
 - framework ↔ research gap (weight 2, EB 16.1667)
-- framework ↔ reproducibility (weight 7, EB 11.65)
+- framework ↔ reproducibility (weight 8, EB 11.65)
 - survey ↔ research gap (weight 2, EB 10.1667)
 - framework ↔ Partnerships (weight 8, EB 9.0167)
 - framework ↔ interview (weight 2, EB 8.9833)
