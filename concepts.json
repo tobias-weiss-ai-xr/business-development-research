@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 42,
   "concepts": [
     {
       "term": "Ai Adoption",
@@ -129,6 +129,24 @@
       "papers": 359
     },
     {
+      "term": "Sales Psychology",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 323,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "sales-psychology"
+      },
+      "top_cells": [
+        "sales-psychology/method",
+        "sales-psychology/systems",
+        "sales-psychology/application",
+        "sales-psychology/mechanism"
+      ],
+      "papers": 323
+    },
+    {
       "term": "Entrepreneurship",
       "kind": "taxonomy",
       "seed": true,
@@ -145,6 +163,24 @@
         "entrepreneurship/application"
       ],
       "papers": 313
+    },
+    {
+      "term": "Networking",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 304,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "networking"
+      },
+      "top_cells": [
+        "networking/method",
+        "networking/application",
+        "networking/systems",
+        "networking/theory"
+      ],
+      "papers": 304
     },
     {
       "term": "Competitive Intelligence",
@@ -201,6 +237,24 @@
       "papers": 273
     },
     {
+      "term": "Brand Building",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 266,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "brand-building"
+      },
+      "top_cells": [
+        "brand-building/method",
+        "brand-building/theory",
+        "brand-building/mechanism",
+        "brand-building/application"
+      ],
+      "papers": 266
+    },
+    {
       "term": "Sales Strategy",
       "kind": "taxonomy",
       "seed": true,
@@ -235,6 +289,24 @@
         "business-models/systems"
       ],
       "papers": 253
+    },
+    {
+      "term": "Product Market Fit",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 252,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "product-market-fit"
+      },
+      "top_cells": [
+        "product-market-fit/method",
+        "product-market-fit/systems",
+        "product-market-fit/application",
+        "product-market-fit/mechanism"
+      ],
+      "papers": 252
     },
     {
       "term": "B2b Marketing",

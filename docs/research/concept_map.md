@@ -1,6 +1,6 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 38 concepts, 188 relationships from 6449 papers. Edges = co-occurrence (shared papers).
+**Generated:** 42 concepts, 228 relationships from 6449 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
@@ -13,12 +13,16 @@
 | Market Analysis | taxonomy | 384 |
 | Content Marketing | taxonomy | 380 |
 | Go To Market | taxonomy | 359 |
+| Sales Psychology | taxonomy | 323 |
 | Entrepreneurship | taxonomy | 313 |
+| Networking | taxonomy | 304 |
 | Competitive Intelligence | taxonomy | 287 |
 | Customer Retention | taxonomy | 277 |
 | Customer Acquisition | taxonomy | 273 |
+| Brand Building | taxonomy | 266 |
 | Sales Strategy | taxonomy | 265 |
 | Business Models | taxonomy | 253 |
+| Product Market Fit | taxonomy | 252 |
 | B2b Marketing | taxonomy | 244 |
 | survey | curated | 235 |
 | Customer Success | taxonomy | 208 |
@@ -42,8 +46,6 @@
 | grounded theory | curated | 2 |
 | meta analysis | curated | 1 |
 | open access | curated | 1 |
-| Survey | taxonomy | 0 |
-| Method | taxonomy | 0 |
 
 ## Relationships (top concepts → related concepts)
 
@@ -61,13 +63,13 @@
 ### framework
 
 - Ai Adoption — 197 shared paper(s)
+- Sales Psychology — 73 shared paper(s)
 - benchmark — 50 shared paper(s)
 - Digital Marketing — 49 shared paper(s)
+- Networking — 47 shared paper(s)
 - Content Marketing — 45 shared paper(s)
 - dataset — 41 shared paper(s)
 - survey — 32 shared paper(s)
-- Go To Market — 32 shared paper(s)
-- case study — 31 shared paper(s)
 
 ### Digital Marketing
 
@@ -124,6 +126,17 @@
 - case study — 4 shared paper(s)
 - literature review — 3 shared paper(s)
 
+### Sales Psychology
+
+- framework — 73 shared paper(s)
+- benchmark — 20 shared paper(s)
+- experiment — 9 shared paper(s)
+- dataset — 6 shared paper(s)
+- survey — 6 shared paper(s)
+- qualitative — 5 shared paper(s)
+- quantitative — 5 shared paper(s)
+- literature review — 5 shared paper(s)
+
 ### Entrepreneurship
 
 - framework — 14 shared paper(s)
@@ -134,6 +147,17 @@
 - dataset — 4 shared paper(s)
 - systematic review — 4 shared paper(s)
 - quantitative — 3 shared paper(s)
+
+### Networking
+
+- framework — 47 shared paper(s)
+- case study — 7 shared paper(s)
+- dataset — 7 shared paper(s)
+- benchmark — 6 shared paper(s)
+- qualitative — 5 shared paper(s)
+- quantitative — 5 shared paper(s)
+- literature review — 3 shared paper(s)
+- survey — 2 shared paper(s)
 
 ### Competitive Intelligence
 
@@ -165,6 +189,17 @@
 - experiment — 2 shared paper(s)
 - literature review — 2 shared paper(s)
 
+### Brand Building
+
+- framework — 25 shared paper(s)
+- survey — 9 shared paper(s)
+- quantitative — 8 shared paper(s)
+- case study — 7 shared paper(s)
+- qualitative — 5 shared paper(s)
+- dataset — 5 shared paper(s)
+- literature review — 4 shared paper(s)
+- experiment — 4 shared paper(s)
+
 ### Sales Strategy
 
 - framework — 9 shared paper(s)
@@ -185,6 +220,17 @@
 - literature review — 4 shared paper(s)
 - qualitative — 3 shared paper(s)
 - survey — 2 shared paper(s)
+
+### Product Market Fit
+
+- framework — 21 shared paper(s)
+- experiment — 13 shared paper(s)
+- dataset — 4 shared paper(s)
+- interview — 4 shared paper(s)
+- case study — 4 shared paper(s)
+- benchmark — 3 shared paper(s)
+- quantitative — 3 shared paper(s)
+- survey — 3 shared paper(s)
 
 ### B2b Marketing
 
@@ -255,8 +301,8 @@
 - Customer Acquisition — 10 shared paper(s)
 - B2b Marketing — 8 shared paper(s)
 - Digital Marketing — 7 shared paper(s)
+- Brand Building — 7 shared paper(s)
 - Customer Success — 7 shared paper(s)
-- Business Models — 7 shared paper(s)
 
 ### quantitative
 
@@ -266,52 +312,8 @@
 - survey — 19 shared paper(s)
 - B2b Marketing — 9 shared paper(s)
 - Market Analysis — 8 shared paper(s)
+- Brand Building — 8 shared paper(s)
 - Go To Market — 7 shared paper(s)
-- Customer Success — 7 shared paper(s)
-
-### qualitative
-
-- Ai Adoption — 54 shared paper(s)
-- framework — 25 shared paper(s)
-- quantitative — 25 shared paper(s)
-- survey — 9 shared paper(s)
-- Go To Market — 9 shared paper(s)
-- experiment — 7 shared paper(s)
-- Market Analysis — 6 shared paper(s)
-- dataset — 5 shared paper(s)
-
-### benchmark
-
-- framework — 50 shared paper(s)
-- Ai Adoption — 25 shared paper(s)
-- dataset — 22 shared paper(s)
-- Content Marketing — 13 shared paper(s)
-- Pricing Strategy — 12 shared paper(s)
-- Digital Marketing — 11 shared paper(s)
-- Competitive Intelligence — 8 shared paper(s)
-- taxonomy — 5 shared paper(s)
-
-### literature review
-
-- Ai Adoption — 24 shared paper(s)
-- framework — 10 shared paper(s)
-- Digital Marketing — 10 shared paper(s)
-- Market Analysis — 9 shared paper(s)
-- Partnerships — 8 shared paper(s)
-- Competitive Intelligence — 8 shared paper(s)
-- systematic review — 5 shared paper(s)
-- Growth Metrics — 5 shared paper(s)
-
-### experiment
-
-- Ai Adoption — 25 shared paper(s)
-- survey — 25 shared paper(s)
-- framework — 13 shared paper(s)
-- Pricing Strategy — 11 shared paper(s)
-- qualitative — 7 shared paper(s)
-- Business Models — 6 shared paper(s)
-- Go To Market — 5 shared paper(s)
-- Digital Marketing — 5 shared paper(s)
 
 
 Generated by `tools/relate_concepts.py` — do not edit by hand.
