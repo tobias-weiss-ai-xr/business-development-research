@@ -41,6 +41,18 @@ taxonomy:
     display: Survey
   - id: method
     display: Method
+  - id: product-market-fit
+    display: Product Market Fit
+    description: Auto-added category 'product-market-fit' from ingested papers
+  - id: brand-building
+    display: Brand Building
+    description: Auto-added category 'brand-building' from ingested papers
+  - id: networking
+    display: Networking
+    description: Auto-added category 'networking' from ingested papers
+  - id: sales-psychology
+    display: Sales Psychology
+    description: Auto-added category 'sales-psychology' from ingested papers
   subcategories:
   - id: method
     display: Method
@@ -56,6 +68,18 @@ taxonomy:
     display: Systems
   - id: development
     display: Development
+  - id: evaluation
+    display: Evaluation
+    description: Auto-added subcategory 'evaluation' from ingested papers
+    category: product-market-fit
+  - id: review
+    display: Review
+    description: Auto-added subcategory 'review' from ingested papers
+    category: product-market-fit
+  - id: mechanism
+    display: Mechanism
+    description: Auto-added subcategory 'mechanism' from ingested papers
+    category: product-market-fit
 arxiv_queries:
 - query: abs:"AI adoption small and medium enterprises"
   category: ai-adoption
