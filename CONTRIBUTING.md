@@ -1,6 +1,6 @@
 # Contributing to business-development-research
 
-Thanks for helping build the evidence base for KI-Kompetenz-Training!
+Thanks for helping grow this open research resource for business development!
 
 ## Ways to Contribute
 

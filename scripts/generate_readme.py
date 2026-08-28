@@ -97,24 +97,25 @@ def render_readme(stats):
 
     return f"""# Business Development Research Corpus
 
-**Evidence base for KI-Kompetenz-Training** — Analysis of {total:,} research papers across 20 business development disciplines.
+**An open research corpus for business development** — Analysis of {total:,} research papers across 20 business development disciplines.
 
 **Author:** Tobias Weiss
-**Contact:** ki-kompetenz-training@tobias-weiss.org
-**Website:** [ki-kompetenz-training.org](https://www.ki-kompetenz-training.org)
+**Repository:** [github.com/tobias-weiss-ai-xr/business-development-research](https://github.com/tobias-weiss-ai-xr/business-development-research)
 
 ---
 
 ## 🎯 Overview
 
-This repository contains the research corpus and tooling for growing
-KI-Kompetenz-Training: market analysis, go-to-market, sales, B2B marketing,
-pricing, customer success, entrepreneurship, AI adoption and every adjacent
-business development discipline. It mirrors the structure of the
+This repository is an open research resource: a curated corpus and reusable
+tooling for business development scholarship and practice — market analysis,
+go-to-market, sales, B2B marketing, pricing, customer success,
+entrepreneurship, AI adoption and every adjacent discipline. It mirrors the
+structure of the
 [graph-research](https://github.com/tobias-weiss-ai-xr/graph-research) and
 [learning-research](https://github.com/tobias-weiss-ai-xr/learning-research)
-corpora and feeds evidence-based topics into the content pipeline
-(blog, newsletter, landing pages, ALaaS offer design).
+corpora. The evidence it aggregates is reusable by any downstream work:
+research syntheses, teaching material, the business-development framework, or
+content pipelines (blog, newsletter, courses).
 
 ### Research Scope
 
@@ -208,7 +209,7 @@ business-development-research/
 
 ### 1. Content Topic Planner
 
-Generate evidence-based content topics for ki-kompetenz-training.org from the corpus.
+Generate evidence-based content topics from the corpus.
 
 ```bash
 cd tools
@@ -262,30 +263,30 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🔗 Related Repositories
 
-- **Content site:** [ki-kompetenz-training](https://github.com/tobias-weiss-ai-xr/ki-kompetenz-training) — KI-Kompetenz-Training
-- **Analogous corpus:** [graph-research](https://github.com/tobias-weiss-ai-xr/graph-research)
-- **Analogous corpus:** [learning-research](https://github.com/tobias-weiss-ai-xr/learning-research)
+- **[business-development](https://github.com/tobias-weiss-ai-xr/business-development)** — open-source framework that consumes this corpus (analyze → understand → evaluate → steer)
+- **[ki-kompetenz-training](https://github.com/tobias-weiss-ai-xr/ki-kompetenz-training)** — one downstream application built on this evidence base
+- **[graph-research](https://github.com/tobias-weiss-ai-xr/graph-research)** — analogous research corpus
+- **[learning-research](https://github.com/tobias-weiss-ai-xr/learning-research)** — analogous research corpus
 
 ---
 
 ## 📄 License
 
-**© 2026 KI-Kompetenz-Training | Tobias Weiss**
+**© 2026 Tobias Weiss** — released as an open research resource.
 
-- **Research corpus:** Proprietary
-- **Tools:** MIT License
+- **Research corpus & tools:** MIT License — free to reuse, adapt, and build upon with attribution.
 
 ---
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes {total:,} papers across {ymin}-{ymax} to create a
-comprehensive evidence base for business development decisions: what to write,
-what to offer, how to price, and where the market is heading.
+This corpus synthesizes {total:,} papers across {ymin}-{ymax} into an open,
+reusable evidence base for business development research and practice: what the
+field studies, how the disciplines connect, and where the literature is heading.
 
 ---
 
-**Want to turn this corpus into content?**
+**Want to explore what the corpus suggests?**
 `cd tools && python3 topic_planner.py`
 """
 
