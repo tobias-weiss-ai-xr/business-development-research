@@ -91626,8 +91626,8 @@ papers:
     of scalability, uncertainty, and interpretability. Existing low-rank bandit formulations
     learn efficiently but rely on latent features that obscure how individual product
     attributes influence price. We address this by introducing an interpretable Additive
-    Feature Decomposition-based Low-Dimensional Demand (\textbf{AFDLD) model}, where
-    product prices are expressed as the sum of attribute-level contributions and substitution
+    Feature Decomposition-based Low-Dimensional Demand (AFDLD) model, where product
+    prices are expressed as the sum of attribute-level contributions and substitution
     effects are explicitly modeled. Building on this structure, we propose ADEPT (Additive
     DEcomposition for Pricing with cross-elasticity and Time-adaptive learning)-a
     projection-free, gradient-free online learning algorithm that operates directly
