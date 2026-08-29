@@ -5,44 +5,44 @@
       "term": "Ai Adoption",
       "kind": "taxonomy",
       "seed": true,
-      "df": 778,
+      "df": 4268,
       "match": {
         "type": "field",
         "field": "category",
         "value": "ai-adoption"
       },
       "top_cells": [
-        "ai-adoption/application",
-        "ai-adoption/systems",
         "ai-adoption/method",
-        "ai-adoption/mechanism"
+        "ai-adoption/theory",
+        "ai-adoption/application",
+        "ai-adoption/systems"
       ],
-      "papers": 778
+      "papers": 4268
     },
     {
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 727,
+      "df": 2139,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 727,
+      "papers": 2139,
       "top_cells": [
-        "ai-adoption/application",
-        "ai-adoption/systems",
-        "ai-adoption/mechanism",
-        "ai-adoption/method"
+        "ai-adoption/method",
+        "ai-adoption/theory",
+        "b2b-marketing/method",
+        "digital-marketing/method"
       ]
     },
     {
       "term": "Digital Marketing",
       "kind": "taxonomy",
       "seed": true,
-      "df": 469,
+      "df": 1469,
       "match": {
         "type": "field",
         "field": "category",
@@ -50,11 +50,142 @@
       },
       "top_cells": [
         "digital-marketing/method",
+        "digital-marketing/theory",
         "digital-marketing/systems",
-        "digital-marketing/application",
-        "digital-marketing/theory"
+        "digital-marketing/application"
       ],
-      "papers": 469
+      "papers": 1469
+    },
+    {
+      "term": "B2b Marketing",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1303,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "b2b-marketing"
+      },
+      "top_cells": [
+        "b2b-marketing/method",
+        "b2b-marketing/theory",
+        "b2b-marketing/application",
+        "b2b-marketing/systems"
+      ],
+      "papers": 1303
+    },
+    {
+      "term": "survey",
+      "kind": "curated",
+      "seed": true,
+      "df": 848,
+      "match": {
+        "type": "text",
+        "forms": [
+          "survey"
+        ]
+      },
+      "papers": 848,
+      "top_cells": [
+        "ai-adoption/method",
+        "ai-adoption/theory",
+        "digital-marketing/method",
+        "ai-adoption/application"
+      ]
+    },
+    {
+      "term": "Content Marketing",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 840,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "content-marketing"
+      },
+      "top_cells": [
+        "content-marketing/method",
+        "content-marketing/theory",
+        "content-marketing/systems",
+        "content-marketing/application"
+      ],
+      "papers": 840
+    },
+    {
+      "term": "qualitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 808,
+      "match": {
+        "type": "text",
+        "forms": [
+          "qualitative"
+        ]
+      },
+      "papers": 808,
+      "top_cells": [
+        "ai-adoption/method",
+        "digital-marketing/method",
+        "ai-adoption/theory",
+        "b2b-marketing/method"
+      ]
+    },
+    {
+      "term": "quantitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 735,
+      "match": {
+        "type": "text",
+        "forms": [
+          "quantitative"
+        ]
+      },
+      "papers": 735,
+      "top_cells": [
+        "ai-adoption/method",
+        "digital-marketing/method",
+        "ai-adoption/theory",
+        "content-marketing/method"
+      ]
+    },
+    {
+      "term": "literature review",
+      "kind": "curated",
+      "seed": true,
+      "df": 507,
+      "match": {
+        "type": "text",
+        "forms": [
+          "literature review"
+        ]
+      },
+      "papers": 507,
+      "top_cells": [
+        "ai-adoption/method",
+        "ai-adoption/theory",
+        "digital-marketing/method",
+        "content-marketing/method"
+      ]
+    },
+    {
+      "term": "case study",
+      "kind": "curated",
+      "seed": true,
+      "df": 411,
+      "match": {
+        "type": "text",
+        "forms": [
+          "case study"
+        ]
+      },
+      "papers": 411,
+      "top_cells": [
+        "ai-adoption/method",
+        "b2b-marketing/method",
+        "ai-adoption/theory",
+        "ai-adoption/application"
+      ]
     },
     {
       "term": "Pricing Strategy",
@@ -93,24 +224,6 @@
       "papers": 384
     },
     {
-      "term": "Content Marketing",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 380,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "content-marketing"
-      },
-      "top_cells": [
-        "content-marketing/method",
-        "content-marketing/systems",
-        "content-marketing/application",
-        "content-marketing/mechanism"
-      ],
-      "papers": 380
-    },
-    {
       "term": "Go To Market",
       "kind": "taxonomy",
       "seed": true,
@@ -127,6 +240,25 @@
         "go-to-market/mechanism"
       ],
       "papers": 359
+    },
+    {
+      "term": "dataset",
+      "kind": "curated",
+      "seed": true,
+      "df": 355,
+      "match": {
+        "type": "text",
+        "forms": [
+          "dataset"
+        ]
+      },
+      "papers": 355,
+      "top_cells": [
+        "ai-adoption/method",
+        "ai-adoption/theory",
+        "b2b-marketing/method",
+        "ai-adoption/application"
+      ]
     },
     {
       "term": "Sales Psychology",
@@ -309,40 +441,22 @@
       "papers": 252
     },
     {
-      "term": "B2b Marketing",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 244,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "b2b-marketing"
-      },
-      "top_cells": [
-        "b2b-marketing/method",
-        "b2b-marketing/systems",
-        "b2b-marketing/application",
-        "b2b-marketing/mechanism"
-      ],
-      "papers": 244
-    },
-    {
-      "term": "survey",
+      "term": "systematic review",
       "kind": "curated",
       "seed": true,
-      "df": 235,
+      "df": 211,
       "match": {
         "type": "text",
         "forms": [
-          "survey"
+          "systematic review"
         ]
       },
-      "papers": 235,
+      "papers": 211,
       "top_cells": [
+        "ai-adoption/method",
+        "ai-adoption/theory",
         "ai-adoption/review",
-        "ai-adoption/application",
-        "market-analysis/review",
-        "ai-adoption/mechanism"
+        "market-analysis/review"
       ]
     },
     {
@@ -400,302 +514,211 @@
       "papers": 205
     },
     {
-      "term": "dataset",
-      "kind": "curated",
-      "seed": true,
-      "df": 189,
-      "match": {
-        "type": "text",
-        "forms": [
-          "dataset"
-        ]
-      },
-      "papers": 189,
-      "top_cells": [
-        "ai-adoption/application",
-        "ai-adoption/systems",
-        "digital-marketing/systems",
-        "ai-adoption/evaluation"
-      ]
-    },
-    {
-      "term": "case study",
-      "kind": "curated",
-      "seed": true,
-      "df": 131,
-      "match": {
-        "type": "text",
-        "forms": [
-          "case study"
-        ]
-      },
-      "papers": 131,
-      "top_cells": [
-        "market-analysis/application",
-        "ai-adoption/application",
-        "customer-acquisition/application",
-        "b2b-marketing/application"
-      ]
-    },
-    {
-      "term": "quantitative",
-      "kind": "curated",
-      "seed": true,
-      "df": 125,
-      "match": {
-        "type": "text",
-        "forms": [
-          "quantitative"
-        ]
-      },
-      "papers": 125,
-      "top_cells": [
-        "ai-adoption/application",
-        "ai-adoption/method",
-        "ai-adoption/mechanism",
-        "content-marketing/method"
-      ]
-    },
-    {
-      "term": "qualitative",
-      "kind": "curated",
-      "seed": true,
-      "df": 124,
-      "match": {
-        "type": "text",
-        "forms": [
-          "qualitative"
-        ]
-      },
-      "papers": 124,
-      "top_cells": [
-        "ai-adoption/application",
-        "ai-adoption/systems",
-        "ai-adoption/method",
-        "ai-adoption/mechanism"
-      ]
-    },
-    {
       "term": "benchmark",
       "kind": "curated",
       "seed": true,
-      "df": 114,
+      "df": 188,
       "match": {
         "type": "text",
         "forms": [
           "benchmark"
         ]
       },
-      "papers": 114,
+      "papers": 188,
       "top_cells": [
+        "ai-adoption/method",
         "ai-adoption/application",
-        "sales-psychology/systems",
-        "ai-adoption/systems",
-        "digital-marketing/application"
-      ]
-    },
-    {
-      "term": "literature review",
-      "kind": "curated",
-      "seed": true,
-      "df": 104,
-      "match": {
-        "type": "text",
-        "forms": [
-          "literature review"
-        ]
-      },
-      "papers": 104,
-      "top_cells": [
-        "ai-adoption/review",
-        "market-analysis/review",
-        "ai-adoption/systems",
-        "digital-marketing/systems"
+        "b2b-marketing/method",
+        "ai-adoption/theory"
       ]
     },
     {
       "term": "experiment",
       "kind": "curated",
       "seed": true,
-      "df": 100,
+      "df": 158,
       "match": {
         "type": "text",
         "forms": [
           "experiment"
         ]
       },
-      "papers": 100,
+      "papers": 158,
       "top_cells": [
+        "ai-adoption/theory",
+        "ai-adoption/method",
         "ai-adoption/systems",
-        "product-market-fit/method",
-        "ai-adoption/application",
-        "ai-adoption/mechanism"
-      ]
-    },
-    {
-      "term": "systematic review",
-      "kind": "curated",
-      "seed": true,
-      "df": 69,
-      "match": {
-        "type": "text",
-        "forms": [
-          "systematic review"
-        ]
-      },
-      "papers": 69,
-      "top_cells": [
-        "ai-adoption/review",
-        "market-analysis/review",
-        "digital-marketing/review",
-        "business-models/review"
+        "ai-adoption/application"
       ]
     },
     {
       "term": "taxonomy",
       "kind": "curated",
       "seed": true,
-      "df": 40,
+      "df": 83,
       "match": {
         "type": "text",
         "forms": [
           "taxonomy"
         ]
       },
-      "papers": 40,
+      "papers": 83,
       "top_cells": [
+        "ai-adoption/method",
         "ai-adoption/application",
-        "entrepreneurship/systems",
-        "ai-adoption/mechanism",
-        "content-marketing/application"
+        "ai-adoption/theory",
+        "content-marketing/method"
       ]
     },
     {
       "term": "interview",
       "kind": "curated",
       "seed": true,
-      "df": 14,
+      "df": 71,
       "match": {
         "type": "text",
         "forms": [
           "interview"
         ]
       },
-      "papers": 14,
+      "papers": 71,
       "top_cells": [
-        "product-market-fit/method",
-        "ai-adoption/application",
-        "ai-adoption/mechanism",
-        "go-to-market/theory"
-      ]
-    },
-    {
-      "term": "reproducibility",
-      "kind": "curated",
-      "seed": true,
-      "df": 14,
-      "match": {
-        "type": "text",
-        "forms": [
-          "reproducibility"
-        ]
-      },
-      "papers": 14,
-      "top_cells": [
-        "ai-adoption/systems",
-        "digital-marketing/mechanism",
-        "sales-psychology/systems",
-        "growth-metrics/application"
-      ]
-    },
-    {
-      "term": "peer review",
-      "kind": "curated",
-      "seed": true,
-      "df": 8,
-      "match": {
-        "type": "text",
-        "forms": [
-          "peer review"
-        ]
-      },
-      "papers": 8,
-      "top_cells": [
-        "ai-adoption/mechanism",
-        "ai-adoption/systems",
-        "go-to-market/systems",
-        "digital-marketing/mechanism"
+        "ai-adoption/method",
+        "ai-adoption/theory",
+        "b2b-marketing/theory",
+        "b2b-marketing/method"
       ]
     },
     {
       "term": "research gap",
       "kind": "curated",
       "seed": true,
-      "df": 7,
+      "df": 49,
       "match": {
         "type": "text",
         "forms": [
           "research gap"
         ]
       },
-      "papers": 7,
+      "papers": 49,
       "top_cells": [
-        "product-market-fit/mechanism",
-        "market-analysis/mechanism",
-        "brand-building/theory",
-        "growth-metrics/method"
+        "ai-adoption/method",
+        "ai-adoption/theory",
+        "content-marketing/method",
+        "digital-marketing/method"
+      ]
+    },
+    {
+      "term": "reproducibility",
+      "kind": "curated",
+      "seed": true,
+      "df": 35,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reproducibility"
+        ]
+      },
+      "papers": 35,
+      "top_cells": [
+        "ai-adoption/method",
+        "ai-adoption/systems",
+        "ai-adoption/theory",
+        "ai-adoption/application"
       ]
     },
     {
       "term": "triangulation",
       "kind": "curated",
       "seed": true,
-      "df": 3,
+      "df": 26,
       "match": {
         "type": "text",
         "forms": [
           "triangulation"
         ]
       },
-      "papers": 3,
+      "papers": 26,
       "top_cells": [
-        "sales-strategy/application",
-        "ai-adoption/systems",
-        "networking/systems"
+        "ai-adoption/method",
+        "ai-adoption/theory",
+        "digital-marketing/method",
+        "b2b-marketing/method"
       ]
     },
     {
       "term": "mixed methods",
       "kind": "curated",
       "seed": true,
-      "df": 2,
+      "df": 22,
       "match": {
         "type": "text",
         "forms": [
           "mixed methods"
         ]
       },
-      "papers": 2,
+      "papers": 22,
       "top_cells": [
-        "sales-psychology/mechanism",
-        "ai-adoption/systems"
+        "digital-marketing/method",
+        "ai-adoption/method",
+        "ai-adoption/theory",
+        "content-marketing/method"
+      ]
+    },
+    {
+      "term": "peer review",
+      "kind": "curated",
+      "seed": true,
+      "df": 19,
+      "match": {
+        "type": "text",
+        "forms": [
+          "peer review"
+        ]
+      },
+      "papers": 19,
+      "top_cells": [
+        "ai-adoption/method",
+        "ai-adoption/mechanism",
+        "ai-adoption/systems",
+        "b2b-marketing/theory"
       ]
     },
     {
       "term": "grounded theory",
       "kind": "curated",
       "seed": true,
-      "df": 2,
+      "df": 13,
       "match": {
         "type": "text",
         "forms": [
           "grounded theory"
         ]
       },
-      "papers": 2,
+      "papers": 13,
       "top_cells": [
-        "customer-acquisition/systems",
-        "entrepreneurship/method"
+        "ai-adoption/theory",
+        "content-marketing/theory",
+        "b2b-marketing/theory",
+        "digital-marketing/theory"
+      ]
+    },
+    {
+      "term": "open access",
+      "kind": "curated",
+      "seed": true,
+      "df": 3,
+      "match": {
+        "type": "text",
+        "forms": [
+          "open access"
+        ]
+      },
+      "papers": 3,
+      "top_cells": [
+        "digital-marketing/method",
+        "ai-adoption/method",
+        "content-marketing/method"
       ]
     },
     {
@@ -712,22 +735,6 @@
       "papers": 1,
       "top_cells": [
         "market-analysis/method"
-      ]
-    },
-    {
-      "term": "open access",
-      "kind": "curated",
-      "seed": true,
-      "df": 1,
-      "match": {
-        "type": "text",
-        "forms": [
-          "open access"
-        ]
-      },
-      "papers": 1,
-      "top_cells": [
-        "digital-marketing/method"
       ]
     },
     {
