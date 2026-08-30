@@ -1,51 +1,51 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 299 edges, 1 components, 1 communities (modularity -726.995). Edges = co-occurrence.
+**Generated:** 42 nodes, 314 edges, 1 components, 1 communities (modularity -866.597). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1664, degree 37, df 2139
-- **Ai Adoption** — PR 0.1560, degree 18, df 4268
-- **qualitative** — PR 0.0780, degree 35, df 808
-- **survey** — PR 0.0713, degree 33, df 848
-- **quantitative** — PR 0.0706, degree 34, df 735
-- **literature review** — PR 0.0440, degree 32, df 507
-- **Digital Marketing** — PR 0.0436, degree 16, df 1469
-- **case study** — PR 0.0418, degree 35, df 411
-- **B2b Marketing** — PR 0.0343, degree 15, df 1303
-- **dataset** — PR 0.0330, degree 31, df 355
-- **Content Marketing** — PR 0.0267, degree 15, df 840
-- **systematic review** — PR 0.0213, degree 23, df 211
+- **framework** — PR 0.1622, degree 37, df 2405
+- **Ai Adoption** — PR 0.1368, degree 18, df 4296
+- **qualitative** — PR 0.0747, degree 35, df 890
+- **quantitative** — PR 0.0700, degree 35, df 852
+- **survey** — PR 0.0689, degree 34, df 945
+- **Digital Marketing** — PR 0.0539, degree 19, df 1974
+- **literature review** — PR 0.0431, degree 33, df 571
+- **case study** — PR 0.0418, degree 36, df 486
+- **dataset** — PR 0.0416, degree 32, df 561
+- **Content Marketing** — PR 0.0341, degree 16, df 1206
+- **B2b Marketing** — PR 0.0303, degree 15, df 1310
+- **systematic review** — PR 0.0207, degree 24, df 235
 
 ## Bridge nodes (high betweenness — connect clusters)
 
 - framework
 - case study
 - qualitative
-- literature review
 - quantitative
+- literature review
+- Digital Marketing
 - survey
 - dataset
 - experiment
 - benchmark
-- systematic review
 
 ## Bridge edges (high edge-betweenness)
 
-- framework ↔ Customer Retention (weight 31, EB 8.3333)
-- framework ↔ Partnerships (weight 8, EB 8.2833)
-- qualitative ↔ Partnerships (weight 4, EB 7.7833)
-- case study ↔ Partnerships (weight 4, EB 7.6167)
-- framework ↔ grounded theory (weight 8, EB 7.4202)
-- case study ↔ Customer Retention (weight 2, EB 7.3333)
-- literature review ↔ Customer Retention (weight 3, EB 7.1726)
-- case study ↔ grounded theory (weight 2, EB 7.1107)
-- framework ↔ Customer Acquisition (weight 21, EB 6.9071)
-- literature review ↔ Partnerships (weight 8, EB 6.8667)
+- Digital Marketing ↔ open access (weight 2, EB 38.0)
+- framework ↔ Partnerships (weight 8, EB 8.2667)
+- case study ↔ Partnerships (weight 4, EB 8.0167)
+- qualitative ↔ Partnerships (weight 4, EB 7.7667)
+- framework ↔ grounded theory (weight 8, EB 7.1548)
+- literature review ↔ Partnerships (weight 8, EB 7.1)
+- case study ↔ grounded theory (weight 2, EB 7.0119)
+- dataset ↔ Partnerships (weight 2, EB 6.85)
+- framework ↔ Customer Acquisition (weight 22, EB 6.7929)
+- framework ↔ Customer Success (weight 10, EB 6.7833)
 
 ## Communities (clusters of related concepts)
 
-### Cluster 1 (38 concepts)
+### Cluster 1 (39 concepts)
 
 Ai Adoption, B2b Marketing, Brand Building, Business Models, Competitive Intelligence, Content Marketing, Customer Acquisition, Customer Retention, Customer Success, Digital Marketing, Entrepreneurship, Go To Market
 
