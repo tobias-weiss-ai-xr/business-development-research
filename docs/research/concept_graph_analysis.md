@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 314 edges, 1 components, 1 communities (modularity -866.597). Edges = co-occurrence.
+**Generated:** 42 nodes, 314 edges, 1 components, 1 communities (modularity -858.513). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1622, degree 37, df 2405
-- **Ai Adoption** — PR 0.1368, degree 18, df 4296
-- **qualitative** — PR 0.0747, degree 35, df 890
-- **quantitative** — PR 0.0700, degree 35, df 852
-- **survey** — PR 0.0689, degree 34, df 945
-- **Digital Marketing** — PR 0.0539, degree 19, df 1974
-- **literature review** — PR 0.0431, degree 33, df 571
-- **case study** — PR 0.0418, degree 36, df 486
-- **dataset** — PR 0.0416, degree 32, df 561
-- **Content Marketing** — PR 0.0341, degree 16, df 1206
-- **B2b Marketing** — PR 0.0303, degree 15, df 1310
-- **systematic review** — PR 0.0207, degree 24, df 235
+- **framework** — PR 0.1623, degree 37, df 2396
+- **Ai Adoption** — PR 0.1370, degree 18, df 4282
+- **qualitative** — PR 0.0745, degree 35, df 880
+- **quantitative** — PR 0.0696, degree 35, df 842
+- **survey** — PR 0.0691, degree 34, df 942
+- **Digital Marketing** — PR 0.0537, degree 19, df 1955
+- **literature review** — PR 0.0431, degree 33, df 568
+- **case study** — PR 0.0418, degree 36, df 484
+- **dataset** — PR 0.0418, degree 32, df 561
+- **Content Marketing** — PR 0.0340, degree 16, df 1196
+- **B2b Marketing** — PR 0.0303, degree 15, df 1302
+- **systematic review** — PR 0.0207, degree 24, df 234
 
 ## Bridge nodes (high betweenness — connect clusters)
 
