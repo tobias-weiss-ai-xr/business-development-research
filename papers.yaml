@@ -212885,12 +212885,12 @@ papers:
     to elicit and validate trust requirements . Cycle II instantiated these requirements
     in a multi-agent LLM chatbot prototype artifact and evaluated whether the artifact
     satisfies them through controlled user sessions and expert walkthroughs, emphasizing
-    perceived usefulness and trust captured in post-task interviews ( $n = 11 ) and
+    perceived usefulness and trust captured in post-task interviews ( n = 11 ) and
     operationalizing trust via alignment-oriented measures (faithfulness, answer relevancy,
     and adversarial robustness). The study yields a refined taxonomy of external (transparency,
     organizational safeguards, third-party security) and internal (model provenance,
     bias risk, reliability) trust factors, identifying reliability as the primary
-    determinant of adoption. The implemented design achieved \ge 0.86$ on trust-aligned
+    determinant of adoption. The implemented design achieved \ge 0.86 on trust-aligned
     metrics and was endorsed by 9/11 participants as ready for field deployment. These
     findings demonstrate that trust can be proactively addressed through design and
     offer prescriptive guidelines for software engineers seeking to embed LLMs safely
@@ -240197,7 +240197,7 @@ papers:
     Journal and book publishing aim to store and disseminate perceived useful scientific
     works in State 1 for potential reuse in State 2, thereby facilitating new knowledge
     generation. Although the rejection process imposes a mental burden on scholars,
-    it is essential for achieving this goal. P x i $ P\left({x}_i\right) is the probability
+    it is essential for achieving this goal. P x i P\left({x}_i\right) is the probability
     of the outcome x i {x}_i . Each probability P x i P\left({x}_i\right) represents
     how likely each outcome x i {x}_i is to occur. In the context of knowledge production,
     the variable X X can be interpreted as knowledge in State 1, with i i number of
@@ -240210,7 +240210,7 @@ papers:
     works being reused would be equivalent to 1 n \frac{1}{n} . In this scenario,
     the entropy would also be maximized as the entropy (missing information or uncertainty)
     of the knowledge system might also rise monotonously with the increase in the
-    number of scientific works i i $ . In other words, the chance of identifying useful
+    number of scientific works i i . In other words, the chance of identifying useful
     and reliable scientific works for subsequent knowledge-generation processes would
     be highly uncertain. Scenario 2: When the rejection process is applied, editors
     and reviewers invest their energy in evaluating the usefulness and reliability
@@ -288042,7 +288042,7 @@ papers:
 - title: Privacy-Preserving Customer Churn Prediction Model in the Context of Telecommunication
     Industry
   date: 2024-11
-  url: https://arxiv.org/abs/2411.01447v1
+  url: https://arxiv.org/abs/2411.01447
   category: customer-retention
   subcategory: application
   authors:
@@ -288077,7 +288077,7 @@ papers:
 - title: 'Enhancing Customer Churn Prediction in Telecommunications: An Adaptive Ensemble
     Learning Approach'
   date: 2024-08
-  url: https://arxiv.org/abs/2408.16284v1
+  url: https://arxiv.org/abs/2408.16284
   category: customer-retention
   subcategory: application
   authors:
@@ -288103,7 +288103,7 @@ papers:
 - title: Experimental Comparison of Ensemble Methods and Time-to-Event Analysis Models
     Through Integrated Brier Score and Concordance Index
   date: 2024-03
-  url: https://arxiv.org/abs/2403.07460v1
+  url: https://arxiv.org/abs/2403.07460
   category: customer-retention
   subcategory: application
   authors:
@@ -288128,7 +288128,7 @@ papers:
     the performance ranking of the methods using both scores.
 - title: Explainability of Highly Associated Fuzzy Churn Patterns in Binary Classification
   date: 2024-10
-  url: https://arxiv.org/abs/2410.15827v1
+  url: https://arxiv.org/abs/2410.15827
   category: customer-retention
   subcategory: application
   authors:
@@ -288143,20 +288143,20 @@ papers:
     this study emphasizes not only the explainability of customer churn through machine
     learning models, but also the importance of identifying multivariate patterns
     and setting soft bounds for intuitive interpretation. The main objective is to
-    use a machine learning model and fuzzy-set theory with top-\textit{k} HUIM to
-    identify highly associated patterns of customer churn with intuitive identification,
-    referred to as Highly Associated Fuzzy Churn Patterns (HAFCP). Moreover, this
-    method aids in uncovering association rules among multiple features across low,
-    medium, and high distributions. Such discoveries are instrumental in enhancing
-    the explainability of findings. Experiments show that when the top-5 HAFCPs are
-    included in five datasets, a mixture of performance results is observed, with
-    some showing notable improvements. It becomes clear that high importance features
-    enhance explanatory power through their distribution and patterns associated with
-    other features. As a result, the study introduces an innovative approach that
-    improves the explainability and effectiveness of customer churn prediction models.
+    use a machine learning model and fuzzy-set theory with top-k HUIM to identify
+    highly associated patterns of customer churn with intuitive identification, referred
+    to as Highly Associated Fuzzy Churn Patterns (HAFCP). Moreover, this method aids
+    in uncovering association rules among multiple features across low, medium, and
+    high distributions. Such discoveries are instrumental in enhancing the explainability
+    of findings. Experiments show that when the top-5 HAFCPs are included in five
+    datasets, a mixture of performance results is observed, with some showing notable
+    improvements. It becomes clear that high importance features enhance explanatory
+    power through their distribution and patterns associated with other features.
+    As a result, the study introduces an innovative approach that improves the explainability
+    and effectiveness of customer churn prediction models.
 - title: 'Augmenting Intelligence: A Hybrid Framework for Scalable and Stable Explanations'
   date: 2025-12
-  url: https://arxiv.org/abs/2512.19557v1
+  url: https://arxiv.org/abs/2512.19557
   category: customer-retention
   subcategory: application
   authors:
@@ -288183,7 +288183,7 @@ papers:
     Handlers."'
 - title: 'TTF: A Trapezoidal Temporal Fusion Framework for LTV Forecasting in Douyin'
   date: 2025-11
-  url: https://arxiv.org/abs/2511.17639v1
+  url: https://arxiv.org/abs/2511.17639
   category: customer-acquisition
   subcategory: evaluation
   authors:
@@ -288217,7 +288217,7 @@ papers:
 - title: An economically-consistent discrete choice model with flexible utility specification
     based on artificial neural networks
   date: 2024-04
-  url: https://arxiv.org/abs/2404.13198v1
+  url: https://arxiv.org/abs/2404.13198
   category: pricing-strategy
   subcategory: evaluation
   authors:
@@ -288244,7 +288244,7 @@ papers:
 - title: What do Large Language Models Say About Animals? Investigating Risks of Animal
     Harm in Generated Text
   date: 2025-03
-  url: https://arxiv.org/abs/2503.04804v4
+  url: https://arxiv.org/abs/2503.04804
   category: pricing-strategy
   subcategory: evaluation
   authors:
@@ -288276,7 +288276,7 @@ papers:
     social and moral topics.
 - title: Modeling Reference-dependent Choices with Graph Neural Networks
   date: 2024-08
-  url: https://arxiv.org/abs/2408.11302v1
+  url: https://arxiv.org/abs/2408.11302
   category: pricing-strategy
   subcategory: evaluation
   authors:
@@ -288312,7 +288312,7 @@ papers:
 - title: 'Concave Rationalization with an Ideal Point: An Afriat Theorem and an Application
     to Survey Design'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.03876v4
+  url: https://arxiv.org/abs/2401.03876
   category: pricing-strategy
   subcategory: review
   authors:
@@ -288336,7 +288336,7 @@ papers:
 - title: 'Twin-2K-500: A dataset for building digital twins of over 2,000 people based
     on their answers to over 500 questions'
   date: 2025-05
-  url: https://arxiv.org/abs/2505.17479v1
+  url: https://arxiv.org/abs/2505.17479
   category: pricing-strategy
   subcategory: review
   authors:
@@ -288356,7 +288356,7 @@ papers:
     the development and validation of digital twin methodologies. To address this
     gap, we introduce a large-scale, public dataset designed to capture a rich and
     holistic view of individual human behavior. We survey a representative sample
-    of $N = 2,058$ participants (average 2.42 hours per person) in the US across four
+    of N = 2,058 participants (average 2.42 hours per person) in the US across four
     waves with 500 questions in total, covering a comprehensive battery of demographic,
     psychological, economic, personality, and cognitive measures, as well as replications
     of behavioral economics experiments and a pricing survey. The final wave repeats
@@ -288371,7 +288371,7 @@ papers:
 - title: 'Simulating the Stellar Bycatch: Constraining the Prevalence of Extraterrestrial
     Transmitters within Radio SETI Surveys'
   date: 2025-11
-  url: https://arxiv.org/abs/2511.20231v1
+  url: https://arxiv.org/abs/2511.20231
   category: pricing-strategy
   subcategory: review
   authors:
@@ -288393,19 +288393,19 @@ papers:
     realistic constraints on the occurrence of extraterrestrial transmitters. We apply
     this method to Breakthrough Listen's Enriquez/Price survey, modelling 6,182,364
     stellar objects within 1229 individual pointings and extending the search out
-    to distances $\leq 25$kpc. We place limits on the prevalence of high duty cycle
-    transmitters within 2.5kpc, suggesting $\leq (0.000995 \pm 0.000002)\%$ of stellar
-    systems contain such a transmitter (for near-zero drift rates and EIRP$_{\mathrm{min}}
-    \gtrsim 5 \times 10^{16}$W). In support of broader adoption, we provide a simple
-    calculator tool that enables other researchers to incorporate this approach into
-    their own SETI analyses. Our results enable a more complete statistical estimation
-    of the number and stellar type of systems probed, thereby strengthening constraints
-    on technosignature prevalence and guiding the analysis of future SETI efforts.
-    We also conclude that SETI surveys are, in fact, much less biased by anthropocentric
+    to distances \leq 25kpc. We place limits on the prevalence of high duty cycle
+    transmitters within 2.5kpc, suggesting \leq (0.000995 \pm 0.000002)\% of stellar
+    systems contain such a transmitter (for near-zero drift rates and EIRP_{min} \gtrsim
+    5 \times 10^{16}W). In support of broader adoption, we provide a simple calculator
+    tool that enables other researchers to incorporate this approach into their own
+    SETI analyses. Our results enable a more complete statistical estimation of the
+    number and stellar type of systems probed, thereby strengthening constraints on
+    technosignature prevalence and guiding the analysis of future SETI efforts. We
+    also conclude that SETI surveys are, in fact, much less biased by anthropocentric
     assumptions than is often suggested.
 - title: How to Mine Potentially Popular Items? A Reverse MIPS-based Approach
   date: 2025-04
-  url: https://arxiv.org/abs/2504.13445v1
+  url: https://arxiv.org/abs/2504.13445
   category: digital-marketing
   subcategory: review
   authors:
@@ -288416,16 +288416,16 @@ papers:
   venue: ''
   code_url: ''
   project_url: ''
-  abstract: The $k$-MIPS ($k$ Maximum Inner Product Search) problem has been employed
-    in many fields. Recently, its reverse version, the reverse $k$-MIPS problem, has
+  abstract: The k-MIPS (k Maximum Inner Product Search) problem has been employed
+    in many fields. Recently, its reverse version, the reverse k-MIPS problem, has
     been proposed. Given an item vector (i.e., query), it retrieves all user vectors
-    such that their $k$-MIPS results contain the item vector. Consider the cardinality
-    of a reverse $k$-MIPS result. A large cardinality means that the item is potentially
-    popular, because it is included in the $k$-MIPS results of many users. This mining
+    such that their k-MIPS results contain the item vector. Consider the cardinality
+    of a reverse k-MIPS result. A large cardinality means that the item is potentially
+    popular, because it is included in the k-MIPS results of many users. This mining
     is important in recommender systems, market analysis, and new item development.
     Motivated by this, we formulate a new problem. In this problem, the score of each
-    item is defined as the cardinality of its reverse $k$-MIPS result, and the $N$
-    items with the highest score are retrieved. A straightforward approach is to compute
+    item is defined as the cardinality of its reverse k-MIPS result, and the N items
+    with the highest score are retrieved. A straightforward approach is to compute
     the scores of all items, but this is clearly prohibitive for large numbers of
     users and items. We remove this inefficiency issue and propose a fast algorithm
     for this problem. Because the main bottleneck of the problem is to compute the
@@ -290279,7 +290279,7 @@ papers:
     optimized conceptual design. The system offers an electrical output of 72.01 kW
     and cooling capabilities of 56.83 kW, achieving an exergy efficiency of 60.4%.
     Moreover, economic metrics, including the facility's unit cost of the product
-    ($1259/GJ) and annual exergy destruction costs ($386,670), were ascertained. Under
+    (1259/GJ) and annual exergy destruction costs (386,670), were ascertained. Under
     the optimization, exergy efficacy and SUCP of 64.9% and $902.21/GJ are achievable.
   venue: Scientific Reports
 - title: Generative Engine Optimization
@@ -291680,12 +291680,12 @@ papers:
     nectar search formula is constructed by using the global optimal nectar, and the
     control parameters are calculated by fuzzy logic clustering. The experimental
     results showed that the modeling error of the load model of internal combustion
-    engine was in the range of −0.47 MW$\sim ~0.51$MW. When the training iteration
-    speed was tested, the loss value of the research method dropped rapidly in the
-    first 10 iterations. When analyzing the change of the control quantity during
-    load change, if the exhaust flow rate was taken as the control quantity, the control
-    results of the research method was always kept within 5lbm/s error. It demonstrates
-    that this research method can effectively improve the running quality of the internal
+    engine was in the range of −0.47 MW\sim ~0.51MW. When the training iteration speed
+    was tested, the loss value of the research method dropped rapidly in the first
+    10 iterations. When analyzing the change of the control quantity during load change,
+    if the exhaust flow rate was taken as the control quantity, the control results
+    of the research method was always kept within 5lbm/s error. It demonstrates that
+    this research method can effectively improve the running quality of the internal
     combustion engine and has a good running efficiency. The research can provide
     certain technical reference for gas turbine control in thermal power generation.
   venue: IEEE Access
@@ -304361,7 +304361,7 @@ papers:
     intention using secondary data analysis. Key findings indicate that influencer
     recommendations significantly influence consumer behaviour, with 49% of consumers
     relying on influencers for purchase decisions and businesses earning an average
-    return of $5.20 per $1 spent. The study also highlights platform-specific trends,
+    return of 5.20 per 1 spent. The study also highlights platform-specific trends,
     showing TikTok's growing dominance and Instagram’s declining usage. While influencer
     marketing proves effective in boosting engagement and credibility, ethical concerns
     such as transparency and disclosure remain crucial. Additionally, differences
@@ -308275,11 +308275,11 @@ papers:
   abstract: This paper presents the Bias-Driven Marketing Influence Framework (BDMIF),
     for the analysis of the influence of social proof, scarcity and anchor biases
     on consumers’ decisions. A survey with 500 users of social media as our population
-    indicated that $80 \%$ of them were served with social proof strategies and results
-    from PLS-SEM indicated that [there was] a $65 \%$ improvement on the purchase
-    intention brought about by scarcity strategies. Anchoring biases forced up sales
-    of high-priced products by $42 \%$ - a perfect testimony of the influence of psychological
-    cues. But this created issues of transparency and trust as potential ethical issues
+    indicated that 80 \% of them were served with social proof strategies and results
+    from PLS-SEM indicated that [there was] a 65 \% improvement on the purchase intention
+    brought about by scarcity strategies. Anchoring biases forced up sales of high-priced
+    products by 42 \% - a perfect testimony of the influence of psychological cues.
+    But this created issues of transparency and trust as potential ethical issues
     for commerce. Therefore, the studies bring out the need to increase the effectiveness
     of marketing as well as maintaining ethical practice. Specific suggestions are
     given on how to create relevant responsible and bias conscious campaigns and that
@@ -321728,8 +321728,8 @@ papers:
     module using the SARIMA model. The methodology involved cleaning and analyzing
     historical POS data from a regional retail chain, followed by the development
     of modular dashboard components tailored to different user roles. Evaluation results
-    show a forecasting accuracy of approximately 86% (MAE$=441,052$units; RMSE$=$620,703
-    units). The average monthly sales during the evaluation period were approximately$3,000,000$units,
+    show a forecasting accuracy of approximately 86% (MAE=441,052units; RMSE=620,703
+    units). The average monthly sales during the evaluation period were approximately3,000,000units,
     which places the forecasting errors at around 14% relative to average sales volume,
     indicating a reliable level of accuracy for operational use. Users can interact
     with and personalize the dashboard layout, which improves usability and operational
@@ -323336,14 +323336,14 @@ papers:
     mitigate delivery-risk and respond to volatile customer demand. Leveraging a public
     182020 -record “SMART Supply-Chain” data set, we couple classical statistics with
     explainable machine learning (ML) to pinpoint the factors that most strongly drive
-    delivery outcomes and sales behaviour. Paired-$t$tests, Pearson correlation and$\chi^{2}$analysis
-    reveal: (i) a highly significant gap between scheduled and actual shipping days$\left(p<10^{-4}\right)$,
-    (ii) a strong positive link between product price and customer sales ($r=0.78$),
+    delivery outcomes and sales behaviour. Paired-ttests, Pearson correlation and\chi^{2}analysis
+    reveal: (i) a highly significant gap between scheduled and actual shipping days\left(p<10^{-4}\right),
+    (ii) a strong positive link between product price and customer sales (r=0.78),
     and (iii) shipping-mode and delivery-status associations with late-delivery risk
-    ($p<10^{-4}$). Six supervised learners—Linear, Ridge and Lasso regression, Random
+    (p<10^{-4}). Six supervised learners—Linear, Ridge and Lasso regression, Random
     Forest, Decision Tree and Gradient-Boosting—are then benchmarked. Ridge regression
-    attains the best predictive performance ($\text{MSE}=2.27 \times 10^{-6}, \text{MAE}=5.7
-    \times 10^{-4}, R^{2}=0.9999$) while maintaining model parsimony. To ensure managerial
+    attains the best predictive performance (MSE=2.27 \times 10^{-6}, MAE=5.7 \times
+    10^{-4}, R^{2}=0.9999) while maintaining model parsimony. To ensure managerial
     transparency, we generate instance-level explanations with SHAP and LIME, showing
     that Order-Item-Total, Sales-per-Customer and Order-Item-Discount are the principal
     drivers of the ridge model''s risk forecasts. The integrated framework supplies
@@ -327504,7 +327504,7 @@ papers:
     Linear Regression, Logistic Regression, Naive Bayes, Decision Tree, Random Forest,
     K-Nearest Neighbors (KNN), Gradient Boosting, XGBoost (eXtreme Gradient Boosting),
     LightGBM, AdaBoost and CatBoost algorithms to find the best-performing classification
-    model. Performance metrics such as $R^2$ score, Mean Squared Error, Mean Absolute
+    model. Performance metrics such as R^2 score, Mean Squared Error, Mean Absolute
     Error, Root Mean Squared Error, and Accuracy are used in this process. Finally,
     the best prediction model is explained using eXplainable Artificial Intelligence
     (XAI).
@@ -327524,17 +327524,17 @@ papers:
     is instrumental to effective churn prevention. In this study, we investigate how
     churn prediction performs in practice when training models on different time intervals
     of historic data (1-4 weeks back) and predicting churn at different numbers of
-    weeks ahead ($1-4$ weeks). We use a real-world, time-series dataset of mobile
-    subscription usage to examine churn prediction for business-to-business (B2B)
-    customers. We utilize the timeseries data at a higher temporal resolution than
-    prior studies and investigate different forecasting horizons. Leveraging popular
-    machine learning algorithms such as Random Forests, Gradient Boosting, Neural
-    Networks, and Gated Recurrent Unit, we show that the best model achieves an average
-    $F_{1}$-score of 79.3% for one-week ahead predictions. However, the average $\mathbf{F}_{1}$-score
-    decreases to 63.3% and 61.8% for two and four weeks ahead, respectively. A model
-    interpretation framework (SHAP) evaluates the feature impact on the models’ internal
-    decision logic. We also discuss the challenges in applying churn prediction for
-    the B2B segment.
+    weeks ahead (1-4 weeks). We use a real-world, time-series dataset of mobile subscription
+    usage to examine churn prediction for business-to-business (B2B) customers. We
+    utilize the timeseries data at a higher temporal resolution than prior studies
+    and investigate different forecasting horizons. Leveraging popular machine learning
+    algorithms such as Random Forests, Gradient Boosting, Neural Networks, and Gated
+    Recurrent Unit, we show that the best model achieves an average F_{1}-score of
+    79.3% for one-week ahead predictions. However, the average F_{1}-score decreases
+    to 63.3% and 61.8% for two and four weeks ahead, respectively. A model interpretation
+    framework (SHAP) evaluates the feature impact on the models’ internal decision
+    logic. We also discuss the challenges in applying churn prediction for the B2B
+    segment.
   venue: ''
 - title: A Learning Model on Customer Churn Forecasting for Telecom Providers
   date: 2025-10
@@ -329553,10 +329553,10 @@ papers:
     datasets (2.3 M sessions), CatBoost attains 0.934 precision, 0.935 recall and
     0.985 ROC-AUC with 23% fewer features than XGBoost; both outperform SVM (0.886
     recall) and RF (0.787 accuracy). A deep-learning session-level model reaches 0.952
-    F1 but requires$6 \times$training time. Production A/B tests show 30% stock-out
-    reduction,$\text{1 5}$% CTR uplift and$\text{1 8}$% churn decrease. Interpretable
-    trees remain preferred for regulated domains, whereas gradient-boosting and neural
-    nets scale best for high-dimensional multi-modal data.
+    F1 but requires6 \timestraining time. Production A/B tests show 30% stock-out
+    reduction,1 5% CTR uplift and1 8% churn decrease. Interpretable trees remain preferred
+    for regulated domains, whereas gradient-boosting and neural nets scale best for
+    high-dimensional multi-modal data.
   venue: ''
 - title: Evaluating Explainability Tradeoffs in Machine Learning-Based Retention Intelligence
     Systems
