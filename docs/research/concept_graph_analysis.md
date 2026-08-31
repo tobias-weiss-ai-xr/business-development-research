@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 314 edges, 1 components, 1 communities (modularity -858.513). Edges = co-occurrence.
+**Generated:** 42 nodes, 394 edges, 1 components, 1 communities (modularity -1846.592). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1623, degree 37, df 2396
-- **Ai Adoption** — PR 0.1370, degree 18, df 4282
-- **qualitative** — PR 0.0745, degree 35, df 880
-- **quantitative** — PR 0.0696, degree 35, df 842
-- **survey** — PR 0.0691, degree 34, df 942
-- **Digital Marketing** — PR 0.0537, degree 19, df 1955
-- **literature review** — PR 0.0431, degree 33, df 568
-- **case study** — PR 0.0418, degree 36, df 484
-- **dataset** — PR 0.0418, degree 32, df 561
-- **Content Marketing** — PR 0.0340, degree 16, df 1196
-- **B2b Marketing** — PR 0.0303, degree 15, df 1302
-- **systematic review** — PR 0.0207, degree 24, df 234
+- **framework** — PR 0.1527, degree 38, df 3944
+- **Ai Adoption** — PR 0.0863, degree 18, df 4594
+- **survey** — PR 0.0822, degree 37, df 2079
+- **qualitative** — PR 0.0803, degree 37, df 1634
+- **quantitative** — PR 0.0785, degree 37, df 1671
+- **case study** — PR 0.0410, degree 38, df 870
+- **Digital Marketing** — PR 0.0405, degree 19, df 2348
+- **literature review** — PR 0.0393, degree 37, df 885
+- **dataset** — PR 0.0386, degree 35, df 924
+- **Entrepreneurship** — PR 0.0264, degree 16, df 1785
+- **Pricing Strategy** — PR 0.0225, degree 17, df 1712
+- **Business Models** — PR 0.0222, degree 17, df 1381
 
 ## Bridge nodes (high betweenness — connect clusters)
 
@@ -23,25 +23,25 @@
 - case study
 - qualitative
 - quantitative
-- literature review
-- Digital Marketing
 - survey
+- literature review
 - dataset
 - experiment
+- systematic review
 - benchmark
 
 ## Bridge edges (high edge-betweenness)
 
-- Digital Marketing ↔ open access (weight 2, EB 38.0)
-- framework ↔ Partnerships (weight 8, EB 8.2667)
-- case study ↔ Partnerships (weight 4, EB 8.0167)
-- qualitative ↔ Partnerships (weight 4, EB 7.7667)
-- framework ↔ grounded theory (weight 8, EB 7.1548)
-- literature review ↔ Partnerships (weight 8, EB 7.1)
-- case study ↔ grounded theory (weight 2, EB 7.0119)
-- dataset ↔ Partnerships (weight 2, EB 6.85)
-- framework ↔ Customer Acquisition (weight 22, EB 6.7929)
-- framework ↔ Customer Success (weight 10, EB 6.7833)
+- case study ↔ grounded theory (weight 5, EB 5.1275)
+- framework ↔ grounded theory (weight 18, EB 5.1275)
+- framework ↔ Networking (weight 46, EB 5.1071)
+- case study ↔ Networking (weight 7, EB 5.1071)
+- framework ↔ Brand Building (weight 25, EB 5.0714)
+- case study ↔ Brand Building (weight 7, EB 5.0714)
+- qualitative ↔ Networking (weight 5, EB 4.9643)
+- quantitative ↔ Networking (weight 5, EB 4.9405)
+- qualitative ↔ Brand Building (weight 5, EB 4.9286)
+- quantitative ↔ grounded theory (weight 5, EB 4.9275)
 
 ## Communities (clusters of related concepts)
 
