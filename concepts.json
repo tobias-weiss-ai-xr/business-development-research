@@ -5,7 +5,7 @@
       "term": "Ai Adoption",
       "kind": "taxonomy",
       "seed": true,
-      "df": 4594,
+      "df": 4600,
       "match": {
         "type": "field",
         "field": "category",
@@ -17,20 +17,20 @@
         "ai-adoption/application",
         "ai-adoption/systems"
       ],
-      "papers": 4594
+      "papers": 4600
     },
     {
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 3944,
+      "df": 3950,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 3944,
+      "papers": 3950,
       "top_cells": [
         "ai-adoption/method",
         "ai-adoption/theory",
@@ -42,7 +42,7 @@
       "term": "Digital Marketing",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2348,
+      "df": 2350,
       "match": {
         "type": "field",
         "field": "category",
@@ -54,20 +54,20 @@
         "digital-marketing/systems",
         "digital-marketing/application"
       ],
-      "papers": 2348
+      "papers": 2350
     },
     {
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 2079,
+      "df": 2085,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 2079,
+      "papers": 2085,
       "top_cells": [
         "ai-adoption/method",
         "digital-marketing/method",
@@ -79,7 +79,7 @@
       "term": "Entrepreneurship",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1785,
+      "df": 1788,
       "match": {
         "type": "field",
         "field": "category",
@@ -91,13 +91,13 @@
         "entrepreneurship/systems",
         "entrepreneurship/application"
       ],
-      "papers": 1785
+      "papers": 1788
     },
     {
       "term": "Pricing Strategy",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1712,
+      "df": 1716,
       "match": {
         "type": "field",
         "field": "category",
@@ -109,20 +109,20 @@
         "pricing-strategy/systems",
         "pricing-strategy/application"
       ],
-      "papers": 1712
+      "papers": 1716
     },
     {
       "term": "quantitative",
       "kind": "curated",
       "seed": true,
-      "df": 1671,
+      "df": 1673,
       "match": {
         "type": "text",
         "forms": [
           "quantitative"
         ]
       },
-      "papers": 1671,
+      "papers": 1673,
       "top_cells": [
         "digital-marketing/method",
         "ai-adoption/method",
@@ -134,14 +134,14 @@
       "term": "qualitative",
       "kind": "curated",
       "seed": true,
-      "df": 1634,
+      "df": 1635,
       "match": {
         "type": "text",
         "forms": [
           "qualitative"
         ]
       },
-      "papers": 1634,
+      "papers": 1635,
       "top_cells": [
         "ai-adoption/method",
         "digital-marketing/method",
@@ -153,7 +153,7 @@
       "term": "Business Models",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1381,
+      "df": 1383,
       "match": {
         "type": "field",
         "field": "category",
@@ -165,7 +165,7 @@
         "business-models/application",
         "business-models/systems"
       ],
-      "papers": 1381
+      "papers": 1383
     },
     {
       "term": "B2b Marketing",
@@ -189,7 +189,7 @@
       "term": "Customer Acquisition",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1291,
+      "df": 1296,
       "match": {
         "type": "field",
         "field": "category",
@@ -201,7 +201,7 @@
         "customer-acquisition/systems",
         "customer-acquisition/application"
       ],
-      "papers": 1291
+      "papers": 1296
     },
     {
       "term": "Content Marketing",
@@ -263,14 +263,14 @@
       "term": "case study",
       "kind": "curated",
       "seed": true,
-      "df": 870,
+      "df": 872,
       "match": {
         "type": "text",
         "forms": [
           "case study"
         ]
       },
-      "papers": 870,
+      "papers": 872,
       "top_cells": [
         "ai-adoption/method",
         "digital-marketing/method",
@@ -282,7 +282,7 @@
       "term": "Go To Market",
       "kind": "taxonomy",
       "seed": true,
-      "df": 853,
+      "df": 854,
       "match": {
         "type": "field",
         "field": "category",
@@ -294,7 +294,7 @@
         "go-to-market/application",
         "go-to-market/systems"
       ],
-      "papers": 853
+      "papers": 854
     },
     {
       "term": "Sales Strategy",
@@ -318,7 +318,7 @@
       "term": "Competitive Intelligence",
       "kind": "taxonomy",
       "seed": true,
-      "df": 773,
+      "df": 774,
       "match": {
         "type": "field",
         "field": "category",
@@ -330,7 +330,7 @@
         "competitive-intelligence/application",
         "competitive-intelligence/systems"
       ],
-      "papers": 773
+      "papers": 774
     },
     {
       "term": "Customer Retention",
@@ -354,7 +354,7 @@
       "term": "Partnerships",
       "kind": "taxonomy",
       "seed": true,
-      "df": 708,
+      "df": 710,
       "match": {
         "type": "field",
         "field": "category",
@@ -366,13 +366,13 @@
         "partnerships/application",
         "partnerships/systems"
       ],
-      "papers": 708
+      "papers": 710
     },
     {
       "term": "Growth Metrics",
       "kind": "taxonomy",
       "seed": true,
-      "df": 598,
+      "df": 599,
       "match": {
         "type": "field",
         "field": "category",
@@ -384,7 +384,7 @@
         "growth-metrics/application",
         "growth-metrics/systems"
       ],
-      "papers": 598
+      "papers": 599
     },
     {
       "term": "Market Analysis",
@@ -481,14 +481,14 @@
       "term": "experiment",
       "kind": "curated",
       "seed": true,
-      "df": 280,
+      "df": 281,
       "match": {
         "type": "text",
         "forms": [
           "experiment"
         ]
       },
-      "papers": 280,
+      "papers": 281,
       "top_cells": [
         "pricing-strategy/method",
         "ai-adoption/theory",
@@ -669,14 +669,14 @@
       "term": "open access",
       "kind": "curated",
       "seed": true,
-      "df": 38,
+      "df": 39,
       "match": {
         "type": "text",
         "forms": [
           "open access"
         ]
       },
-      "papers": 38,
+      "papers": 39,
       "top_cells": [
         "pricing-strategy/method",
         "business-models/theory",

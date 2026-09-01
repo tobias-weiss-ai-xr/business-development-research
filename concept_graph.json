@@ -4,55 +4,55 @@
       "id": 0,
       "term": "Ai Adoption",
       "kind": "taxonomy",
-      "df": 4594
+      "df": 4600
     },
     {
       "id": 1,
       "term": "framework",
       "kind": "curated",
-      "df": 3944
+      "df": 3950
     },
     {
       "id": 2,
       "term": "Digital Marketing",
       "kind": "taxonomy",
-      "df": 2348
+      "df": 2350
     },
     {
       "id": 3,
       "term": "survey",
       "kind": "curated",
-      "df": 2079
+      "df": 2085
     },
     {
       "id": 4,
       "term": "Entrepreneurship",
       "kind": "taxonomy",
-      "df": 1785
+      "df": 1788
     },
     {
       "id": 5,
       "term": "Pricing Strategy",
       "kind": "taxonomy",
-      "df": 1712
+      "df": 1716
     },
     {
       "id": 6,
       "term": "quantitative",
       "kind": "curated",
-      "df": 1671
+      "df": 1673
     },
     {
       "id": 7,
       "term": "qualitative",
       "kind": "curated",
-      "df": 1634
+      "df": 1635
     },
     {
       "id": 8,
       "term": "Business Models",
       "kind": "taxonomy",
-      "df": 1381
+      "df": 1383
     },
     {
       "id": 9,
@@ -64,7 +64,7 @@
       "id": 10,
       "term": "Customer Acquisition",
       "kind": "taxonomy",
-      "df": 1291
+      "df": 1296
     },
     {
       "id": 11,
@@ -88,13 +88,13 @@
       "id": 14,
       "term": "case study",
       "kind": "curated",
-      "df": 870
+      "df": 872
     },
     {
       "id": 15,
       "term": "Go To Market",
       "kind": "taxonomy",
-      "df": 853
+      "df": 854
     },
     {
       "id": 16,
@@ -106,7 +106,7 @@
       "id": 17,
       "term": "Competitive Intelligence",
       "kind": "taxonomy",
-      "df": 773
+      "df": 774
     },
     {
       "id": 18,
@@ -118,13 +118,13 @@
       "id": 19,
       "term": "Partnerships",
       "kind": "taxonomy",
-      "df": 708
+      "df": 710
     },
     {
       "id": 20,
       "term": "Growth Metrics",
       "kind": "taxonomy",
-      "df": 598
+      "df": 599
     },
     {
       "id": 21,
@@ -160,7 +160,7 @@
       "id": 26,
       "term": "experiment",
       "kind": "curated",
-      "df": 280
+      "df": 281
     },
     {
       "id": 27,
@@ -220,7 +220,7 @@
       "id": 36,
       "term": "open access",
       "kind": "curated",
-      "df": 38
+      "df": 39
     },
     {
       "id": 37,
@@ -257,7 +257,7 @@
     {
       "source": 0,
       "target": 3,
-      "weight": 716
+      "weight": 719
     },
     {
       "source": 0,
@@ -272,17 +272,17 @@
     {
       "source": 0,
       "target": 1,
-      "weight": 1307
+      "weight": 1309
     },
     {
       "source": 0,
       "target": 6,
-      "weight": 376
+      "weight": 377
     },
     {
       "source": 3,
       "target": 6,
-      "weight": 502
+      "weight": 503
     },
     {
       "source": 0,
@@ -307,7 +307,7 @@
     {
       "source": 1,
       "target": 7,
-      "weight": 446
+      "weight": 447
     },
     {
       "source": 0,
@@ -322,12 +322,12 @@
     {
       "source": 0,
       "target": 26,
-      "weight": 67
+      "weight": 68
     },
     {
       "source": 1,
       "target": 14,
-      "weight": 225
+      "weight": 226
     },
     {
       "source": 7,
@@ -362,7 +362,7 @@
     {
       "source": 1,
       "target": 3,
-      "weight": 414
+      "weight": 416
     },
     {
       "source": 0,
@@ -402,7 +402,7 @@
     {
       "source": 1,
       "target": 6,
-      "weight": 376
+      "weight": 378
     },
     {
       "source": 1,
@@ -882,12 +882,12 @@
     {
       "source": 3,
       "target": 5,
-      "weight": 135
+      "weight": 136
     },
     {
       "source": 5,
       "target": 14,
-      "weight": 59
+      "weight": 60
     },
     {
       "source": 1,
@@ -992,7 +992,7 @@
     {
       "source": 1,
       "target": 8,
-      "weight": 281
+      "weight": 282
     },
     {
       "source": 6,
@@ -1012,12 +1012,12 @@
     {
       "source": 1,
       "target": 2,
-      "weight": 280
+      "weight": 281
     },
     {
       "source": 3,
       "target": 8,
-      "weight": 87
+      "weight": 88
     },
     {
       "source": 8,
@@ -1037,7 +1037,7 @@
     {
       "source": 8,
       "target": 14,
-      "weight": 76
+      "weight": 77
     },
     {
       "source": 8,
@@ -1277,7 +1277,7 @@
     {
       "source": 1,
       "target": 17,
-      "weight": 115
+      "weight": 116
     },
     {
       "source": 4,
@@ -1287,7 +1287,7 @@
     {
       "source": 1,
       "target": 19,
-      "weight": 129
+      "weight": 130
     },
     {
       "source": 13,
@@ -1382,7 +1382,7 @@
     {
       "source": 2,
       "target": 7,
-      "weight": 268
+      "weight": 269
     },
     {
       "source": 1,
@@ -1427,7 +1427,7 @@
     {
       "source": 6,
       "target": 17,
-      "weight": 101
+      "weight": 102
     },
     {
       "source": 13,
@@ -1502,7 +1502,7 @@
     {
       "source": 3,
       "target": 19,
-      "weight": 56
+      "weight": 57
     },
     {
       "source": 7,
@@ -2215,6 +2215,11 @@
       "weight": 7
     },
     {
+      "source": 15,
+      "target": 36,
+      "weight": 2
+    },
+    {
       "source": 22,
       "target": 29,
       "weight": 2
@@ -2227,7 +2232,7 @@
   ],
   "stats": {
     "concepts": 42,
-    "edges": 394,
-    "papers": 21957
+    "edges": 395,
+    "papers": 21984
   }
 }

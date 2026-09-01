@@ -1,28 +1,28 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 394 edges, 1 components, 1 communities (modularity -1846.592). Edges = co-occurrence.
+**Generated:** 42 nodes, 395 edges, 1 components, 1 communities (modularity -1842.344). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1527, degree 38, df 3944
-- **Ai Adoption** — PR 0.0863, degree 18, df 4594
-- **survey** — PR 0.0822, degree 37, df 2079
-- **qualitative** — PR 0.0803, degree 37, df 1634
-- **quantitative** — PR 0.0785, degree 37, df 1671
-- **case study** — PR 0.0410, degree 38, df 870
-- **Digital Marketing** — PR 0.0405, degree 19, df 2348
-- **literature review** — PR 0.0393, degree 37, df 885
-- **dataset** — PR 0.0386, degree 35, df 924
-- **Entrepreneurship** — PR 0.0264, degree 16, df 1785
-- **Pricing Strategy** — PR 0.0225, degree 17, df 1712
-- **Business Models** — PR 0.0222, degree 17, df 1381
+- **framework** — PR 0.1527, degree 38, df 3950
+- **Ai Adoption** — PR 0.0864, degree 18, df 4600
+- **survey** — PR 0.0823, degree 37, df 2085
+- **qualitative** — PR 0.0803, degree 37, df 1635
+- **quantitative** — PR 0.0785, degree 37, df 1673
+- **case study** — PR 0.0410, degree 38, df 872
+- **Digital Marketing** — PR 0.0404, degree 19, df 2350
+- **literature review** — PR 0.0392, degree 37, df 885
+- **dataset** — PR 0.0385, degree 35, df 924
+- **Entrepreneurship** — PR 0.0264, degree 16, df 1788
+- **Pricing Strategy** — PR 0.0225, degree 17, df 1716
+- **Business Models** — PR 0.0222, degree 17, df 1383
 
 ## Bridge nodes (high betweenness — connect clusters)
 
 - framework
 - case study
-- qualitative
 - quantitative
+- qualitative
 - survey
 - literature review
 - dataset
